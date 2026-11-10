@@ -17,11 +17,13 @@ NUM = {k:'%02d'%(i+1) for i,(k,_,_) in enumerate(CATS)}
 NOTE = '收藏数为 2026-11-10 刷新的数据，之后会变化；人物简介中标 * 的内容来自公开常识，未在帖子或账号简介中核实。所有链接指向 x.com 原帖。'
 ORDER = [c[0] for c in CATS] + ['thariq']
 
-ICON_EXT = '<svg class="ic" viewBox="0 0 16 16" aria-hidden="true"><path d="M6 3h7v7M13 3 6.5 9.5M11 9.5V13H3V5h3.5" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg>'
-ICON_BM = '<svg class="ic" viewBox="0 0 16 16" aria-hidden="true"><path d="M4 2.5h8v11l-4-3-4 3z" fill="none" stroke="currentColor" stroke-width="1.4" stroke-linejoin="round"/></svg>'
-ICON_EYE = '<svg class="ic" viewBox="0 0 16 16" aria-hidden="true"><path d="M1.5 8S4 3.5 8 3.5 14.5 8 14.5 8 12 12.5 8 12.5 1.5 8 1.5 8z" fill="none" stroke="currentColor" stroke-width="1.4"/><circle cx="8" cy="8" r="2" fill="none" stroke="currentColor" stroke-width="1.4"/></svg>'
-ICON_SEARCH = '<svg class="ic" viewBox="0 0 16 16" aria-hidden="true"><circle cx="7" cy="7" r="4.5" fill="none" stroke="currentColor" stroke-width="1.5"/><path d="m10.5 10.5 3.5 3.5" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/></svg>'
-ICON_ARROW = '<svg class="ic" viewBox="0 0 16 16" aria-hidden="true"><path d="M3 8h10M9 4l4 4-4 4" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg>'
+import hashlib
+ASSET_V = hashlib.md5(open('style.css','rb').read()+open('site.js','rb').read()).hexdigest()[:8]
+ICON_EXT = '<svg class="ic" width="16" height="16" viewBox="0 0 16 16" aria-hidden="true"><path d="M6 3h7v7M13 3 6.5 9.5M11 9.5V13H3V5h3.5" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg>'
+ICON_BM = '<svg class="ic" width="16" height="16" viewBox="0 0 16 16" aria-hidden="true"><path d="M4 2.5h8v11l-4-3-4 3z" fill="none" stroke="currentColor" stroke-width="1.4" stroke-linejoin="round"/></svg>'
+ICON_EYE = '<svg class="ic" width="16" height="16" viewBox="0 0 16 16" aria-hidden="true"><path d="M1.5 8S4 3.5 8 3.5 14.5 8 14.5 8 12 12.5 8 12.5 1.5 8 1.5 8z" fill="none" stroke="currentColor" stroke-width="1.4"/><circle cx="8" cy="8" r="2" fill="none" stroke="currentColor" stroke-width="1.4"/></svg>'
+ICON_SEARCH = '<svg class="ic" width="16" height="16" viewBox="0 0 16 16" aria-hidden="true"><circle cx="7" cy="7" r="4.5" fill="none" stroke="currentColor" stroke-width="1.5"/><path d="m10.5 10.5 3.5 3.5" stroke="currentColor" stroke-width="1.5" stroke-linecap="round"/></svg>'
+ICON_ARROW = '<svg class="ic" width="16" height="16" viewBox="0 0 16 16" aria-hidden="true"><path d="M3 8h10M9 4l4 4-4 4" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg>'
 FAVICON = "data:image/svg+xml," + "%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='8' fill='%231c1a17'/%3E%3Ctext x='16' y='22' font-size='17' text-anchor='middle' fill='%23f6f1e7' font-family='serif'%3E读%3C/text%3E%3C/svg%3E"
 
 def slug(h): return h.lower()
@@ -44,7 +46,7 @@ def layout(title, body, active, desc='', cat=None):
 <html lang="zh-Hans"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
 <title>{e(title)}</title><meta name="description" content="{e(desc or title)}">
 <meta name="color-scheme" content="light dark"><link rel="icon" href="{FAVICON}">
-<link rel="stylesheet" href="/style.css"></head>
+<link rel="stylesheet" href="/style.css?v={ASSET_V}"></head>
 <body{bcls}><a class="skip" href="#main">跳到正文</a>
 <header class="top"><div class="wrap bar"><a class="brand" href="/"><span class="mark">读</span><span>X 上值得关注的人</span></a><nav class="nav" aria-label="主导航">{nav}</nav></div></header>
 <main id="main">
@@ -53,7 +55,7 @@ def layout(title, body, active, desc='', cat=None):
 <footer class="foot"><div class="wrap"><div class="fbrand"><span class="mark">读</span> X 上值得关注的人</div>
 <p>{e(NOTE)}</p><p>精选导读，仅摘要与链接，原文版权归作者所有。</p>
 <nav class="fnav" aria-label="页脚导航">{''.join(f'<a href="/{k}">{e(SHORT[k])}</a>' for k in ORDER)}<a href="/people">人物索引</a></nav></div></footer>
-<script src="/site.js" defer></script>
+<script src="/site.js?v={ASSET_V}" defer></script>
 </body></html>'''
 
 def parse_site(site):
