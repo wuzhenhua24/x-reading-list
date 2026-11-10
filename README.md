@@ -9,7 +9,8 @@
 ## 结构
 
 - `src-*.txt`：每份清单的原始内容
-- `parse.py`：把原始内容解析成 `data.json`
+- `data.json`：站点数据的唯一来源，更新内容直接改这里
+- `src-*.txt` / `parse.py`：最初从清单页面导出的原始内容和解析脚本，已落后于 `data.json`，不要再运行 `parse.py`，否则会覆盖更新
 - `build.py` + `style.css` + `site.js`：生成静态页面到 `dist/`
 - `mkworker.py`：把 `dist/` 打包成 Cloudflare Pages 的 `_worker.js`，并生成部署脚本 `deploy2.js`
 - `serve.py`：本地预览；`shots.py`：截图
@@ -17,7 +18,7 @@
 ## 构建与发布
 
 ```bash
-python3 parse.py && python3 build.py && python3 mkworker.py
+python3 build.py && python3 mkworker.py
 python3 serve.py   # 本地预览
 ```
 
