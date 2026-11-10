@@ -1,0 +1,172 @@
+<cursor_untrusted_data_1337 source="ReadCanvas">
+
+Canvas "X 上值得关注的人：创业、产品与商业" (https://cursor.com/canvas/store-761f6cd5-81b2-4bd2-8f66-bada0eceee08/baa95bec-ae99-405b-bc74-d5cf4807196c):
+
+import { Page, Section, Text, LinkCards, TableOfContents, NumberedList } from "grok/canvas";
+
+export default function App() {
+  return (
+    <Page
+      title="X 上值得关注的人：创业、产品与商业"
+      summary="8 位在 X 上持续输出创业、产品与商业洞见的人，以及他们 2026 年 3 月到 11 月初最值得一读的帖子。每条一句话讲清要点，点开即可看原帖。"
+      width="column"
+      lang="zh-Hans"
+    >
+      <TableOfContents
+        items={[
+          { label: "Paul Graham @paulg" },
+          { label: "Jason Fried @jasonfried" },
+          { label: "DHH @dhh" },
+          { label: "levelsio @levelsio" },
+          { label: "Patrick Collison @patrickc" },
+          { label: "Nikita Bier @nikitabier" },
+          { label: "Shreyas Doshi @shreyas" },
+          { label: "Lenny Rachitsky @lennysan" },
+          { label: "共同的主线" },
+        ]}
+      />
+
+      <Section heading="Paul Graham @paulg">
+        <Text>Y Combinator 联合创始人，写了几十年创业随笔。今年他反复说同一件事：AI 时代的创业基本功没变，好创始人和好执行才是胜负手。</Text>
+        <LinkCards
+          links={[
+            { title: "创业公司最大的威胁是你自己：死于执行不力的公司是被对手干掉的一百倍", site: "X 帖子 · 1614 收藏", date: "2026-06-12", href: "https://x.com/paulg/status/2065196968066846946" },
+            { title: "点子容易被抄不用怕，几乎所有点子起初都这样；它的价值在于引出的下一个点子", site: "X 帖子 · 3202 收藏", date: "2026-09-06", href: "https://x.com/paulg/status/2096387134768681471" },
+            { title: "最大的机会是 AI，但最被低估的可能是非 AI 点子，因为大家都会忽略它", site: "X 帖子 · 1857 收藏", date: "2026-04-24", href: "https://x.com/paulg/status/2047692744089313563" },
+            { title: "他在 office hours 加了一个新问题：这家公司能做到“抗 AI”吗？", site: "X 帖子 · 981 收藏", date: "2026-06-05", href: "https://x.com/paulg/status/2062579769951342785" },
+            { title: "融资轮不是里程碑：目标不该是拿到 A 轮，而是不需要 A 轮", site: "X 帖子 · 938 收藏", date: "2026-10-30", href: "https://x.com/paulg/status/2115977741808157030" },
+            { title: "AI 时代标准创业建议还适用多少？他的回答是：目前几乎全部适用", site: "X 帖子 · 321 收藏", date: "2026-10-14", href: "https://x.com/paulg/status/2110087363254690301" },
+            { title: "YC 单人创始人公司比例一年内从 9% 升到 18%", site: "X 帖子 · 454 收藏", date: "2026-08-15", href: "https://x.com/paulg/status/2088397041638773004" },
+            { title: "识别 AI 糟粕的办法：观点平平无奇，措辞却像在宣布重大发现", site: "X 帖子 · 988 收藏", date: "2026-07-22", href: "https://x.com/paulg/status/2079877240699940955" },
+          ]}
+        />
+      </Section>
+
+      <Section heading="Jason Fried @jasonfried">
+        <Text>37signals（Basecamp、HEY）联合创始人兼 CEO。他的核心主张一直是“少即是多”：做小、做精、赚钱、别过度。</Text>
+        <LinkCards
+          links={[
+            { title: "不信“AI 定制软件革命”：大多数人不喜欢电脑，只想让问题消失", site: "X 帖子 · 1583 收藏", date: "2026-03-21", href: "https://x.com/jasonfried/status/2035074613773050266" },
+            { title: "用 AI 炫耀发了多少软件，就像按住快门炫耀拍了多少张照片", site: "X 帖子 · 6000 赞", date: "2026-05-20", href: "https://x.com/jasonfried/status/2056971449961722202" },
+            { title: "企业该避免的是“过度”（Overkill），而不是复杂", site: "X 帖子", date: "2026-08-11", href: "https://x.com/jasonfried/status/2086903339430907943" },
+            { title: "最重要的问题是“你不做什么”", site: "X 帖子", date: "2026-03-11", href: "https://x.com/jasonfried/status/2031422281608737126" },
+            { title: "Basecamp 刻意不用“优先级”；完成 9/10 不等于 90% 进度", site: "X 帖子", date: "2026-07-24", href: "https://x.com/jasonfried/status/2080422324625678639" },
+            { title: "公开 37signals 的经理手册", site: "X 帖子 · 2973 收藏", date: "2026-08-13", href: "https://x.com/jasonfried/status/2087930318200377389" },
+            { title: "用利润分享代替期权，至今已分出 2400 万美元", site: "X 帖子", date: "2026-10-16", href: "https://x.com/jasonfried/status/2110780361638891951" },
+            { title: "利润大部分装进口袋，别年年再投入、加倍押注", site: "X 帖子", date: "2026-10-13", href: "https://x.com/jasonfried/status/2109809564900376823" },
+            { title: "他的早晨：5 分钟，不开会", site: "X 帖子", date: "2026-06-25", href: "https://x.com/jasonfried/status/2070170052268282316" },
+          ]}
+        />
+      </Section>
+
+      <Section heading="DHH @dhh">
+        <Text>Ruby on Rails 作者、37signals 联合创始人，今年把大量精力放在自己的 Linux 发行版 Omarchy 上。和搭档 Jason Fried 的克制不同，他在 AI 编程上是彻底的“全押派”，同时坚持下云省钱。</Text>
+        <LinkCards
+          links={[
+            { title: "下云账单：2023 年 AWS 等托管花了 393 万美元，2026 年降到约 100 万/年，此后每年省约 300 万", site: "X 帖子 · 1013 收藏", date: "2026-04-15", href: "https://x.com/dhh/status/2044441858063941980" },
+            { title: "放下笔吧：对多数公司的多数程序员来说，手写代码已不是经济上可行的技能，但做软件的未来从未如此光明", site: "X 帖子 · 6029 收藏", date: "2026-09-24", href: "https://x.com/dhh/status/2102936073642869121" },
+            { title: "真正被 AI 威胁的程序员，是坚持认为世界和去年没什么两样的人", site: "X 帖子 · 624 收藏", date: "2026-09-28", href: "https://x.com/dhh/status/2104532159511863688" },
+            { title: "你得真心在乎软件本身，才会对用 agent 做软件感到兴奋", site: "X 帖子 · 570 收藏", date: "2026-10-06", href: "https://x.com/dhh/status/2107423771090915775" },
+            { title: "讽刺的是，用好 agent 的功夫大多落在产品管理、项目管理和 QA 上", site: "X 帖子 · 183 收藏", date: "2026-10-06", href: "https://x.com/dhh/status/2107421772760936553" },
+            { title: "真正的“AI 精神病”是认为它只是又一个工具、每行代码都得人审", site: "X 帖子 · 749 收藏", date: "2026-10-30", href: "https://x.com/dhh/status/2116109588554498081" },
+            { title: "有了 agent，缺的应用都能重做，程序员用 Linux 的比例要陡增", site: "X 帖子 · 986 收藏", date: "2026-08-13", href: "https://x.com/dhh/status/2087586011224084808" },
+            { title: "Omarchy 是他职业生涯里增长最快的东西：Rails 有几年搭团队，它只有十二天", site: "X 帖子 · 1328 收藏", date: "2026-08-29", href: "https://x.com/dhh/status/2093401515977580644" },
+          ]}
+        />
+      </Section>
+
+      <Section heading="levelsio @levelsio">
+        <Text>Pieter Levels，独立开发者代表人物，一个人做 Nomad List、Photo AI 等产品。他公开收入、公开方法，主题是一个人加 AI 能走多远。</Text>
+        <LinkCards
+          links={[
+            { title: "“做软件最好的时代”？他说不对，是创造力最好的时代", site: "X 帖子", date: "2026-10-12", href: "https://x.com/levelsio/status/2109661633605738603" },
+            { title: "他正在抢占剩下的护城河", site: "X 帖子 · 4232 收藏", date: "2026-10-17", href: "https://x.com/levelsio/status/2111142856094265595" },
+            { title: "独立开发的门槛被抹平了，剩下的只有分发", site: "X 帖子", date: "2026-07-27", href: "https://x.com/levelsio/status/2081441046844657787" },
+            { title: "非技术的普通人，比工程师更快赚到收入", site: "X 帖子", date: "2026-05-23", href: "https://x.com/levelsio/status/2058196816877797888" },
+            { title: "年收入加投资收益破 1000 万美元，利润率 94.5%", site: "X 帖子 · 4029 收藏", date: "2026-09-23", href: "https://x.com/levelsio/status/2102739359715774665" },
+            { title: "回顾一生，项目成功率约 8%", site: "X 帖子", date: "2026-06-09", href: "https://x.com/levelsio/status/2064018530966684022" },
+            { title: "一年来只在 VPS 上用 Claude Code 写代码", site: "X 帖子 · 6796 收藏", date: "2026-06-28", href: "https://x.com/levelsio/status/2071162399864889705" },
+            { title: "导出所有银行 CSV，让 Claude Code 做支出看板", site: "X 帖子", date: "2026-08-11", href: "https://x.com/levelsio/status/2087205464987607371" },
+            { title: "很多 App 不再用了，需要就自己生成一个", site: "X 帖子", date: "2026-07-21", href: "https://x.com/levelsio/status/2079289397845938480" },
+          ]}
+        />
+      </Section>
+
+      <Section heading="Patrick Collison @patrickc">
+        <Text>Stripe 联合创始人兼 CEO，也是兴趣极广的读书人。他今年在想的是：个人 agent 进入经济后，软件和公司会变成什么样。</Text>
+        <LinkCards
+          links={[
+            { title: "个人 agent 进入经济的几点思考：公司是最早的超级智能；agent 会补贴产品质量", site: "X 帖子 · 1.26 万收藏", date: "2026-10-10", href: "https://x.com/patrickc/status/2108706907859116280" },
+            { title: "“液态软件”：给自用应用加一个改进输入框，agent 直接把改动实现", site: "X 帖子 · 3975 收藏", date: "2026-11-01", href: "https://x.com/patrickc/status/2116636967517798672" },
+            { title: "Stripe Press 的销售指南", site: "X 帖子", date: "2026-10-14", href: "https://x.com/patrickc/status/2110065299076907064" },
+            { title: "《卡拉马佐夫兄弟》书评：他并不喜欢", site: "X 帖子 · 5620 收藏", date: "2026-10-11", href: "https://x.com/patrickc/status/2109122600630952282" },
+            { title: "伯克利“最丑建筑”与对建筑学的反思", site: "X 帖子", date: "2026-10-25", href: "https://x.com/patrickc/status/2114133364869669105" },
+          ]}
+        />
+      </Section>
+
+      <Section heading="Nikita Bier @nikitabier">
+        <Text>做过爆款社交应用 tbh 和 Gas 的增长高手，曾任 X 产品负责人，8 月卸任转为顾问。他最擅长的是消费级产品的增长、分发与反作弊，近期也在谈 AI 对护城河的冲击。</Text>
+        <LinkCards
+          links={[
+            { title: "技术护城河基本结束了；想做持久的东西，只剩专有数据、网络效应和物理组件", site: "X 帖子 · 1.35 万收藏", date: "2026-10-12", href: "https://x.com/nikitabier/status/2109497987055640958" },
+            { title: "老牌软件高管不适应新产品：他们习惯交付确定性结果，而 AI 的价值来自概率性结果", site: "X 帖子 · 4883 收藏", date: "2026-09-21", href: "https://x.com/nikitabier/status/2101763620954894647" },
+            { title: "任何产品都能按个人需求定制：他“vibe 制造”了一扇带 Wi-Fi 锁的狗门，两周交货", site: "X 帖子 · 6534 收藏", date: "2026-10-03", href: "https://x.com/nikitabier/status/2106104189457952911" },
+            { title: "未来五年最重要的技术问题：建立让 agent 向服务方表明身份的通用标准", site: "X 帖子 · 2137 收藏", date: "2026-10-06", href: "https://x.com/nikitabier/status/2107157904168239416" },
+            { title: "曾以为 Threads 是 X 的生存威胁，后来发现它和 Bluesky 反倒成了 X 的“反滥用系统”", site: "X 帖子 · 2404 收藏", date: "2026-10-17", href: "https://x.com/nikitabier/status/2111281464742662307" },
+            { title: "反垃圾是永远的猫鼠游戏：每个方案只管 3 到 12 个月，要靠风险评分加高风险用户验证", site: "X 帖子 · 364 收藏", date: "2026-10-31", href: "https://x.com/nikitabier/status/2116246313914479047" },
+            { title: "每个社交空间默认都会衰败成垃圾内容，只有每小时拼命维护才能存活", site: "X 帖子 · 232 收藏", date: "2026-10-14", href: "https://x.com/nikitabier/status/2110049188142813692" },
+            { title: "卸任 X 产品负责人，转为顾问，“回归发帖人的本色”", site: "X 帖子 · 5900 收藏", date: "2026-08-06", href: "https://x.com/nikitabier/status/2085105586966827343" },
+          ]}
+        />
+      </Section>
+
+      <Section heading="Shreyas Doshi @shreyas">
+        <Text>前 Stripe、Twitter、Google 产品负责人，现在给创始人和高管做顾问与教练。他的主线是：产品的成败取决于判断力和思考质量，而不是流程和框架。</Text>
+        <LinkCards
+          links={[
+            { title: "长文《Get to the Core of the Thing》：“做宽还是做深”本身就是错的问题，问题的框定决定了讨论", site: "X 文章 · 1353 收藏", date: "2026-05-17", href: "https://x.com/shreyas/status/2055689118248763561" },
+            { title: "长文《On mid-career (dis)satisfaction》：中年职业满意度取决于能否应对“职业嫉妒”，而非履历好不好看", site: "X 文章 · 1686 收藏", date: "2026-06-01", href: "https://x.com/shreyas/status/2061140507884155145" },
+            { title: "长文《The Antithesis Principle》：聪明人看不到、智者看得到的“反面原则”", site: "X 文章 · 775 收藏", date: "2026-07-27", href: "https://x.com/shreyas/status/2081524543471153456" },
+            { title: "一年里变化很快：把自己定位为“执行者”的 PM，比“对产品成败负责”的 PM 难找工作得多", site: "X 帖子 · 189 收藏", date: "2026-10-09", href: "https://x.com/shreyas/status/2108301324102279535" },
+            { title: "聪明的产品人为何轻视营销与分发：身份认同、道德反感、标榜“只想服务用户”", site: "X 帖子 · 152 收藏", date: "2026-10-06", href: "https://x.com/shreyas/status/2107251952749080583" },
+            { title: "前 20% 的产品人不缺用户访谈，再多聊也没用，真正稀缺的是判断力", site: "X 帖子", date: "2026-10-14", href: "https://x.com/shreyas/status/2110393175525454315" },
+            { title: "用 AI 起草方案没问题，没想透才是问题", site: "X 帖子 · 116 收藏", date: "2026-03-18", href: "https://x.com/shreyas/status/2034292651261120865" },
+            { title: "B2B 客户根本不想解决自己遇到的每一个问题", site: "X 帖子 · 172 收藏", date: "2026-06-13", href: "https://x.com/shreyas/status/2065500697203003777" },
+          ]}
+        />
+      </Section>
+
+      <Section heading="Lenny Rachitsky @lennysan">
+        <Text>前 Airbnb 产品负责人，现在运营全球最大的产品通讯和播客之一。他的“我最大的收获”系列，把顶级产品人和创始人的访谈压缩成几条要点，是了解一线公司 AI 时代怎么干活的捷径。</Text>
+        <LinkCards
+          links={[
+            { title: "Anthropic 增长负责人：AI 杠杆最大的是工程，5 人团队顶 15 到 20 人，PM 和设计被挤压", site: "X 帖子 · 2369 收藏", date: "2026-04-06", href: "https://x.com/lennysan/status/2041166073794592926" },
+            { title: "Keith Rabois：你搭的团队就是你造的公司；要靠挖掘未被发现的人才对抗巨头", site: "X 帖子 · 1303 收藏", date: "2026-04-14", href: "https://x.com/lennysan/status/2043777033017405547" },
+            { title: "Evan Spiegel：消费品最大的瓶颈是分发而不是产品，自然发现的时代基本结束", site: "X 帖子 · 737 收藏", date: "2026-04-27", href: "https://x.com/lennysan/status/2048785387376771375" },
+            { title: "OpenAI 设计负责人：设计师是如今科技界最不开心的人", site: "X 帖子 · 1192 收藏", date: "2026-08-17", href: "https://x.com/lennysan/status/2089355411443118390" },
+            { title: "Google Labs 负责人：好点子几乎从不来自头脑风暴，而来自一小群停不下来的执着者", site: "X 帖子 · 886 收藏", date: "2026-10-12", href: "https://x.com/lennysan/status/2109645848024064340" },
+            { title: "科技从业者调查：最大的恐惧不是被 AI 取代，而是同样的钱要干更多的活", site: "X 帖子 · 72 收藏", date: "2026-07-14", href: "https://x.com/lennysan/status/2076706102516031586" },
+            { title: "和 Rob Snyder 的 86 分钟找到 PMF 指南", site: "X 帖子 · 1152 收藏", date: "2026-10-26", href: "https://x.com/lennysan/status/2114440459024269612" },
+            { title: "众包问答：哪件 250 美元以下的东西真正改善了你的生活？", site: "X 帖子 · 2.6 万收藏", date: "2026-10-23", href: "https://x.com/lennysan/status/2113661154480562531" },
+          ]}
+        />
+      </Section>
+
+      <Section heading="共同的主线">
+        <NumberedList
+          items={[
+            "反对拼数量：Jason Fried 嘲笑用 AI 炫耀发版数量，Paul Graham 说融资轮不是里程碑，Shreyas 说再多访谈也替代不了判断力。",
+            "质量与分发：levelsio、Nikita 和 Evan Spiegel（经 Lenny）都认为产品门槛被抹平后，难的是分发；Shreyas 提醒爱做产品的人常常看轻它。",
+            "AI 冲击软件生意：DHH 宣布手写代码时代结束，Nikita 说技术护城河基本消失，Patrick Collison 畅想“液态软件”，Paul Graham 则开始问“这家公司抗 AI 吗”。",
+            "同一家公司里的两种声音：37signals 的 Jason Fried 对 AI 定制软件持怀疑，搭档 DHH 却全押 agent，值得对照着读。",
+            "小而赚钱：Jason Fried 的利润分享、DHH 的下云省钱、levelsio 94.5% 的利润率，都在说“少即是多”在商业上也成立。",
+          ]}
+        />
+      </Section>
+    </Page>
+  );
+}
+
+
+</cursor_untrusted_data_1337>

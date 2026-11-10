@@ -1,0 +1,138 @@
+<cursor_untrusted_data_1337 source="ReadCanvas">
+
+Canvas "X 上值得关注的人：思维方式、投资与写作" (https://cursor.com/canvas/store-761f6cd5-81b2-4bd2-8f66-bada0eceee08/0a1f3247-4cfb-415f-abdc-5113edfdf73c):
+
+import { Page, Section, Text, LinkCards, TableOfContents, NumberedList } from "grok/canvas";
+
+export default function App() {
+  return (
+    <Page
+      title="X 上值得关注的人：思维方式、投资与写作"
+      summary="6 位在 X 上持续输出思维方式、投资与写作洞见的人，以及他们 2026 年 1 月到 11 月初最值得一读的帖子。每条一句话讲清要点，收藏数为 11 月 2 日抓取时的数据，点开即可看原帖。"
+      width="column"
+      lang="zh-Hans"
+    >
+      <TableOfContents
+        items={[
+          { label: "George Mack @george__mack" },
+          { label: "Naval @naval" },
+          { label: "Morgan Housel @morganhousel" },
+          { label: "Shane Parrish @ShaneParrish" },
+          { label: "David Perell @david_perell" },
+          { label: "Packy McCormick @packyM" },
+          { label: "共同的主线" },
+        ]}
+      />
+
+      <Text>简介里标 * 的事实来自公开常识，没有在本次读到的帖子或账号简介中核实；其余来自他们的 X 简介或帖子本身。</Text>
+
+      <Section heading="George Mack @george__mack">
+        <Text>英国作者，长文《High Agency》（高能动性）的作者，X 简介写着“能动性可能是 21 世纪最重要的性格特质”。今年他一年只写几篇长文，用历史故事讲清思维模型，几乎每篇都被大量收藏。</Text>
+        <LinkCards
+          links={[
+            { title: "Janet 定律：5 岁时一年占人生 20%，50 岁时只占 2%；多做新鲜事、积累“记忆红利”，时间就会变慢", site: "X 帖子 · 1.3 万收藏", date: "2026-02-23", href: "https://x.com/george__mack/status/2025664907581304993" },
+            { title: "一张图讲“高能动性三角”，引用的帖子把高能动性定义为足智多谋、锲而不舍和韧性的组合", site: "X 帖子 · 9629 收藏", date: "2026-05-17", href: "https://x.com/george__mack/status/2055769353300095320" },
+            { title: "长文《How to solve any problem》：把波普尔的科学方法简化为“猜测、检验、纠错”的循环，卡住时总是少了其中一环", site: "X 文章 · 2519 收藏", date: "2026-02-17", href: "https://x.com/george__mack/status/2023555289329312011" },
+            { title: "长文《Why time speeds up as you age》：从失忆症患者 Henry Molaison 讲起，区分钟表时间、体验时间和记忆时间", site: "X 文章 · 2005 收藏", date: "2026-02-28", href: "https://x.com/george__mack/status/2027481677836976414" },
+            { title: "你总在忽视非线性的决定：住哪座城、招谁、怎么介绍自己、谈薪，这些值得多想 10 倍，大多数人却只花几分钟", site: "X 帖子 · 1632 收藏", date: "2026-01-23", href: "https://x.com/george__mack/status/2014441227513692218" },
+            { title: "20 多岁时的错误：低估专注的复利，一件事做 60 小时的结果可能是两件事各做 30 小时的 5 到 1000 倍", site: "X 帖子 · 424 收藏", date: "2026-06-18", href: "https://x.com/george__mack/status/2067621973417513407" },
+            { title: "幂律的一课：写了 7 个月的《High Agency》一年后每月仍有约 20 万读者，比他过去 10 年其他内容加起来多 100 倍；在 AI 垃圾内容军备竞赛里，慢工出细活反而占优", site: "X 帖子 · 307 收藏", date: "2026-05-29", href: "https://x.com/george__mack/status/2060154109974679825" },
+            { title: "过度思考的三重悲剧：大部分想法不新、不真，而且都是关于你自己", site: "X 帖子 · 416 收藏", date: "2026-08-13", href: "https://x.com/george__mack/status/2087580621665390874" },
+          ]}
+        />
+      </Section>
+
+      <Section heading="Naval @naval">
+        <Text>AngelList 联合创始人*、知名天使投资人*，X 简介只有一个词“Incompressible”。今年他的播客和帖子集中在 AI 怎样改变软件、杠杆与个人财富，收藏数是这一组人里最高的。</Text>
+        <LinkCards
+          links={[
+            { title: "AI 播客《A Motorcycle for the Mind》：想学就去做；vibe coding 是新的产品管理；训练模型是新的编程；平庸没有需求", site: "X 帖子 · 2.21 万收藏", date: "2026-02-20", href: "https://x.com/naval/status/2024700227111047581" },
+            { title: "他推荐的 AI 播客：前 Nvidia 工程师 Neil Movva 讲推理，从软件、芯片到电力，“讲解异常清楚”（他本人没有参与）", site: "X 帖子 · 2.02 万收藏", date: "2026-08-26", href: "https://x.com/naval/status/2092578563878981714" },
+            { title: "回头看时，你会希望自己每件事都选了长期版本", site: "X 帖子 · 1.19 万收藏", date: "2026-09-30", href: "https://x.com/naval/status/2105231982309564765" },
+            { title: "销售播客《Sell the Truth》：可信、“是的，而且”、魅力等于自信加爱、领导而非管理", site: "X 帖子 · 9128 收藏", date: "2026-05-12", href: "https://x.com/naval/status/2054039878351159504" },
+            { title: "传统软件工程死了吗？完全没有：工程师懂底层，能补上 AI 写代码时的抽象泄漏，是地球上杠杆最高的人之一", site: "X 帖子 · 5783 收藏", date: "2026-03-02", href: "https://x.com/naval/status/2028314493206585471" },
+            { title: "Vibe coding 是新的产品管理：用英语描述应用、让 agent 规划和搭建，从品味直接走到产品", site: "X 帖子 · 4609 收藏", date: "2026-02-24", href: "https://x.com/naval/status/2026058635718398029" },
+            { title: "模型是软件最后的护城河：AI 能重写文章、反编译软件，但它自己不想被“蒸馏”，更多软件会退回服务器端", site: "X 帖子 · 2872 收藏", date: "2026-10-07", href: "https://x.com/naval/status/2107648710918410670" },
+            { title: "智力和才能不是正态分布，杠杆放大差距：不是富人越来越富，而是“聪明、有杠杆、高能动性”的人越来越富", site: "X 帖子 · 2061 收藏", date: "2026-02-12", href: "https://x.com/naval/status/2021834914371711289" },
+          ]}
+        />
+      </Section>
+
+      <Section heading="Morgan Housel @morganhousel">
+        <Text>《金钱心理学》作者*，X 简介写着 Collaborative Fund 合伙人、Markel Group 董事。今年他把主要精力放在“The Psychology of Money”播客上，X 上多是一句话的金句和对预测的怀疑。</Text>
+        <LinkCards
+          links={[
+            { title: "他引用的一句话：最值得学的数学，是算出当前决定的未来成本", site: "X 帖子 · 2502 收藏", date: "2026-07-16", href: "https://x.com/morganhousel/status/2077426472567050743" },
+            { title: "一句关于怀旧的俄罗斯谚语：过去比未来更难预测", site: "X 帖子 · 1018 收藏", date: "2026-07-09", href: "https://x.com/morganhousel/status/2074986058840997963" },
+            { title: "播客：最难的理财技能", site: "X 帖子 · 993 收藏", date: "2026-10-30", href: "https://x.com/morganhousel/status/2116194373142782345" },
+            { title: "文章《Long-Term Money》：关于代际进步和被宠坏的孩子", site: "X 帖子 · 786 收藏", date: "2026-04-04", href: "https://x.com/morganhousel/status/2040097078031139314" },
+            { title: "AI 乐观与等待之苦：多数预测不是极度乐观就是极度悲观，很少有人考虑十年后只是所有企业效率高了 20% 到 30%、生活照常", site: "X 帖子 · 101 收藏", date: "2026-09-12", href: "https://x.com/morganhousel/status/2098451357716148674" },
+            { title: "意外冲击发生时，人们对预测的需求最大，而那恰恰是预测最不准的时候", site: "X 帖子 · 91 收藏 · 1232 赞", date: "2026-03-10", href: "https://x.com/morganhousel/status/2031050762927903024" },
+            { title: "接下来不是向客户多收费的好时代，很多摩擦和低效即将消失", site: "X 帖子 · 84 收藏", date: "2026-02-27", href: "https://x.com/morganhousel/status/2027051768753066043" },
+            { title: "“小心你和谁来往”：你觉得自己多富有，很大程度取决于住在哪里、和谁交往", site: "X 帖子 · 308 收藏", date: "2026-08-21", href: "https://x.com/morganhousel/status/2090797752074846331" },
+          ]}
+        />
+      </Section>
+
+      <Section heading="Shane Parrish @ShaneParrish">
+        <Text>Farnam Street 博客创始人*，主持播客 The Knowledge Project（X 简介写着 @tkppodcast），以研究芒格式的心智模型和决策著称*。注意他的账号是 @ShaneParrish，@ShaneAParrish 不存在。他的帖子多是把访谈压缩成几条“Tiny Lessons”。</Text>
+        <LinkCards
+          links={[
+            { title: "和 Morgan Housel 对谈的 26 条小结：财富等于你拥有的减去你想要的；钱买到的是更少的坏日子，而不是更多的好日子", site: "X 帖子 · 1930 收藏", date: "2026-01-26", href: "https://x.com/ShaneParrish/status/2015458026413560012" },
+            { title: "和 James Clear 对谈的小结：每个行动都是为你想成为的人投一票；你无法比在做更好事情的人更努力", site: "X 帖子 · 1836 收藏", date: "2026-01-04", href: "https://x.com/ShaneParrish/status/2007826067029905519" },
+            { title: "Ryan Serhant：别按过去的自己行事，按你将要成为的人行事", site: "X 帖子 · 1904 收藏", date: "2026-10-16", href: "https://x.com/ShaneParrish/status/2111104340278857868" },
+            { title: "和 Bill Gurley 谈系统思维、心智模型、了解行业底层逻辑以及 AI 的未来", site: "X 帖子 · 1062 收藏", date: "2026-06-09", href: "https://x.com/ShaneParrish/status/2064312890572611622" },
+            { title: "也许没有比这更好的销售洞见：人们不想被推销，但喜欢购物", site: "X 帖子 · 716 收藏", date: "2026-10-16", href: "https://x.com/ShaneParrish/status/2110854840649736467" },
+            { title: "行动产生的信息，正是不行动时一直在等的信息", site: "X 帖子 · 413 收藏", date: "2026-10-29", href: "https://x.com/ShaneParrish/status/2115482529792672059" },
+            { title: "Harvey 联合创始人 Winston Weinberg：接受会议前先写一段为什么要去，写不下去就说明不值得", site: "X 帖子 · 361 收藏", date: "2026-05-16", href: "https://x.com/ShaneParrish/status/2055621735320273247" },
+            { title: "Weinberg 访谈小结：慢决定比错决定更让人后悔；做决定的人拿钱，只执行的人在和 AI 竞争", site: "X 帖子 · 196 收藏", date: "2026-05-18", href: "https://x.com/ShaneParrish/status/2056351152002724127" },
+          ]}
+        />
+      </Section>
+
+      <Section heading="David Perell @david_perell">
+        <Text>自称“The Writing Guy”，主持播客 How I Write，曾创办线上写作课 Write of Passage*。今年几乎每周一位顶级作者访谈，加上对日常生活中美感衰退的观察；不少嘉宾明确反对用 AI 代写。</Text>
+        <LinkCards
+          links={[
+            { title: "R.F. Kuang：写作当下的感觉好坏与成品质量无关，别用写得爽不爽评价一天的工作；要像调色一样混合情绪", site: "X 帖子 · 3221 收藏", date: "2026-09-03", href: "https://x.com/david_perell/status/2095207469886718046" },
+            { title: "日常之美的衰退：古根海姆博物馆的门票只剩最省钱的设计，效率赢了个性与工艺", site: "X 帖子 · 1417 收藏", date: "2026-08-27", href: "https://x.com/david_perell/status/2092732617028472987" },
+            { title: "Wright Thompson：一个好细节胜过 50 句烂句子；说一篇稿子写得过头，其实是采访不足", site: "X 帖子 · 963 收藏", date: "2026-04-02", href: "https://x.com/david_perell/status/2039459448238805166" },
+            { title: "Pixar 导演 Andrew Stanton 把每部电影压成一句话，《海底总动员》是“恐惧让好父亲无法成为好父亲”", site: "X 帖子 · 932 收藏", date: "2026-06-25", href: "https://x.com/david_perell/status/2069882009921421553" },
+            { title: "Lee Child 从不列大纲，因为读过几万本书，脑中已有情节和结构的“巨型数据库”", site: "X 帖子 · 648 收藏", date: "2026-02-06", href: "https://x.com/david_perell/status/2019453454624641407" },
+            { title: "Ocean Vuong 的“反 AI 写作”对谈：写作的 80% 是观察和思考，最后才是句法", site: "X 帖子 · 511 收藏", date: "2026-03-25", href: "https://x.com/david_perell/status/2036791992693260308" },
+            { title: "Michael Pollan：写作是思考而不只是表达，交给机器就失去了生成想法的过程", site: "X 帖子 · 42 收藏", date: "2026-06-23", href: "https://x.com/david_perell/status/2069416954289389755" },
+            { title: "我们的孩子读东西时会先问是不是 2023 年前写的，那是最后一年能确定文字出自人手", site: "X 帖子 · 36 收藏", date: "2026-08-25", href: "https://x.com/david_perell/status/2092244723670876425" },
+          ]}
+        />
+      </Section>
+
+      <Section heading="Packy McCormick @packyM">
+        <Text>科技与商业通讯 Not Boring 的作者，也做投资*。他的 X 日常多是推广和闲聊，价值集中在几篇长文：AI 时代谁能拿到权力、风投结构怎么变、机器人和能源怎么发展。适合作为选读。</Text>
+        <LinkCards
+          links={[
+            { title: "长文《Power in the Age of Intelligence》：与其问软件护城河，不如问谁最能利用变得充裕的投入；赢家拿走更多，用来解释 Stripe 与 Adyen、Ramp 与 Brex 的估值差距", site: "X 文章 · 958 收藏", date: "2026-02-18", href: "https://x.com/packyM/status/2024114991666794943" },
+            { title: "过去一年最受欢迎的三篇：4 万字的电力技术栈、1.6 万字的 a16z、一场谈人生意义的演讲", site: "X 帖子 · 747 收藏", date: "2026-07-26", href: "https://x.com/packyM/status/2081384528640201183" },
+            { title: "关于风投的辛辣看法：持股比例和组合构建被高估，因为容易衡量；管理人和策略是否匹配更重要", site: "X 帖子 · 212 收藏", date: "2026-04-29", href: "https://x.com/packyM/status/2049471006075478272" },
+            { title: "推出付费版 not boring world：请一线实践者把最好的想法写成文章，赌的是“想法就该写下来”", site: "X 帖子 · 189 收藏", date: "2026-01-06", href: "https://x.com/packyM/status/2008551637569212758" },
+            { title: "机器人不会一步飞跃，而是小步前进：瓶颈在数据，最好的策略是边干活收钱边收集数据", site: "X 帖子 · 101 收藏", date: "2026-01-16", href: "https://x.com/packyM/status/2012163997152198813" },
+          ]}
+        />
+      </Section>
+
+      <Section heading="共同的主线">
+        <NumberedList
+          items={[
+            "长期主义压倒短期：Naval 说你会希望每件事都选了长期版本，Housel 引用“算出当前决定的未来成本”，George Mack 一篇写了 7 个月的长文每月仍有约 20 万读者。",
+            "先行动、再纠错：Mack 的“猜测、检验、纠错”循环，Shane 的“行动产生不行动所等待的信息”，以及 Weinberg 的“慢决定比错决定更让人后悔”，说的是同一件事。",
+            "写作就是思考，AI 代替不了：Pollan、Ocean Vuong 和 Perell 都反对把写作交给机器；Mack 认为垃圾内容军备竞赛反而让慢工细活更值钱；Packy 押注“想法就该写下来”。",
+            "AI 改写软件和权力格局，但别过度预测：Naval 说 vibe coding 是新的产品管理、模型是最后的护城河，Packy 说赢家拿走更多；Housel 提醒十年后也许只是效率高了 20% 到 30%、生活照常。",
+            "注意力和时间是真正的复利：Mack 讲专注的复利和 Janet 定律，Housel 说“财富是拥有的减去想要的”（经 Shane 整理），Lee Child 靠几万本书的积累不列大纲。",
+          ]}
+        />
+      </Section>
+    </Page>
+  );
+}
+
+
+</cursor_untrusted_data_1337>

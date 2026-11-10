@@ -1,0 +1,2691 @@
+{
+ "business": {
+  "title": "X 上值得关注的人：创业、产品与商业",
+  "summary": "8 位在 X 上持续输出创业、产品与商业洞见的人，以及他们 2026 年 3 月到 11 月初最值得一读的帖子。每条一句话讲清要点，点开即可看原帖。",
+  "notes": [],
+  "sections": [
+   {
+    "heading": "Paul Graham @paulg",
+    "name": "Paul Graham",
+    "handle": "paulg",
+    "blocks": [
+     {
+      "type": "text",
+      "text": "Y Combinator 联合创始人，写了几十年创业随笔。今年他反复说同一件事：AI 时代的创业基本功没变，好创始人和好执行才是胜负手。"
+     },
+     {
+      "type": "links",
+      "numbered": false,
+      "links": [
+       {
+        "title": "创业公司最大的威胁是你自己：死于执行不力的公司是被对手干掉的一百倍",
+        "site": "X 帖子 · 1614 收藏",
+        "date": "2026-06-12",
+        "href": "https://x.com/paulg/status/2065196968066846946"
+       },
+       {
+        "title": "点子容易被抄不用怕，几乎所有点子起初都这样；它的价值在于引出的下一个点子",
+        "site": "X 帖子 · 3202 收藏",
+        "date": "2026-09-06",
+        "href": "https://x.com/paulg/status/2096387134768681471"
+       },
+       {
+        "title": "最大的机会是 AI，但最被低估的可能是非 AI 点子，因为大家都会忽略它",
+        "site": "X 帖子 · 1857 收藏",
+        "date": "2026-04-24",
+        "href": "https://x.com/paulg/status/2047692744089313563"
+       },
+       {
+        "title": "他在 office hours 加了一个新问题：这家公司能做到“抗 AI”吗？",
+        "site": "X 帖子 · 981 收藏",
+        "date": "2026-06-05",
+        "href": "https://x.com/paulg/status/2062579769951342785"
+       },
+       {
+        "title": "融资轮不是里程碑：目标不该是拿到 A 轮，而是不需要 A 轮",
+        "site": "X 帖子 · 938 收藏",
+        "date": "2026-10-30",
+        "href": "https://x.com/paulg/status/2115977741808157030"
+       },
+       {
+        "title": "AI 时代标准创业建议还适用多少？他的回答是：目前几乎全部适用",
+        "site": "X 帖子 · 321 收藏",
+        "date": "2026-10-14",
+        "href": "https://x.com/paulg/status/2110087363254690301"
+       },
+       {
+        "title": "YC 单人创始人公司比例一年内从 9% 升到 18%",
+        "site": "X 帖子 · 454 收藏",
+        "date": "2026-08-15",
+        "href": "https://x.com/paulg/status/2088397041638773004"
+       },
+       {
+        "title": "识别 AI 糟粕的办法：观点平平无奇，措辞却像在宣布重大发现",
+        "site": "X 帖子 · 988 收藏",
+        "date": "2026-07-22",
+        "href": "https://x.com/paulg/status/2079877240699940955"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "heading": "Jason Fried @jasonfried",
+    "name": "Jason Fried",
+    "handle": "jasonfried",
+    "blocks": [
+     {
+      "type": "text",
+      "text": "37signals（Basecamp、HEY）联合创始人兼 CEO。他的核心主张一直是“少即是多”：做小、做精、赚钱、别过度。"
+     },
+     {
+      "type": "links",
+      "numbered": false,
+      "links": [
+       {
+        "title": "不信“AI 定制软件革命”：大多数人不喜欢电脑，只想让问题消失",
+        "site": "X 帖子 · 1583 收藏",
+        "date": "2026-03-21",
+        "href": "https://x.com/jasonfried/status/2035074613773050266"
+       },
+       {
+        "title": "用 AI 炫耀发了多少软件，就像按住快门炫耀拍了多少张照片",
+        "site": "X 帖子 · 6000 赞",
+        "date": "2026-05-20",
+        "href": "https://x.com/jasonfried/status/2056971449961722202"
+       },
+       {
+        "title": "企业该避免的是“过度”（Overkill），而不是复杂",
+        "site": "X 帖子",
+        "date": "2026-08-11",
+        "href": "https://x.com/jasonfried/status/2086903339430907943"
+       },
+       {
+        "title": "最重要的问题是“你不做什么”",
+        "site": "X 帖子",
+        "date": "2026-03-11",
+        "href": "https://x.com/jasonfried/status/2031422281608737126"
+       },
+       {
+        "title": "Basecamp 刻意不用“优先级”；完成 9/10 不等于 90% 进度",
+        "site": "X 帖子",
+        "date": "2026-07-24",
+        "href": "https://x.com/jasonfried/status/2080422324625678639"
+       },
+       {
+        "title": "公开 37signals 的经理手册",
+        "site": "X 帖子 · 2973 收藏",
+        "date": "2026-08-13",
+        "href": "https://x.com/jasonfried/status/2087930318200377389"
+       },
+       {
+        "title": "用利润分享代替期权，至今已分出 2400 万美元",
+        "site": "X 帖子",
+        "date": "2026-10-16",
+        "href": "https://x.com/jasonfried/status/2110780361638891951"
+       },
+       {
+        "title": "利润大部分装进口袋，别年年再投入、加倍押注",
+        "site": "X 帖子",
+        "date": "2026-10-13",
+        "href": "https://x.com/jasonfried/status/2109809564900376823"
+       },
+       {
+        "title": "他的早晨：5 分钟，不开会",
+        "site": "X 帖子",
+        "date": "2026-06-25",
+        "href": "https://x.com/jasonfried/status/2070170052268282316"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "heading": "DHH @dhh",
+    "name": "DHH",
+    "handle": "dhh",
+    "blocks": [
+     {
+      "type": "text",
+      "text": "Ruby on Rails 作者、37signals 联合创始人，今年把大量精力放在自己的 Linux 发行版 Omarchy 上。和搭档 Jason Fried 的克制不同，他在 AI 编程上是彻底的“全押派”，同时坚持下云省钱。"
+     },
+     {
+      "type": "links",
+      "numbered": false,
+      "links": [
+       {
+        "title": "下云账单：2023 年 AWS 等托管花了 393 万美元，2026 年降到约 100 万/年，此后每年省约 300 万",
+        "site": "X 帖子 · 1013 收藏",
+        "date": "2026-04-15",
+        "href": "https://x.com/dhh/status/2044441858063941980"
+       },
+       {
+        "title": "放下笔吧：对多数公司的多数程序员来说，手写代码已不是经济上可行的技能，但做软件的未来从未如此光明",
+        "site": "X 帖子 · 6029 收藏",
+        "date": "2026-09-24",
+        "href": "https://x.com/dhh/status/2102936073642869121"
+       },
+       {
+        "title": "真正被 AI 威胁的程序员，是坚持认为世界和去年没什么两样的人",
+        "site": "X 帖子 · 624 收藏",
+        "date": "2026-09-28",
+        "href": "https://x.com/dhh/status/2104532159511863688"
+       },
+       {
+        "title": "你得真心在乎软件本身，才会对用 agent 做软件感到兴奋",
+        "site": "X 帖子 · 570 收藏",
+        "date": "2026-10-06",
+        "href": "https://x.com/dhh/status/2107423771090915775"
+       },
+       {
+        "title": "讽刺的是，用好 agent 的功夫大多落在产品管理、项目管理和 QA 上",
+        "site": "X 帖子 · 183 收藏",
+        "date": "2026-10-06",
+        "href": "https://x.com/dhh/status/2107421772760936553"
+       },
+       {
+        "title": "真正的“AI 精神病”是认为它只是又一个工具、每行代码都得人审",
+        "site": "X 帖子 · 749 收藏",
+        "date": "2026-10-30",
+        "href": "https://x.com/dhh/status/2116109588554498081"
+       },
+       {
+        "title": "有了 agent，缺的应用都能重做，程序员用 Linux 的比例要陡增",
+        "site": "X 帖子 · 986 收藏",
+        "date": "2026-08-13",
+        "href": "https://x.com/dhh/status/2087586011224084808"
+       },
+       {
+        "title": "Omarchy 是他职业生涯里增长最快的东西：Rails 有几年搭团队，它只有十二天",
+        "site": "X 帖子 · 1328 收藏",
+        "date": "2026-08-29",
+        "href": "https://x.com/dhh/status/2093401515977580644"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "heading": "levelsio @levelsio",
+    "name": "levelsio",
+    "handle": "levelsio",
+    "blocks": [
+     {
+      "type": "text",
+      "text": "Pieter Levels，独立开发者代表人物，一个人做 Nomad List、Photo AI 等产品。他公开收入、公开方法，主题是一个人加 AI 能走多远。"
+     },
+     {
+      "type": "links",
+      "numbered": false,
+      "links": [
+       {
+        "title": "“做软件最好的时代”？他说不对，是创造力最好的时代",
+        "site": "X 帖子",
+        "date": "2026-10-12",
+        "href": "https://x.com/levelsio/status/2109661633605738603"
+       },
+       {
+        "title": "他正在抢占剩下的护城河",
+        "site": "X 帖子 · 4232 收藏",
+        "date": "2026-10-17",
+        "href": "https://x.com/levelsio/status/2111142856094265595"
+       },
+       {
+        "title": "独立开发的门槛被抹平了，剩下的只有分发",
+        "site": "X 帖子",
+        "date": "2026-07-27",
+        "href": "https://x.com/levelsio/status/2081441046844657787"
+       },
+       {
+        "title": "非技术的普通人，比工程师更快赚到收入",
+        "site": "X 帖子",
+        "date": "2026-05-23",
+        "href": "https://x.com/levelsio/status/2058196816877797888"
+       },
+       {
+        "title": "年收入加投资收益破 1000 万美元，利润率 94.5%",
+        "site": "X 帖子 · 4029 收藏",
+        "date": "2026-09-23",
+        "href": "https://x.com/levelsio/status/2102739359715774665"
+       },
+       {
+        "title": "回顾一生，项目成功率约 8%",
+        "site": "X 帖子",
+        "date": "2026-06-09",
+        "href": "https://x.com/levelsio/status/2064018530966684022"
+       },
+       {
+        "title": "一年来只在 VPS 上用 Claude Code 写代码",
+        "site": "X 帖子 · 6796 收藏",
+        "date": "2026-06-28",
+        "href": "https://x.com/levelsio/status/2071162399864889705"
+       },
+       {
+        "title": "导出所有银行 CSV，让 Claude Code 做支出看板",
+        "site": "X 帖子",
+        "date": "2026-08-11",
+        "href": "https://x.com/levelsio/status/2087205464987607371"
+       },
+       {
+        "title": "很多 App 不再用了，需要就自己生成一个",
+        "site": "X 帖子",
+        "date": "2026-07-21",
+        "href": "https://x.com/levelsio/status/2079289397845938480"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "heading": "Patrick Collison @patrickc",
+    "name": "Patrick Collison",
+    "handle": "patrickc",
+    "blocks": [
+     {
+      "type": "text",
+      "text": "Stripe 联合创始人兼 CEO，也是兴趣极广的读书人。他今年在想的是：个人 agent 进入经济后，软件和公司会变成什么样。"
+     },
+     {
+      "type": "links",
+      "numbered": false,
+      "links": [
+       {
+        "title": "个人 agent 进入经济的几点思考：公司是最早的超级智能；agent 会补贴产品质量",
+        "site": "X 帖子 · 1.26 万收藏",
+        "date": "2026-10-10",
+        "href": "https://x.com/patrickc/status/2108706907859116280"
+       },
+       {
+        "title": "“液态软件”：给自用应用加一个改进输入框，agent 直接把改动实现",
+        "site": "X 帖子 · 3975 收藏",
+        "date": "2026-11-01",
+        "href": "https://x.com/patrickc/status/2116636967517798672"
+       },
+       {
+        "title": "Stripe Press 的销售指南",
+        "site": "X 帖子",
+        "date": "2026-10-14",
+        "href": "https://x.com/patrickc/status/2110065299076907064"
+       },
+       {
+        "title": "《卡拉马佐夫兄弟》书评：他并不喜欢",
+        "site": "X 帖子 · 5620 收藏",
+        "date": "2026-10-11",
+        "href": "https://x.com/patrickc/status/2109122600630952282"
+       },
+       {
+        "title": "伯克利“最丑建筑”与对建筑学的反思",
+        "site": "X 帖子",
+        "date": "2026-10-25",
+        "href": "https://x.com/patrickc/status/2114133364869669105"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "heading": "Nikita Bier @nikitabier",
+    "name": "Nikita Bier",
+    "handle": "nikitabier",
+    "blocks": [
+     {
+      "type": "text",
+      "text": "做过爆款社交应用 tbh 和 Gas 的增长高手，曾任 X 产品负责人，8 月卸任转为顾问。他最擅长的是消费级产品的增长、分发与反作弊，近期也在谈 AI 对护城河的冲击。"
+     },
+     {
+      "type": "links",
+      "numbered": false,
+      "links": [
+       {
+        "title": "技术护城河基本结束了；想做持久的东西，只剩专有数据、网络效应和物理组件",
+        "site": "X 帖子 · 1.35 万收藏",
+        "date": "2026-10-12",
+        "href": "https://x.com/nikitabier/status/2109497987055640958"
+       },
+       {
+        "title": "老牌软件高管不适应新产品：他们习惯交付确定性结果，而 AI 的价值来自概率性结果",
+        "site": "X 帖子 · 4883 收藏",
+        "date": "2026-09-21",
+        "href": "https://x.com/nikitabier/status/2101763620954894647"
+       },
+       {
+        "title": "任何产品都能按个人需求定制：他“vibe 制造”了一扇带 Wi-Fi 锁的狗门，两周交货",
+        "site": "X 帖子 · 6534 收藏",
+        "date": "2026-10-03",
+        "href": "https://x.com/nikitabier/status/2106104189457952911"
+       },
+       {
+        "title": "未来五年最重要的技术问题：建立让 agent 向服务方表明身份的通用标准",
+        "site": "X 帖子 · 2137 收藏",
+        "date": "2026-10-06",
+        "href": "https://x.com/nikitabier/status/2107157904168239416"
+       },
+       {
+        "title": "曾以为 Threads 是 X 的生存威胁，后来发现它和 Bluesky 反倒成了 X 的“反滥用系统”",
+        "site": "X 帖子 · 2404 收藏",
+        "date": "2026-10-17",
+        "href": "https://x.com/nikitabier/status/2111281464742662307"
+       },
+       {
+        "title": "反垃圾是永远的猫鼠游戏：每个方案只管 3 到 12 个月，要靠风险评分加高风险用户验证",
+        "site": "X 帖子 · 364 收藏",
+        "date": "2026-10-31",
+        "href": "https://x.com/nikitabier/status/2116246313914479047"
+       },
+       {
+        "title": "每个社交空间默认都会衰败成垃圾内容，只有每小时拼命维护才能存活",
+        "site": "X 帖子 · 232 收藏",
+        "date": "2026-10-14",
+        "href": "https://x.com/nikitabier/status/2110049188142813692"
+       },
+       {
+        "title": "卸任 X 产品负责人，转为顾问，“回归发帖人的本色”",
+        "site": "X 帖子 · 5900 收藏",
+        "date": "2026-08-06",
+        "href": "https://x.com/nikitabier/status/2085105586966827343"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "heading": "Shreyas Doshi @shreyas",
+    "name": "Shreyas Doshi",
+    "handle": "shreyas",
+    "blocks": [
+     {
+      "type": "text",
+      "text": "前 Stripe、Twitter、Google 产品负责人，现在给创始人和高管做顾问与教练。他的主线是：产品的成败取决于判断力和思考质量，而不是流程和框架。"
+     },
+     {
+      "type": "links",
+      "numbered": false,
+      "links": [
+       {
+        "title": "长文《Get to the Core of the Thing》：“做宽还是做深”本身就是错的问题，问题的框定决定了讨论",
+        "site": "X 文章 · 1353 收藏",
+        "date": "2026-05-17",
+        "href": "https://x.com/shreyas/status/2055689118248763561"
+       },
+       {
+        "title": "长文《On mid-career (dis)satisfaction》：中年职业满意度取决于能否应对“职业嫉妒”，而非履历好不好看",
+        "site": "X 文章 · 1686 收藏",
+        "date": "2026-06-01",
+        "href": "https://x.com/shreyas/status/2061140507884155145"
+       },
+       {
+        "title": "长文《The Antithesis Principle》：聪明人看不到、智者看得到的“反面原则”",
+        "site": "X 文章 · 775 收藏",
+        "date": "2026-07-27",
+        "href": "https://x.com/shreyas/status/2081524543471153456"
+       },
+       {
+        "title": "一年里变化很快：把自己定位为“执行者”的 PM，比“对产品成败负责”的 PM 难找工作得多",
+        "site": "X 帖子 · 189 收藏",
+        "date": "2026-10-09",
+        "href": "https://x.com/shreyas/status/2108301324102279535"
+       },
+       {
+        "title": "聪明的产品人为何轻视营销与分发：身份认同、道德反感、标榜“只想服务用户”",
+        "site": "X 帖子 · 152 收藏",
+        "date": "2026-10-06",
+        "href": "https://x.com/shreyas/status/2107251952749080583"
+       },
+       {
+        "title": "前 20% 的产品人不缺用户访谈，再多聊也没用，真正稀缺的是判断力",
+        "site": "X 帖子",
+        "date": "2026-10-14",
+        "href": "https://x.com/shreyas/status/2110393175525454315"
+       },
+       {
+        "title": "用 AI 起草方案没问题，没想透才是问题",
+        "site": "X 帖子 · 116 收藏",
+        "date": "2026-03-18",
+        "href": "https://x.com/shreyas/status/2034292651261120865"
+       },
+       {
+        "title": "B2B 客户根本不想解决自己遇到的每一个问题",
+        "site": "X 帖子 · 172 收藏",
+        "date": "2026-06-13",
+        "href": "https://x.com/shreyas/status/2065500697203003777"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "heading": "Lenny Rachitsky @lennysan",
+    "name": "Lenny Rachitsky",
+    "handle": "lennysan",
+    "blocks": [
+     {
+      "type": "text",
+      "text": "前 Airbnb 产品负责人，现在运营全球最大的产品通讯和播客之一。他的“我最大的收获”系列，把顶级产品人和创始人的访谈压缩成几条要点，是了解一线公司 AI 时代怎么干活的捷径。"
+     },
+     {
+      "type": "links",
+      "numbered": false,
+      "links": [
+       {
+        "title": "Anthropic 增长负责人：AI 杠杆最大的是工程，5 人团队顶 15 到 20 人，PM 和设计被挤压",
+        "site": "X 帖子 · 2369 收藏",
+        "date": "2026-04-06",
+        "href": "https://x.com/lennysan/status/2041166073794592926"
+       },
+       {
+        "title": "Keith Rabois：你搭的团队就是你造的公司；要靠挖掘未被发现的人才对抗巨头",
+        "site": "X 帖子 · 1303 收藏",
+        "date": "2026-04-14",
+        "href": "https://x.com/lennysan/status/2043777033017405547"
+       },
+       {
+        "title": "Evan Spiegel：消费品最大的瓶颈是分发而不是产品，自然发现的时代基本结束",
+        "site": "X 帖子 · 737 收藏",
+        "date": "2026-04-27",
+        "href": "https://x.com/lennysan/status/2048785387376771375"
+       },
+       {
+        "title": "OpenAI 设计负责人：设计师是如今科技界最不开心的人",
+        "site": "X 帖子 · 1192 收藏",
+        "date": "2026-08-17",
+        "href": "https://x.com/lennysan/status/2089355411443118390"
+       },
+       {
+        "title": "Google Labs 负责人：好点子几乎从不来自头脑风暴，而来自一小群停不下来的执着者",
+        "site": "X 帖子 · 886 收藏",
+        "date": "2026-10-12",
+        "href": "https://x.com/lennysan/status/2109645848024064340"
+       },
+       {
+        "title": "科技从业者调查：最大的恐惧不是被 AI 取代，而是同样的钱要干更多的活",
+        "site": "X 帖子 · 72 收藏",
+        "date": "2026-07-14",
+        "href": "https://x.com/lennysan/status/2076706102516031586"
+       },
+       {
+        "title": "和 Rob Snyder 的 86 分钟找到 PMF 指南",
+        "site": "X 帖子 · 1152 收藏",
+        "date": "2026-10-26",
+        "href": "https://x.com/lennysan/status/2114440459024269612"
+       },
+       {
+        "title": "众包问答：哪件 250 美元以下的东西真正改善了你的生活？",
+        "site": "X 帖子 · 2.6 万收藏",
+        "date": "2026-10-23",
+        "href": "https://x.com/lennysan/status/2113661154480562531"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "heading": "共同的主线",
+    "name": null,
+    "handle": null,
+    "blocks": [
+     {
+      "type": "ol",
+      "items": [
+       "反对拼数量：Jason Fried 嘲笑用 AI 炫耀发版数量，Paul Graham 说融资轮不是里程碑，Shreyas 说再多访谈也替代不了判断力。",
+       "质量与分发：levelsio、Nikita 和 Evan Spiegel（经 Lenny）都认为产品门槛被抹平后，难的是分发；Shreyas 提醒爱做产品的人常常看轻它。",
+       "AI 冲击软件生意：DHH 宣布手写代码时代结束，Nikita 说技术护城河基本消失，Patrick Collison 畅想“液态软件”，Paul Graham 则开始问“这家公司抗 AI 吗”。",
+       "同一家公司里的两种声音：37signals 的 Jason Fried 对 AI 定制软件持怀疑，搭档 DHH 却全押 agent，值得对照着读。",
+       "小而赚钱：Jason Fried 的利润分享、DHH 的下云省钱、levelsio 94.5% 的利润率，都在说“少即是多”在商业上也成立。"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ "thinking": {
+  "title": "X 上值得关注的人：思维方式、投资与写作",
+  "summary": "6 位在 X 上持续输出思维方式、投资与写作洞见的人，以及他们 2026 年 1 月到 11 月初最值得一读的帖子。每条一句话讲清要点，收藏数为 11 月 2 日抓取时的数据，点开即可看原帖。",
+  "notes": [
+   "简介里标 * 的事实来自公开常识，没有在本次读到的帖子或账号简介中核实；其余来自他们的 X 简介或帖子本身。"
+  ],
+  "sections": [
+   {
+    "heading": "George Mack @george__mack",
+    "name": "George Mack",
+    "handle": "george__mack",
+    "blocks": [
+     {
+      "type": "text",
+      "text": "英国作者，长文《High Agency》（高能动性）的作者，X 简介写着“能动性可能是 21 世纪最重要的性格特质”。今年他一年只写几篇长文，用历史故事讲清思维模型，几乎每篇都被大量收藏。"
+     },
+     {
+      "type": "links",
+      "numbered": false,
+      "links": [
+       {
+        "title": "Janet 定律：5 岁时一年占人生 20%，50 岁时只占 2%；多做新鲜事、积累“记忆红利”，时间就会变慢",
+        "site": "X 帖子 · 1.3 万收藏",
+        "date": "2026-02-23",
+        "href": "https://x.com/george__mack/status/2025664907581304993"
+       },
+       {
+        "title": "一张图讲“高能动性三角”，引用的帖子把高能动性定义为足智多谋、锲而不舍和韧性的组合",
+        "site": "X 帖子 · 9629 收藏",
+        "date": "2026-05-17",
+        "href": "https://x.com/george__mack/status/2055769353300095320"
+       },
+       {
+        "title": "长文《How to solve any problem》：把波普尔的科学方法简化为“猜测、检验、纠错”的循环，卡住时总是少了其中一环",
+        "site": "X 文章 · 2519 收藏",
+        "date": "2026-02-17",
+        "href": "https://x.com/george__mack/status/2023555289329312011"
+       },
+       {
+        "title": "长文《Why time speeds up as you age》：从失忆症患者 Henry Molaison 讲起，区分钟表时间、体验时间和记忆时间",
+        "site": "X 文章 · 2005 收藏",
+        "date": "2026-02-28",
+        "href": "https://x.com/george__mack/status/2027481677836976414"
+       },
+       {
+        "title": "你总在忽视非线性的决定：住哪座城、招谁、怎么介绍自己、谈薪，这些值得多想 10 倍，大多数人却只花几分钟",
+        "site": "X 帖子 · 1632 收藏",
+        "date": "2026-01-23",
+        "href": "https://x.com/george__mack/status/2014441227513692218"
+       },
+       {
+        "title": "20 多岁时的错误：低估专注的复利，一件事做 60 小时的结果可能是两件事各做 30 小时的 5 到 1000 倍",
+        "site": "X 帖子 · 424 收藏",
+        "date": "2026-06-18",
+        "href": "https://x.com/george__mack/status/2067621973417513407"
+       },
+       {
+        "title": "幂律的一课：写了 7 个月的《High Agency》一年后每月仍有约 20 万读者，比他过去 10 年其他内容加起来多 100 倍；在 AI 垃圾内容军备竞赛里，慢工出细活反而占优",
+        "site": "X 帖子 · 307 收藏",
+        "date": "2026-05-29",
+        "href": "https://x.com/george__mack/status/2060154109974679825"
+       },
+       {
+        "title": "过度思考的三重悲剧：大部分想法不新、不真，而且都是关于你自己",
+        "site": "X 帖子 · 416 收藏",
+        "date": "2026-08-13",
+        "href": "https://x.com/george__mack/status/2087580621665390874"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "heading": "Naval @naval",
+    "name": "Naval",
+    "handle": "naval",
+    "blocks": [
+     {
+      "type": "text",
+      "text": "AngelList 联合创始人*、知名天使投资人*，X 简介只有一个词“Incompressible”。今年他的播客和帖子集中在 AI 怎样改变软件、杠杆与个人财富，收藏数是这一组人里最高的。"
+     },
+     {
+      "type": "links",
+      "numbered": false,
+      "links": [
+       {
+        "title": "AI 播客《A Motorcycle for the Mind》：想学就去做；vibe coding 是新的产品管理；训练模型是新的编程；平庸没有需求",
+        "site": "X 帖子 · 2.21 万收藏",
+        "date": "2026-02-20",
+        "href": "https://x.com/naval/status/2024700227111047581"
+       },
+       {
+        "title": "他推荐的 AI 播客：前 Nvidia 工程师 Neil Movva 讲推理，从软件、芯片到电力，“讲解异常清楚”（他本人没有参与）",
+        "site": "X 帖子 · 2.02 万收藏",
+        "date": "2026-08-26",
+        "href": "https://x.com/naval/status/2092578563878981714"
+       },
+       {
+        "title": "回头看时，你会希望自己每件事都选了长期版本",
+        "site": "X 帖子 · 1.19 万收藏",
+        "date": "2026-09-30",
+        "href": "https://x.com/naval/status/2105231982309564765"
+       },
+       {
+        "title": "销售播客《Sell the Truth》：可信、“是的，而且”、魅力等于自信加爱、领导而非管理",
+        "site": "X 帖子 · 9128 收藏",
+        "date": "2026-05-12",
+        "href": "https://x.com/naval/status/2054039878351159504"
+       },
+       {
+        "title": "传统软件工程死了吗？完全没有：工程师懂底层，能补上 AI 写代码时的抽象泄漏，是地球上杠杆最高的人之一",
+        "site": "X 帖子 · 5783 收藏",
+        "date": "2026-03-02",
+        "href": "https://x.com/naval/status/2028314493206585471"
+       },
+       {
+        "title": "Vibe coding 是新的产品管理：用英语描述应用、让 agent 规划和搭建，从品味直接走到产品",
+        "site": "X 帖子 · 4609 收藏",
+        "date": "2026-02-24",
+        "href": "https://x.com/naval/status/2026058635718398029"
+       },
+       {
+        "title": "模型是软件最后的护城河：AI 能重写文章、反编译软件，但它自己不想被“蒸馏”，更多软件会退回服务器端",
+        "site": "X 帖子 · 2872 收藏",
+        "date": "2026-10-07",
+        "href": "https://x.com/naval/status/2107648710918410670"
+       },
+       {
+        "title": "智力和才能不是正态分布，杠杆放大差距：不是富人越来越富，而是“聪明、有杠杆、高能动性”的人越来越富",
+        "site": "X 帖子 · 2061 收藏",
+        "date": "2026-02-12",
+        "href": "https://x.com/naval/status/2021834914371711289"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "heading": "Morgan Housel @morganhousel",
+    "name": "Morgan Housel",
+    "handle": "morganhousel",
+    "blocks": [
+     {
+      "type": "text",
+      "text": "《金钱心理学》作者*，X 简介写着 Collaborative Fund 合伙人、Markel Group 董事。今年他把主要精力放在“The Psychology of Money”播客上，X 上多是一句话的金句和对预测的怀疑。"
+     },
+     {
+      "type": "links",
+      "numbered": false,
+      "links": [
+       {
+        "title": "他引用的一句话：最值得学的数学，是算出当前决定的未来成本",
+        "site": "X 帖子 · 2502 收藏",
+        "date": "2026-07-16",
+        "href": "https://x.com/morganhousel/status/2077426472567050743"
+       },
+       {
+        "title": "一句关于怀旧的俄罗斯谚语：过去比未来更难预测",
+        "site": "X 帖子 · 1018 收藏",
+        "date": "2026-07-09",
+        "href": "https://x.com/morganhousel/status/2074986058840997963"
+       },
+       {
+        "title": "播客：最难的理财技能",
+        "site": "X 帖子 · 993 收藏",
+        "date": "2026-10-30",
+        "href": "https://x.com/morganhousel/status/2116194373142782345"
+       },
+       {
+        "title": "文章《Long-Term Money》：关于代际进步和被宠坏的孩子",
+        "site": "X 帖子 · 786 收藏",
+        "date": "2026-04-04",
+        "href": "https://x.com/morganhousel/status/2040097078031139314"
+       },
+       {
+        "title": "AI 乐观与等待之苦：多数预测不是极度乐观就是极度悲观，很少有人考虑十年后只是所有企业效率高了 20% 到 30%、生活照常",
+        "site": "X 帖子 · 101 收藏",
+        "date": "2026-09-12",
+        "href": "https://x.com/morganhousel/status/2098451357716148674"
+       },
+       {
+        "title": "意外冲击发生时，人们对预测的需求最大，而那恰恰是预测最不准的时候",
+        "site": "X 帖子 · 91 收藏 · 1232 赞",
+        "date": "2026-03-10",
+        "href": "https://x.com/morganhousel/status/2031050762927903024"
+       },
+       {
+        "title": "接下来不是向客户多收费的好时代，很多摩擦和低效即将消失",
+        "site": "X 帖子 · 84 收藏",
+        "date": "2026-02-27",
+        "href": "https://x.com/morganhousel/status/2027051768753066043"
+       },
+       {
+        "title": "“小心你和谁来往”：你觉得自己多富有，很大程度取决于住在哪里、和谁交往",
+        "site": "X 帖子 · 308 收藏",
+        "date": "2026-08-21",
+        "href": "https://x.com/morganhousel/status/2090797752074846331"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "heading": "Shane Parrish @ShaneParrish",
+    "name": "Shane Parrish",
+    "handle": "ShaneParrish",
+    "blocks": [
+     {
+      "type": "text",
+      "text": "Farnam Street 博客创始人*，主持播客 The Knowledge Project（X 简介写着 @tkppodcast），以研究芒格式的心智模型和决策著称*。注意他的账号是 @ShaneParrish，@ShaneAParrish 不存在。他的帖子多是把访谈压缩成几条“Tiny Lessons”。"
+     },
+     {
+      "type": "links",
+      "numbered": false,
+      "links": [
+       {
+        "title": "和 Morgan Housel 对谈的 26 条小结：财富等于你拥有的减去你想要的；钱买到的是更少的坏日子，而不是更多的好日子",
+        "site": "X 帖子 · 1930 收藏",
+        "date": "2026-01-26",
+        "href": "https://x.com/ShaneParrish/status/2015458026413560012"
+       },
+       {
+        "title": "和 James Clear 对谈的小结：每个行动都是为你想成为的人投一票；你无法比在做更好事情的人更努力",
+        "site": "X 帖子 · 1836 收藏",
+        "date": "2026-01-04",
+        "href": "https://x.com/ShaneParrish/status/2007826067029905519"
+       },
+       {
+        "title": "Ryan Serhant：别按过去的自己行事，按你将要成为的人行事",
+        "site": "X 帖子 · 1904 收藏",
+        "date": "2026-10-16",
+        "href": "https://x.com/ShaneParrish/status/2111104340278857868"
+       },
+       {
+        "title": "和 Bill Gurley 谈系统思维、心智模型、了解行业底层逻辑以及 AI 的未来",
+        "site": "X 帖子 · 1062 收藏",
+        "date": "2026-06-09",
+        "href": "https://x.com/ShaneParrish/status/2064312890572611622"
+       },
+       {
+        "title": "也许没有比这更好的销售洞见：人们不想被推销，但喜欢购物",
+        "site": "X 帖子 · 716 收藏",
+        "date": "2026-10-16",
+        "href": "https://x.com/ShaneParrish/status/2110854840649736467"
+       },
+       {
+        "title": "行动产生的信息，正是不行动时一直在等的信息",
+        "site": "X 帖子 · 413 收藏",
+        "date": "2026-10-29",
+        "href": "https://x.com/ShaneParrish/status/2115482529792672059"
+       },
+       {
+        "title": "Harvey 联合创始人 Winston Weinberg：接受会议前先写一段为什么要去，写不下去就说明不值得",
+        "site": "X 帖子 · 361 收藏",
+        "date": "2026-05-16",
+        "href": "https://x.com/ShaneParrish/status/2055621735320273247"
+       },
+       {
+        "title": "Weinberg 访谈小结：慢决定比错决定更让人后悔；做决定的人拿钱，只执行的人在和 AI 竞争",
+        "site": "X 帖子 · 196 收藏",
+        "date": "2026-05-18",
+        "href": "https://x.com/ShaneParrish/status/2056351152002724127"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "heading": "David Perell @david_perell",
+    "name": "David Perell",
+    "handle": "david_perell",
+    "blocks": [
+     {
+      "type": "text",
+      "text": "自称“The Writing Guy”，主持播客 How I Write，曾创办线上写作课 Write of Passage*。今年几乎每周一位顶级作者访谈，加上对日常生活中美感衰退的观察；不少嘉宾明确反对用 AI 代写。"
+     },
+     {
+      "type": "links",
+      "numbered": false,
+      "links": [
+       {
+        "title": "R.F. Kuang：写作当下的感觉好坏与成品质量无关，别用写得爽不爽评价一天的工作；要像调色一样混合情绪",
+        "site": "X 帖子 · 3221 收藏",
+        "date": "2026-09-03",
+        "href": "https://x.com/david_perell/status/2095207469886718046"
+       },
+       {
+        "title": "日常之美的衰退：古根海姆博物馆的门票只剩最省钱的设计，效率赢了个性与工艺",
+        "site": "X 帖子 · 1417 收藏",
+        "date": "2026-08-27",
+        "href": "https://x.com/david_perell/status/2092732617028472987"
+       },
+       {
+        "title": "Wright Thompson：一个好细节胜过 50 句烂句子；说一篇稿子写得过头，其实是采访不足",
+        "site": "X 帖子 · 963 收藏",
+        "date": "2026-04-02",
+        "href": "https://x.com/david_perell/status/2039459448238805166"
+       },
+       {
+        "title": "Pixar 导演 Andrew Stanton 把每部电影压成一句话，《海底总动员》是“恐惧让好父亲无法成为好父亲”",
+        "site": "X 帖子 · 932 收藏",
+        "date": "2026-06-25",
+        "href": "https://x.com/david_perell/status/2069882009921421553"
+       },
+       {
+        "title": "Lee Child 从不列大纲，因为读过几万本书，脑中已有情节和结构的“巨型数据库”",
+        "site": "X 帖子 · 648 收藏",
+        "date": "2026-02-06",
+        "href": "https://x.com/david_perell/status/2019453454624641407"
+       },
+       {
+        "title": "Ocean Vuong 的“反 AI 写作”对谈：写作的 80% 是观察和思考，最后才是句法",
+        "site": "X 帖子 · 511 收藏",
+        "date": "2026-03-25",
+        "href": "https://x.com/david_perell/status/2036791992693260308"
+       },
+       {
+        "title": "Michael Pollan：写作是思考而不只是表达，交给机器就失去了生成想法的过程",
+        "site": "X 帖子 · 42 收藏",
+        "date": "2026-06-23",
+        "href": "https://x.com/david_perell/status/2069416954289389755"
+       },
+       {
+        "title": "我们的孩子读东西时会先问是不是 2023 年前写的，那是最后一年能确定文字出自人手",
+        "site": "X 帖子 · 36 收藏",
+        "date": "2026-08-25",
+        "href": "https://x.com/david_perell/status/2092244723670876425"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "heading": "Packy McCormick @packyM",
+    "name": "Packy McCormick",
+    "handle": "packyM",
+    "blocks": [
+     {
+      "type": "text",
+      "text": "科技与商业通讯 Not Boring 的作者，也做投资*。他的 X 日常多是推广和闲聊，价值集中在几篇长文：AI 时代谁能拿到权力、风投结构怎么变、机器人和能源怎么发展。适合作为选读。"
+     },
+     {
+      "type": "links",
+      "numbered": false,
+      "links": [
+       {
+        "title": "长文《Power in the Age of Intelligence》：与其问软件护城河，不如问谁最能利用变得充裕的投入；赢家拿走更多，用来解释 Stripe 与 Adyen、Ramp 与 Brex 的估值差距",
+        "site": "X 文章 · 958 收藏",
+        "date": "2026-02-18",
+        "href": "https://x.com/packyM/status/2024114991666794943"
+       },
+       {
+        "title": "过去一年最受欢迎的三篇：4 万字的电力技术栈、1.6 万字的 a16z、一场谈人生意义的演讲",
+        "site": "X 帖子 · 747 收藏",
+        "date": "2026-07-26",
+        "href": "https://x.com/packyM/status/2081384528640201183"
+       },
+       {
+        "title": "关于风投的辛辣看法：持股比例和组合构建被高估，因为容易衡量；管理人和策略是否匹配更重要",
+        "site": "X 帖子 · 212 收藏",
+        "date": "2026-04-29",
+        "href": "https://x.com/packyM/status/2049471006075478272"
+       },
+       {
+        "title": "推出付费版 not boring world：请一线实践者把最好的想法写成文章，赌的是“想法就该写下来”",
+        "site": "X 帖子 · 189 收藏",
+        "date": "2026-01-06",
+        "href": "https://x.com/packyM/status/2008551637569212758"
+       },
+       {
+        "title": "机器人不会一步飞跃，而是小步前进：瓶颈在数据，最好的策略是边干活收钱边收集数据",
+        "site": "X 帖子 · 101 收藏",
+        "date": "2026-01-16",
+        "href": "https://x.com/packyM/status/2012163997152198813"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "heading": "共同的主线",
+    "name": null,
+    "handle": null,
+    "blocks": [
+     {
+      "type": "ol",
+      "items": [
+       "长期主义压倒短期：Naval 说你会希望每件事都选了长期版本，Housel 引用“算出当前决定的未来成本”，George Mack 一篇写了 7 个月的长文每月仍有约 20 万读者。",
+       "先行动、再纠错：Mack 的“猜测、检验、纠错”循环，Shane 的“行动产生不行动所等待的信息”，以及 Weinberg 的“慢决定比错决定更让人后悔”，说的是同一件事。",
+       "写作就是思考，AI 代替不了：Pollan、Ocean Vuong 和 Perell 都反对把写作交给机器；Mack 认为垃圾内容军备竞赛反而让慢工细活更值钱；Packy 押注“想法就该写下来”。",
+       "AI 改写软件和权力格局，但别过度预测：Naval 说 vibe coding 是新的产品管理、模型是最后的护城河，Packy 说赢家拿走更多；Housel 提醒十年后也许只是效率高了 20% 到 30%、生活照常。",
+       "注意力和时间是真正的复利：Mack 讲专注的复利和 Janet 定律，Housel 说“财富是拥有的减去想要的”（经 Shane 整理），Lee Child 靠几万本书的积累不列大纲。"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ "ai": {
+  "title": "X 上值得关注的人：AI 与 Agent",
+  "summary": "8 位在 X 上持续分享 AI 编程 agent 和 agent 产品经验的人，以及他们 2026 年 1 月到 11 月初最值得一读的帖子。每条一句话讲清要点，收藏数为 11 月 2 日抓取时的数据，日期按北京时间（UTC+8），点开即可看原帖。",
+  "notes": [
+   "简介里标 * 的事实来自公开常识，没有在本次读到的帖子或账号简介中核实；其余来自他们的 X 简介或帖子本身。帖子里的模型名（如 Fable、Opus 5.5、GPT-6）照原文保留。"
+  ],
+  "sections": [
+   {
+    "heading": "Andrej Karpathy @karpathy",
+    "name": "Andrej Karpathy",
+    "handle": "karpathy",
+    "blocks": [
+     {
+      "type": "text",
+      "text": "OpenAI 创始成员*、前特斯拉 AI 负责人*，“vibe coding”一词的提出者*。X 简介为空；5 月 19 日发帖宣布加入 Anthropic。今年他的长帖是这一组人里收藏最高的，主题从 agent 编程工作流延伸到用 LLM 管理知识。"
+     },
+     {
+      "type": "links",
+      "numbered": false,
+      "links": [
+       {
+        "title": "LLM 知识库：把论文、文章、代码放进 raw/ 目录，让 LLM 增量“编译”成 Markdown wiki，用 Obsidian 当前端；他的一个研究 wiki 约 100 篇、40 万词，token 越来越多花在操作知识而不是代码上",
+        "site": "X 帖子 · 10.9 万收藏",
+        "date": "2026-04-03",
+        "href": "https://x.com/karpathy/status/2039805659525644595"
+       },
+       {
+        "title": "理解模型输出的技巧：让 LLM 用航空维修文档的受控语言 ASD-STE100 写解释；更好的是图表和 HTML 网页，他最看好按需生成的讲解视频",
+        "site": "X 帖子 · 8.23 万收藏",
+        "date": "2026-10-02",
+        "href": "https://x.com/karpathy/status/2105819303471976479"
+       },
+       {
+        "title": "“idea file”：agent 时代与其分享代码，不如分享想法，对方的 agent 会按需定制实现；他把 LLM wiki 的做法写成了 gist",
+        "site": "X 帖子 · 4.64 万收藏",
+        "date": "2026-04-05",
+        "href": "https://x.com/karpathy/status/2040470801506541998"
+       },
+       {
+        "title": "autoresearch：约 630 行的单 GPU 训练代码，人迭代提示词（.md），agent 迭代训练代码（.py），每次训练 5 分钟，在 git 分支上自主循环找更好的设置",
+        "site": "X 帖子 · 3.87 万收藏",
+        "date": "2026-03-08",
+        "href": "https://x.com/karpathy/status/2030371219518931079"
+       },
+       {
+        "title": "Claude 编程笔记：从 11 月的 80% 手写变成 12 月的 80% agent 编码，“主要在用英语编程”；模型的错误已从语法错误变成草率初级工程师式的概念错误，要盯紧",
+        "site": "X 帖子 · 3.69 万收藏",
+        "date": "2026-01-27",
+        "href": "https://x.com/karpathy/status/2015883857489522876"
+       },
+       {
+        "title": "能力认知的漏斗：约 60 亿人几乎没接触过 LLM，10 到 20 亿人只用免费版，约 2000 万人在数学和代码里亲见 agent 完成数周的项目，约 5000 人能用到内部前沿系统；人的审查和理解开始跟不上",
+        "site": "X 帖子 · 3.01 万收藏",
+        "date": "2026-10-12",
+        "href": "https://x.com/karpathy/status/2109361546505966046"
+       },
+       {
+        "title": "编程在去年 12 月发生突变：coding agent “之前基本不能用，之后基本能用”；一段话让 agent 在 DGX Spark 上搭好家庭摄像头视频分析服务，30 分钟完成，他没碰任何东西",
+        "site": "X 帖子 · 2.01 万收藏",
+        "date": "2026-02-26",
+        "href": "https://x.com/karpathy/status/2026731645169185220"
+       },
+       {
+        "title": "“漫谈”技巧：切到语音随便讲 10 分钟意识流，LLM 很擅长把混乱的想法整理清楚，之后要纠正的地方更少",
+        "site": "X 帖子 · 1.52 万收藏",
+        "date": "2026-07-22",
+        "href": "https://x.com/karpathy/status/2079610838143623371"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "heading": "Boris Cherny @bcherny",
+    "name": "Boris Cherny",
+    "handle": "bcherny",
+    "blocks": [
+     {
+      "type": "text",
+      "text": "Claude Code 的创造者（他在帖子里这样自我介绍），X 简介写着“Claude @anthropicai”。帖子多是 Claude Code 新功能和他本人的用法，核心观点是开箱即用、少定制、像对同事一样说话，再给 agent 自我验证的手段。"
+     },
+     {
+      "type": "links",
+      "numbered": false,
+      "links": [
+       {
+        "title": "线程：我怎么用 Claude Code。配置出奇地“原味”，几乎不定制；团队里每个人的用法都不一样",
+        "site": "X 帖子 · 10.3 万收藏",
+        "date": "2026-01-03",
+        "href": "https://x.com/bcherny/status/2007179832300581177"
+       },
+       {
+        "title": "线程：来自 Claude Code 团队的使用技巧，团队的用法和他个人不同，没有唯一正确的方式，要自己试",
+        "site": "X 帖子 · 10.2 万收藏",
+        "date": "2026-02-01",
+        "href": "https://x.com/bcherny/status/2017742741636321619"
+       },
+       {
+        "title": "像对同事一样跟 Claude 说话：提示词没有秘诀，大多数任务不需要繁复的脚手架，给目标它就能想办法",
+        "site": "X 帖子 · 1.05 万收藏",
+        "date": "2026-10-07",
+        "href": "https://x.com/bcherny/status/2107565388250874193"
+       },
+       {
+        "title": "自动化比以前更重要：基础设施提速会让每个 agent 都提速；与其让 agent 每次修同一类问题，不如让它写 lint 规则或 CI 步骤，一劳永逸",
+        "site": "X 帖子 · 9990 收藏",
+        "date": "2026-07-16",
+        "href": "https://x.com/bcherny/status/2077460395279692197"
+       },
+       {
+        "title": "/checkup 命令：清理没用的 skills、MCP 和插件以节省上下文，把根 CLAUDE.md 拆成嵌套文件和 skills，关掉慢 hook，默认开启 auto mode",
+        "site": "X 帖子 · 9218 收藏",
+        "date": "2026-07-09",
+        "href": "https://x.com/bcherny/status/2074997570317779038"
+       },
+       {
+        "title": "让 Claude 接管应用日常维护：Slack 频道里跑崩溃模糊测试、合并重复抽象、清理死代码等例行任务，几周内开了 388 个 PR，合并了 180 个",
+        "site": "X 帖子 · 5955 收藏",
+        "date": "2026-08-14",
+        "href": "https://x.com/bcherny/status/2088014489438621990"
+       },
+       {
+        "title": "用 Opus 5.5 和 Lean 形式化验证 Claude Agent SDK：几条短提示换来 16 个修复 bug 和竞态条件的 PR，也常结合 TLA+ 检查并发和状态管理",
+        "site": "X 帖子 · 5059 收藏",
+        "date": "2026-09-23",
+        "href": "https://x.com/bcherny/status/2102543349102338309"
+       },
+       {
+        "title": "让 Opus 自主跑几小时到几天的五条建议：auto mode、动态工作流编排成百上千个 agent、/goal 或 /loop、在云端运行、给它端到端自我验证的手段",
+        "site": "X 帖子 · 3951 收藏",
+        "date": "2026-06-08",
+        "href": "https://x.com/bcherny/status/2063792263067754658"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "heading": "Simon Willison @simonw",
+    "name": "Simon Willison",
+    "handle": "simonw",
+    "blocks": [
+     {
+      "type": "text",
+      "text": "Datasette 作者、Django 联合创作者（X 简介），“prompt injection”一词的提出者*。他在博客上公开记录用 coding agent 的实验，X 帖子多是博客链接，收藏数不高但信息密度大。"
+     },
+     {
+      "type": "links",
+      "numbered": false,
+      "links": [
+       {
+        "title": "发布《Agentic Engineering Patterns》指南前两章：让 Claude Code、Codex 等 coding agent 发挥最佳效果的编码实践",
+        "site": "X 帖子 · 3543 收藏",
+        "date": "2026-02-24",
+        "href": "https://x.com/simonw/status/2025990408514523517"
+       },
+       {
+        "title": "最有意思的 Fable 技巧是尽量让模型自己判断，比如“所有编码任务自行选一个更低档的模型在 subagent 里跑”，省了很多 token",
+        "site": "X 帖子 · 3463 收藏",
+        "date": "2026-07-04",
+        "href": "https://x.com/simonw/status/2073117641020215566"
+       },
+       {
+        "title": "推荐“Fable 时代 agentic engineering 最锋利边缘”的案例，即 @jsnnsa 的文章《How I Built the Most AI-Pilled Company in the World》",
+        "site": "X 帖子 · 2529 收藏",
+        "date": "2026-10-29",
+        "href": "https://x.com/simonw/status/2115821668350435645"
+       },
+       {
+        "title": "Cat Wu 和 Thariq 的提示词建议：别再往提示词里塞例子和禁止清单；Claude Code 自己的系统提示词刚缩减了 80%",
+        "site": "X 帖子 · 1103 收藏",
+        "date": "2026-07-21",
+        "href": "https://x.com/simonw/status/2079553486568800405"
+       },
+       {
+        "title": "10 月是 coding agent 的又一个拐点：Claude Opus 5.5 已经能做出真正好玩的游戏",
+        "site": "X 帖子 · 781 收藏",
+        "date": "2026-10-28",
+        "href": "https://x.com/simonw/status/2115444742595260551"
+       },
+       {
+        "title": "博文：几乎所有东西都需要默认的硬性预算上限",
+        "site": "X 帖子 · 517 收藏",
+        "date": "2026-10-04",
+        "href": "https://x.com/simonw/status/2106528704902164855"
+       },
+       {
+        "title": "“LLM 只适合新项目、帮不了维护大型老代码库”的看法已经站不住了",
+        "site": "X 帖子 · 232 收藏",
+        "date": "2026-04-18",
+        "href": "https://x.com/simonw/status/2045204429281067161"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "heading": "Harrison Chase @hwchase17",
+    "name": "Harrison Chase",
+    "handle": "hwchase17",
+    "blocks": [
+     {
+      "type": "text",
+      "text": "LangChain 联合创始人兼 CEO*，X 简介只写着 @LangChain。今年他几乎每月一篇 X 长文，围绕 harness、记忆、上下文工程和托管 agent，是这一组人里把“怎么造 agent 产品”写得最系统的。"
+     },
+     {
+      "type": "links",
+      "numbered": false,
+      "links": [
+       {
+        "title": "长文《Your harness, your memory》：harness 不会被模型吸收（泄露的 Claude Code 源码有 51.2 万行，那就是 harness）；记忆和 harness 绑定，用封闭 harness 等于把记忆交给第三方",
+        "site": "X 文章 · 1.06 万收藏",
+        "date": "2026-04-11",
+        "href": "https://x.com/hwchase17/status/2042978500567609738"
+       },
+       {
+        "title": "长文《How we built Agent Builder’s memory system》：无代码 agent 平台为什么从一开始就优先做记忆，以及实现细节和教训",
+        "site": "X 文章 · 2246 收藏",
+        "date": "2026-01-15",
+        "href": "https://x.com/hwchase17/status/2011814697889316930"
+       },
+       {
+        "title": "长文《The five components of building a company harness》：LangChain 内部 GTM、工程和营销 agent 的五个共同原语：活在 Slack 里、代用户身份行事、分层记忆、沙箱、多数运行由定时任务触发",
+        "site": "X 文章 · 2151 收藏",
+        "date": "2026-10-25",
+        "href": "https://x.com/hwchase17/status/2114041443836903662"
+       },
+       {
+        "title": "长文《Continual learning for AI agents》：agent 的持续学习可以发生在三层：模型权重、harness、上下文（CLAUDE.md、skills）",
+        "site": "X 文章 · 2085 收藏",
+        "date": "2026-04-05",
+        "href": "https://x.com/hwchase17/status/2040467997022884194"
+       },
+       {
+        "title": "长文《Why managed agents are the next big thing in agent building》：从早期框架到 harness，再到托管 agent 的演进",
+        "site": "X 文章 · 1815 收藏",
+        "date": "2026-08-08",
+        "href": "https://x.com/hwchase17/status/2085780032031760694"
+       },
+       {
+        "title": "长文《In software, the code documents the app. In AI, the traces do.》：agent 的决策发生在运行时，事实来源从代码转向 trace",
+        "site": "X 文章 · 1491 收藏",
+        "date": "2026-01-11",
+        "href": "https://x.com/hwchase17/status/2010044779225329688"
+       },
+       {
+        "title": "长文《New context engineering challenges in late 2026》：skills、工具搜索、subagent、bash 已成标准解法；新难题是主动但不烦人、记忆、异步、目标追踪、防作弊和浏览器使用",
+        "site": "X 文章 · 805 收藏",
+        "date": "2026-10-31",
+        "href": "https://x.com/hwchase17/status/2116553654857867330"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "heading": "Peter Steinberger @steipete",
+    "name": "Peter Steinberger",
+    "handle": "steipete",
+    "blocks": [
+     {
+      "type": "text",
+      "text": "PSPDFKit 创始人*，“退休”后回来做开源个人助手 OpenClaw，X 简介写着 OpenClaw 和 OpenAI。他的帖子是“token 不再是约束时怎么造软件”的一线实录，几乎全程用 Codex。"
+     },
+     {
+      "type": "links",
+      "numbered": false,
+      "links": [
+       {
+        "title": "token 不重要时怎么造软件：常驻约 100 个云端 Codex 审每个 PR 和 issue，每次提交做安全审查，给 issue 去重，自动复现并录前后对比视频，还会听会议主动开 PR",
+        "site": "X 帖子 · 5361 收藏",
+        "date": "2026-05-16",
+        "href": "https://x.com/steipete/status/2055405041843052792"
+       },
+       {
+        "title": "OpenAI DevDay 2026 演讲：团队如何用 agent 更好地协作（YouTube 视频）",
+        "site": "X 帖子 · 1674 收藏",
+        "date": "2026-10-08",
+        "href": "https://x.com/steipete/status/2107911769767440832"
+       },
+       {
+        "title": "教 Codex 当 QA：每次提交生成用户测试场景，通过远程桌面和浏览器操作像真人一样测试 OpenClaw，在后台开 PR 修复",
+        "site": "X 帖子 · 1451 收藏",
+        "date": "2026-06-01",
+        "href": "https://x.com/steipete/status/2061208638027395490"
+       },
+       {
+        "title": "用自己的 harness 的又一个理由：平台方可以随时改变你能做什么（引用 Claude Code 被下发“不复刻现有游戏”规则的帖子）",
+        "site": "X 帖子 · 1226 收藏",
+        "date": "2026-10-30",
+        "href": "https://x.com/steipete/status/2116153238563242385"
+       },
+       {
+        "title": "我从不用 plan mode，“直接跟你的 agent 聊”",
+        "site": "X 帖子 · 1066 收藏",
+        "date": "2026-04-02",
+        "href": "https://x.com/steipete/status/2039551079621566812"
+       },
+       {
+        "title": "换用 tsrs 后 OpenClaw 快了约 5 倍：微软一个团队花两年把 TS 编译器移植到 Go，现在让 agent 放手干，几周就能做出明显更好的东西",
+        "site": "X 帖子 · 706 收藏",
+        "date": "2026-10-20",
+        "href": "https://x.com/steipete/status/2112571535731106013"
+       },
+       {
+        "title": "开一个循环把 OpenClaw 前端从 Lit 迁到 Solid 2.0：约 6 天移除 Lit，再用一周改成地道写法，约 600 个 PR，他每隔一天看一眼",
+        "site": "X 帖子 · 504 收藏",
+        "date": "2026-10-21",
+        "href": "https://x.com/steipete/status/2112597162924351909"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "heading": "Amjad Masad @amasad",
+    "name": "Amjad Masad",
+    "handle": "amasad",
+    "blocks": [
+     {
+      "type": "text",
+      "text": "Replit CEO（X 简介），3 月宣布融资 4 亿美元、估值 90 亿美元（他的帖子）。他关心的是 agent 让人人都能做软件之后，公司、运维和安全会变成什么样。"
+     },
+     {
+      "type": "links",
+      "numbered": false,
+      "links": [
+       {
+        "title": "长文《The Self-Driving Company》：半年里 Replit 工程师的代码产出近三倍，评审时间、回滚和事故持平；agent 在排查线上事故、审 PR、分析数据、分拣工单",
+        "site": "X 文章 · 6754 收藏",
+        "date": "2026-07-17",
+        "href": "https://x.com/amasad/status/2077802290304684404"
+       },
+       {
+        "title": "发布 Replit Agent 4：软件是创意工作，在无限画布上设计、团队协作、并行跑多个 agent",
+        "site": "X 帖子 · 4335 收藏",
+        "date": "2026-03-11",
+        "href": "https://x.com/amasad/status/2031755113694679094"
+       },
+       {
+        "title": "“Agent 让软件变便宜了，却让写代码变贵了”，宣布与 OpenAI 合作改变这一点",
+        "site": "X 帖子 · 1241 收藏",
+        "date": "2026-08-19",
+        "href": "https://x.com/amasad/status/2090079496124674377"
+       },
+       {
+        "title": "“你不再需要学编程”：一位用户只靠 Replit Agent、不雇工程师，就经营着八位数美元的生意",
+        "site": "X 帖子 · 710 收藏",
+        "date": "2026-01-03",
+        "href": "https://x.com/amasad/status/2007270067625713891"
+       },
+       {
+        "title": "AI 吃掉了大部分开发流程，但线上应用的维护仍靠人工，DevSecOps 成为新瓶颈（发布 Auto-Protect 漏洞扫描）",
+        "site": "X 帖子 · 241 收藏",
+        "date": "2026-04-24",
+        "href": "https://x.com/amasad/status/2047411360993034262"
+       },
+       {
+        "title": "投资前沿 AI 应主要看新发现及其应用（如医学），因为编程和多数知识工作正被次前沿模型饱和",
+        "site": "X 帖子 · 181 收藏",
+        "date": "2026-10-28",
+        "href": "https://x.com/amasad/status/2115207856496480261"
+       },
+       {
+        "title": "员工或外包人员电脑上的 coding agent 是巨大的网络安全和国家安全风险",
+        "site": "X 帖子 · 172 收藏",
+        "date": "2026-10-30",
+        "href": "https://x.com/amasad/status/2116179892991922433"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "heading": "swyx @swyx",
+    "name": "swyx",
+    "handle": "swyx",
+    "blocks": [
+     {
+      "type": "text",
+      "text": "Latent Space 播客和 AI Engineer 大会的主理人，X 简介列出 smol_ai、Cognition 等关联，“AI Engineer”这一说法的推广者*。他的价值在行业判断和基准评测；日常帖子不少是闲聊和市场，需要挑着看。"
+     },
+     {
+      "type": "links",
+      "numbered": false,
+      "links": [
+       {
+        "title": "开源项目做到 AI 工程品类第一，收购价约为每位工程师 1000 万到 1 亿美元，不需要商业模式、GTM 和融资",
+        "site": "X 帖子 · 1916 收藏",
+        "date": "2026-03-10",
+        "href": "https://x.com/swyx/status/2031071059307601944"
+       },
+       {
+        "title": "FrontierCode 发布：METR 发现过半 SWE-bench 结果是无法合并的低质代码；新基准含 3000 多条评分规则，最难的 Diamond 集上 Opus 4.8 只有 13.8%",
+        "site": "X 帖子 · 399 收藏",
+        "date": "2026-06-09",
+        "href": "https://x.com/swyx/status/2064081945567580323"
+       },
+       {
+        "title": "杰文斯悖论：知识工作的单位成本下降，总需求反而上升；“编程发生的事不是例外，而是先兆”",
+        "site": "X 帖子 · 344 收藏",
+        "date": "2026-07-12",
+        "href": "https://x.com/swyx/status/2076155833428431012"
+       },
+       {
+        "title": "低 effort 加批评循环，好过把 effort 开到最高档（针对吞吐受限的人）",
+        "site": "X 帖子 · 193 收藏",
+        "date": "2026-11-01",
+        "href": "https://x.com/swyx/status/2116642586387730593"
+       },
+       {
+        "title": "Opus 5.5 是他用过最好的工作量估算模型：别按人类说要 2 到 3 个工作日，对 agent 来说是 2 到 3 小时",
+        "site": "X 帖子 · 125 收藏",
+        "date": "2026-10-22",
+        "href": "https://x.com/swyx/status/2113283272130412684"
+       },
+       {
+        "title": "Claude Code 正变成可塑的通用 harness，可以改造成任何领域的专用 harness（Claude Mods 深度测评）",
+        "site": "X 帖子 · 106 收藏",
+        "date": "2026-10-22",
+        "href": "https://x.com/swyx/status/2113003628835553559"
+       },
+       {
+        "title": "Devin 的大脑用几十组模型，每个模型都经大量评测才进 harness，每几个月完全重写一次",
+        "site": "X 帖子 · 69 收藏",
+        "date": "2026-03-09",
+        "href": "https://x.com/swyx/status/2030853776136139109"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "heading": "Ethan Mollick @emollick",
+    "name": "Ethan Mollick",
+    "handle": "emollick",
+    "blocks": [
+     {
+      "type": "text",
+      "text": "沃顿商学院研究 AI 的教授，新书《Co-Existence》已出版（X 简介），上一本是《Co-Intelligence》*。他从组织理论看 agent：管理幅度、分工和人在回路，适合做 agent 产品时补上“组织”视角。"
+     },
+     {
+      "type": "links",
+      "numbered": false,
+      "links": [
+       {
+        "title": "agent 系统应借鉴组织理论：人最多管不到 10 个直接下属，100 个 subagent 对一个编排 agent 太多，可能需要“中层管理 agent”",
+        "site": "X 帖子 · 1407 收藏",
+        "date": "2026-02-08",
+        "href": "https://x.com/emollick/status/2020303173362012667"
+       },
+       {
+        "title": "他们在宝洁的研究发现 AI 模糊了岗位边界，OpenAI 也有类似发现；公司需要重新思考分工",
+        "site": "X 帖子 · 1172 收藏",
+        "date": "2026-08-01",
+        "href": "https://x.com/emollick/status/2083328923782242327"
+       },
+       {
+        "title": "一篇用安然邮件档案测试 agent 处理工作能力的文章，证据表明“agent 组织”比“agent 蜂群”更有用",
+        "site": "X 帖子 · 500 收藏",
+        "date": "2026-03-14",
+        "href": "https://x.com/emollick/status/2032829110242746395"
+       },
+       {
+        "title": "个人 agent 的 UX 问题：你很难看出它在做什么、知道你什么、会替你做什么",
+        "site": "X 帖子 · 490 收藏",
+        "date": "2026-10-31",
+        "href": "https://x.com/emollick/status/2116321075164500438"
+       },
+       {
+        "title": "Claude Projects 擅长管理 agent 团队：主编排 agent 按需拉起专家，混用贵和便宜的 agent；一个历史谜案任务拉起了 18 个线程",
+        "site": "X 帖子 · 434 收藏",
+        "date": "2026-09-18",
+        "href": "https://x.com/emollick/status/2100665801800093959"
+       },
+       {
+        "title": "研究发现专家与 AI agent 合作时会被 AI 的立场左右，即使自认为在独立判断",
+        "site": "X 帖子 · 262 收藏",
+        "date": "2026-10-28",
+        "href": "https://x.com/emollick/status/2115209786157412397"
+       },
+       {
+        "title": "详细推理摘要不再提供后，人在回路变得更难，推着我们走向自动化而不是增强",
+        "site": "X 帖子 · 126 收藏",
+        "date": "2026-10-27",
+        "href": "https://x.com/emollick/status/2114942007533515261"
+       },
+       {
+        "title": "GPT-4 能以 50% 成功率独立工作约 4 分钟，现在的模型能做数周的工作；2026 年 1 月是 agent 工作开始的合理分界",
+        "site": "X 帖子 · 100 收藏",
+        "date": "2026-11-02",
+        "href": "https://x.com/emollick/status/2116987671939875319"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "heading": "共同的主线",
+    "name": null,
+    "handle": null,
+    "blocks": [
+     {
+      "type": "ol",
+      "items": [
+       "去年 12 月到今年初是拐点：Karpathy 说 coding agent“12 月前基本不能用、之后基本能用”，Mollick 把 2026 年 1 月当作 agent 工作的起点，Simon 认为 10 月又是一个拐点。",
+       "少写提示词，多给目标和验证：Boris 说像对同事一样说话，Simon 转述 Claude Code 系统提示词缩减了 80%，Steipete 从不用 plan mode；Boris 和 Steipete 同时强调让 agent 能端到端自我验证。",
+       "Harness 才是产品：Harrison 说 harness 不会被模型吸收、记忆绑定 harness，Steipete 主张用自己的 harness，swyx 说 Claude Code 正变成可改造的通用 harness，Devin 每几个月重写一次。",
+       "把重复劳动变成常驻 agent 和代码：Boris 的维护 routine 几周开了 388 个 PR，Steipete 常驻约 100 个 Codex，Harrison 说公司 agent 的多数运行由定时触发，Amjad 称之为“自驾公司”。",
+       "瓶颈转向人的理解和组织：Karpathy 说人的审查开始跟不上，Mollick 提醒管理幅度和专家被 AI 左右，Amjad 和 Simon 分别警告 coding agent 的安全风险和预算失控。"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ "humanities": {
+  "title": "X 上值得关注的人：人文",
+  "summary": "6 位在 X 上持续写注意力、写作、养育、审美和社会心理的人，以及他们 2026 年 1 月到 11 月初最值得一读的帖子。每条一句话讲清要点，收藏数为 11 月 2 日抓取时的数据，日期按北京时间（UTC+8），点开即可看原帖。",
+  "notes": [
+   "简介里标 * 的事实来自公开常识，没有在本次读到的帖子或账号简介中核实；其余来自他们的 X 简介或帖子本身。为了贴近人文主题，已跳过玩笑、纯政治和两性话题的帖子，即使收藏更高。"
+  ],
+  "sections": [
+   {
+    "heading": "Henrik Karlsson @phokarlsson",
+    "name": "Henrik Karlsson",
+    "handle": "phokarlsson",
+    "blocks": [
+     {
+      "type": "text",
+      "text": "瑞典随笔作者，X 简介写着“在 Substack 写随笔，最近在想以写作为思考、关系、自我修养和 LLM”，Substack 名为 Escaping Flatland*。他和妻子 Johanna 一起工作，住在丹麦的一座岛上（他的帖子）。今年他有两条短帖收藏过 2000，几乎每条都在讲注意力怎样塑造人。"
+     },
+     {
+      "type": "links",
+      "numbered": false,
+      "links": [
+       {
+        "title": "感觉不对时，把“为什么不对”说得非常精确，能提取大量信息：一篇随笔草稿让他不舒服，Johanna 问为什么，他发现是结尾太“系蝴蝶结”，调换论点顺序就解决了；只要精确说出现状哪里不对，解法往往就很明显",
+        "site": "X 帖子 · 2288 收藏",
+        "date": "2026-03-22",
+        "href": "https://x.com/phokarlsson/status/2035726089012588778"
+       },
+       {
+        "title": "妻子教 8 岁女儿的办法：不直接对孩子说，而是在同一个房间里对他说“我小时候一直没弄懂的一件事是……”，孩子会全身心转过来，想弄清大人在交换什么秘密",
+        "site": "X 帖子 · 2140 收藏",
+        "date": "2026-03-04",
+        "href": "https://x.com/phokarlsson/status/2028970900872151483"
+       },
+       {
+        "title": "越把自己当作关注对象，越强化那个“需要被修理”的叙事自我；借 Iris Murdoch 的“unself”，全心投入他人、难题或自然时，反而更清楚地看见自己，那种自我认识更像一种味道而不是一条事实",
+        "site": "X 帖子 · 814 收藏",
+        "date": "2026-03-05",
+        "href": "https://x.com/phokarlsson/status/2029507211605467252"
+       },
+       {
+        "title": "读高质量杂志、听认真做的播客，只比刷屏好一点点；真正改变人的阅读由自己策划：先说清自己的需要和问题，再主动去找写得最好的东西，跟引文、读完一位作者的全部作品",
+        "site": "X 帖子 · 619 收藏",
+        "date": "2026-02-05",
+        "href": "https://x.com/phokarlsson/status/2019362364630380612"
+       },
+       {
+        "title": "刷社交媒体让生活变“扁平”，是因为注意力需要时间才能凝聚，身体和大脑各系统切换的节奏不同；持续专注下去，体验会越来越生动（附他的随笔《attention》）",
+        "site": "X 帖子 · 548 收藏",
+        "date": "2026-01-08",
+        "href": "https://x.com/phokarlsson/status/2009207703181185144"
+       },
+       {
+        "title": "你大概已经知道该做什么，别过度思考，照直觉执行 3 个月再评估；引 Gwern：一个坏计划执行到底，往往比在许多好计划之间不停切换更有信息量",
+        "site": "X 帖子 · 475 收藏",
+        "date": "2026-01-06",
+        "href": "https://x.com/phokarlsson/status/2008489862853226935"
+       },
+       {
+        "title": "16 岁和好友骑车从瑞典到芬兰奥兰群岛，没有手机信号，只能求陌生人让他们扎帐篷，第一晚被带到一个国际爵士舞节；这让害羞的他相信世界比想象的更友好，正如 Herzog 说“世界向徒步旅行的人显露自己”",
+        "site": "X 帖子 · 471 收藏",
+        "date": "2026-02-20",
+        "href": "https://x.com/phokarlsson/status/2024797679814054071"
+       },
+       {
+        "title": "写作的常见毛病是“自动补全模式”：句子顺着节奏自己写完，模仿句子的声音而不是真实的经历，这是“货物崇拜式写作”；要回到真实的想法和经验，跟句子较劲直到吻合",
+        "site": "X 帖子 · 307 收藏",
+        "date": "2026-02-18",
+        "href": "https://x.com/phokarlsson/status/2024072903596408982"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "heading": "Visakan Veerasamy @visakanv",
+    "name": "Visakan Veerasamy",
+    "handle": "visakanv",
+    "blocks": [
+     {
+      "type": "text",
+      "text": "新加坡作者，X 简介推荐他的电子书《Friendly Ambitious Nerd》和《Introspect》，约 27 万关注者。他以超长的引用推文串著称*；今年两个孩子都还小，帖子从写作和互联网文化转向了养育。"
+     },
+     {
+      "type": "links",
+      "numbered": false,
+      "links": [
+       {
+        "title": "他说这是读过的关于养育幼儿的文字里最感激的一篇：截图是 John Smillie 的一句话，周日睡到自然醒、窗外新雪、妈妈做了肉桂卷，“但你快 3 岁了，所以你气得发昏”；幼儿的情绪不由处境决定",
+        "site": "X 帖子 · 3798 收藏",
+        "date": "2026-11-01",
+        "href": "https://x.com/visakanv/status/2116860692334862589"
+       },
+       {
+        "title": "想练就的养育技巧（附截图）：女儿怕怪兽时，妈妈假装给“怪兽的妈妈”打电话，然后告诉女儿怪兽被罚站了，孩子就去睡了；进入孩子的想象框架，而不是跟它争论",
+        "site": "X 帖子 · 872 收藏",
+        "date": "2026-10-23",
+        "href": "https://x.com/visakanv/status/2113621434736246910"
+       },
+       {
+        "title": "整理演讲文字稿时发现，许多“嗯”“呃”“就是”是承重的：删掉后，文字传达出他并不想要、写作时也不会用的确定程度",
+        "site": "X 帖子 · 704 收藏",
+        "date": "2026-02-09",
+        "href": "https://x.com/visakanv/status/2020782286426280442"
+       },
+       {
+        "title": "食物中毒吐完后，因重新拥有“默认状态”而满心感激，想起波德莱尔写过的病愈者的狂喜：活着是多么奇妙",
+        "site": "X 帖子 · 217 收藏",
+        "date": "2026-10-24",
+        "href": "https://x.com/visakanv/status/2113980871854416107"
+       },
+       {
+        "title": "他一生反复看到的悲剧：人身上最动人的特质，被缺乏感受力的官僚流程低估、扼杀；小时候以为是新加坡特有，后来发现到处都一样",
+        "site": "X 帖子 · 161 收藏",
+        "date": "2026-07-08",
+        "href": "https://x.com/visakanv/status/2074723505732767772"
+       },
+       {
+        "title": "给自己定了读 1000 篇 Substack 随笔的任务，读了约 15%：好的写作往往同时关于不止一件事，而多数 Substack 随笔像流媒体时代的电影，一次只讲一件事",
+        "site": "X 帖子 · 157 收藏",
+        "date": "2026-03-11",
+        "href": "https://x.com/visakanv/status/2031633777253036095"
+       },
+       {
+        "title": "几十年来总有人劝他删掉“我认为”“在我看来”这类冗余，但他发现这些冗余能筛选并引导出更体贴、更会思考的读者",
+        "site": "X 帖子 · 68 收藏",
+        "date": "2026-08-13",
+        "href": "https://x.com/visakanv/status/2087607174038266172"
+       },
+       {
+        "title": "养育的根本难题：孩子生来是你的被抚养者而不是同伴，太早当同伴对待不公平，太久当被抚养者对待也不公平；你的任务是把他们养成同伴，所以要不断更新与他们相处的方式",
+        "site": "X 帖子 · 61 收藏",
+        "date": "2026-11-02",
+        "href": "https://x.com/visakanv/status/2117162069539913745"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "heading": "David Perell @david_perell",
+    "name": "David Perell",
+    "handle": "david_perell",
+    "blocks": [
+     {
+      "type": "text",
+      "text": "X 简介自称“The Writing Guy”，主持播客 How I Write，发帖关于写作、美和建筑。他的长帖多是访谈作家后的要点整理，信息密度高，今年这一组里单帖收藏最高的就是他的 R.F. Kuang 访谈。"
+     },
+     {
+      "type": "links",
+      "numbered": false,
+      "links": [
+       {
+        "title": "R.F. Kuang 访谈要点：情绪像颜色要混合；每个项目换一种写法，别把习惯的声音当成真实的声音；写的时候感觉多好和成品质量没有关系；零稿用来找到故事跳动的心脏",
+        "site": "X 帖子 · 3221 收藏",
+        "date": "2026-09-03",
+        "href": "https://x.com/david_perell/status/2095207469886718046"
+       },
+       {
+        "title": "日常之美的衰落连门票都看得到：古根海姆博物馆的门票选了最省钱的设计，对比老日本火车票、马戏团票和 2002 年世界大赛门票；这种衰落并非不可避免",
+        "site": "X 帖子 · 1417 收藏",
+        "date": "2026-08-27",
+        "href": "https://x.com/david_perell/status/2092732617028472987"
+       },
+       {
+        "title": "Wright Thompson 访谈：“一个好细节顶得上 50 个烂句子”；“说一篇稿子写过头了，其实是采访不够”；写作几十年后，关键不在词句而在结构",
+        "site": "X 帖子 · 963 收藏",
+        "date": "2026-04-02",
+        "href": "https://x.com/david_perell/status/2039459448238805166"
+       },
+       {
+        "title": "Adrian Tchaikovsky 访谈：每年约 5 本书还保持高质量，怎么规划小说、两种提纲、建构人物与世界、写好结尾",
+        "site": "X 帖子 · 759 收藏",
+        "date": "2026-01-05",
+        "href": "https://x.com/david_perell/status/2008178879316328632"
+       },
+       {
+        "title": "Anne Lamott 访谈：内心批评声最响时，“重点不是更努力，而是少抗拒生活”；写作的进步在于更留意已经在身边的东西，“一只鸟一只鸟地来”",
+        "site": "X 帖子 · 560 收藏",
+        "date": "2026-04-29",
+        "href": "https://x.com/david_perell/status/2049482098386342001"
+       },
+       {
+        "title": "Ocean Vuong 访谈：“写作 80% 是观看和思考，只有最后一部分是句法”；句子是“经过句法过滤的意识”；引维特根斯坦说词义在于用法，“定义是想象力的敌人”",
+        "site": "X 帖子 · 410 收藏",
+        "date": "2026-03-27",
+        "href": "https://x.com/david_perell/status/2037320578961424543"
+       },
+       {
+        "title": "Harlan Coben 访谈：保留足够的恐惧以免敷衍；悬念来自回答问题再打开更大的问题；写人们想在酒吧偷听的对话；从故事已经发生的中间开场",
+        "site": "X 帖子 · 379 收藏",
+        "date": "2026-09-11",
+        "href": "https://x.com/david_perell/status/2098086692045635876"
+       },
+       {
+        "title": "建筑为什么变丑了：两次世界大战改变了人的精神；专业阶层的品味与大众脱节（建筑学生的品味和公众截然相反）；许多人们喜爱的东西如今按规范已经不能建",
+        "site": "X 帖子 · 333 收藏",
+        "date": "2026-08-16",
+        "href": "https://x.com/david_perell/status/2088850810440470954"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "heading": "Rob Henderson @robkhenderson",
+    "name": "Rob Henderson",
+    "handle": "robkhenderson",
+    "blocks": [
+     {
+      "type": "text",
+      "text": "回忆录《Troubled》作者、曼哈顿研究所高级研究员（X 简介）。他在帖子里讲过自己从洛杉矶寄养家庭到空军、再到耶鲁和剑桥读博的经历，“luxury beliefs（奢侈信念）”一词由他在 2019 年提出，同名第二本书已签约（他的帖子）。他的帖子常带政治立场，这里只选社会心理和阶层观察。"
+     },
+     {
+      "type": "links",
+      "numbered": false,
+      "links": [
+       {
+        "title": "Simon Leys 的一段文字（截图）：咖啡馆收音机突然播出莫扎特单簧管五重奏，众人皱眉，有人马上换台；真正的庸人不是认不出美，而是认得太清楚，好去摧毁它，“受启发的才华对平庸是不可容忍的冒犯”",
+        "site": "X 帖子 · 1257 收藏",
+        "date": "2026-10-30",
+        "href": "https://x.com/robkhenderson/status/2115866405707080164"
+       },
+       {
+        "title": "离贫困越远，越发现浪漫化贫困成了时尚：他一路爬过几乎每一级阶层，发现信念随阶层而变，精英流行的观念代价常落在他长大的那种社区",
+        "site": "X 帖子 · 603 收藏",
+        "date": "2026-08-02",
+        "href": "https://x.com/robkhenderson/status/2083941279440760914"
+       },
+       {
+        "title": "坏结局的真凶不是贫穷而是不稳定：发展心理学研究里家庭收入与日后结局的关联很弱，搬家次数、照料者更换伴侣次数等“童年不稳定”的关联则强，控制收入后依然成立",
+        "site": "X 帖子 · 495 收藏",
+        "date": "2026-01-08",
+        "href": "https://x.com/robkhenderson/status/2008969226363830549"
+       },
+       {
+        "title": "奇怪的倒置：守时、守信、勤奋、自律这些人人都能改进的美德在失去地位，而外貌、天资这类难以改变的特质越来越被看重",
+        "site": "X 帖子 · 291 收藏",
+        "date": "2026-03-28",
+        "href": "https://x.com/robkhenderson/status/2037919613573386672"
+       },
+       {
+        "title": "重读布尔迪厄《区分》：精英把财富转成品味信号，即“文化资本”；今天的信号从红酒和艺术变成了“正确的观点”，这就是奢侈信念",
+        "site": "X 帖子 · 209 收藏",
+        "date": "2026-03-23",
+        "href": "https://x.com/robkhenderson/status/2035766963901739051"
+       },
+       {
+        "title": "嫉妒更多是青春的症状而不是贫穷的症状：年龄越大嫉妒越少，一项研究里年轻人收入更高却报告更多嫉妒",
+        "site": "X 帖子 · 56 收藏",
+        "date": "2026-08-30",
+        "href": "https://x.com/robkhenderson/status/2094087804611367071"
+       },
+       {
+        "title": "故事里情节和人物哪个更重要？人物；语言可能起源于八卦，人类进化出判断他人品格的能力，情节只是逼出人物真面目的考验",
+        "site": "X 帖子 · 25 收藏",
+        "date": "2026-02-23",
+        "href": "https://x.com/robkhenderson/status/2025637000452407570"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "heading": "Erik Hoel @erikphoel",
+    "name": "Erik Hoel",
+    "handle": "erikphoel",
+    "blocks": [
+     {
+      "type": "text",
+      "text": "X 简介写着科学家（Bicameral Labs）兼 Substack 作者，Substack 名为 The Intrinsic Perspective（他的帖子链接），也写小说*。今年他创办 Bicameral Labs 专攻意识科学，同时反复写孩子、阅读和 AI 对艺术的冲击。"
+     },
+     {
+      "type": "links",
+      "numbered": false,
+      "links": [
+       {
+        "title": "Yoto 儿童播放器有多好：孩子们着迷的《夏洛的网》有声版是原著一字不差的 4 小时朗读，不是改编",
+        "site": "X 帖子 · 388 收藏",
+        "date": "2026-05-18",
+        "href": "https://x.com/erikphoel/status/2056047629293756687"
+       },
+       {
+        "title": "新论文《A Disproof of LLM Consciousness》：任何可证伪且非平凡的意识理论都不可能适用于 LLM；有意思的是，攻克持续学习可能改变这一结论",
+        "site": "X 帖子 · 383 收藏",
+        "date": "2026-01-16",
+        "href": "https://x.com/erikphoel/status/2011836954443206935"
+       },
+       {
+        "title": "外祖父打过瓜达尔卡纳尔岛战役；家里买了印着棕榈树的新浴巾，他那晚喝醉睡不着，第二天浴巾出现在垃圾桶里",
+        "site": "X 帖子 · 166 收藏",
+        "date": "2026-10-30",
+        "href": "https://x.com/erikphoel/status/2115844639781515397"
+       },
+       {
+        "title": "创办 Bicameral Labs：几十年来几百种意识理论没有一个被证伪，他的做法是“在负空间作画”，用形式化要求排除大多数理论，再划出可行理论的范围",
+        "site": "X 帖子 · 154 收藏",
+        "date": "2026-01-16",
+        "href": "https://x.com/erikphoel/status/2011888982016344220"
+       },
+       {
+        "title": "不想太早让孩子接触 AI：他相信“教育应当重演文明”，大脑最自然的理解方式是按人类文明的顺序走一遍，最新的技术放在最后（附他的文章《How do I tell my kids about AI?》）",
+        "site": "X 帖子 · 71 收藏",
+        "date": "2026-10-01",
+        "href": "https://x.com/erikphoel/status/2105667547404050693"
+       },
+       {
+        "title": "悼念《海伯利安》作者 Dan Simmons，文章《为什么你没有更出名？》：世界讨厌通才，“广度没有奖”",
+        "site": "X 帖子 · 61 收藏",
+        "date": "2026-10-19",
+        "href": "https://x.com/erikphoel/status/2111966947026084145"
+       },
+       {
+        "title": "他近五年前对 AI 艺术的论证，如今成了教宗的官方立场：人类艺术和机器基于统计生成的东西之间存在本体论差异",
+        "site": "X 帖子 · 49 收藏",
+        "date": "2026-10-02",
+        "href": "https://x.com/erikphoel/status/2106018818594054453"
+       },
+       {
+        "title": "他早先预测各领域都会重复 AI 对写书的影响：顶端毫无提升，中间略有改善，长尾是大量垃圾；编程目前也是如此",
+        "site": "X 帖子 · 14 收藏",
+        "date": "2026-06-07",
+        "href": "https://x.com/erikphoel/status/2063597012512092273"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "heading": "Tyler Cowen @tylercowen",
+    "name": "Tyler Cowen",
+    "handle": "tylercowen",
+    "blocks": [
+     {
+      "type": "text",
+      "text": "乔治梅森大学经济学家*、Marginal Revolution 博客作者*，X 简介列着新书《Talent》和访谈节目 Conversations with Tyler。他的 X 几乎只发链接，价值在于指向的访谈和文章；人文话题主要在 Conversations with Tyler 里，收藏数普遍不高。"
+     },
+     {
+      "type": "links",
+      "numbered": false,
+      "links": [
+       {
+        "title": "客串主持《纽约时报》播客 Interesting Times，和 Dwarkesh Patel 聊旧金山与 AI 的未来",
+        "site": "X 帖子 · 390 收藏",
+        "date": "2026-10-15",
+        "href": "https://x.com/tylercowen/status/2110705150616830015"
+       },
+       {
+        "title": "新的“生成式书”，全部由他本人写成，最后一章讲 AI 将如何革新科学，以及我们自己",
+        "site": "X 帖子 · 306 收藏",
+        "date": "2026-03-26",
+        "href": "https://x.com/tylercowen/status/2037132035853107219"
+       },
+       {
+        "title": "对 AI 有很悲观的担忧，就说出哪些市场价格能支持或证实它，这才叫认真对待（附网络安全股在一次安全事件后的跌幅和回升数据）",
+        "site": "X 帖子 · 162 收藏",
+        "date": "2026-09-04",
+        "href": "https://x.com/tylercowen/status/2095868117649952809"
+       },
+       {
+        "title": "Conversations with Tyler：与《枪炮、病菌与钢铁》作者 Jared Diamond 的对谈",
+        "site": "X 帖子 · 66 收藏",
+        "date": "2026-09-09",
+        "href": "https://x.com/tylercowen/status/2097647527545741628"
+       },
+       {
+        "title": "书正在越来越像提示词的合集，或者说是提示人去想出 LLM 提示词？",
+        "site": "X 帖子 · 31 收藏",
+        "date": "2026-01-25",
+        "href": "https://x.com/tylercowen/status/2015417745714663430"
+       },
+       {
+        "title": "Conversations with Tyler：与 Henry Oliver 的文学对谈",
+        "site": "X 帖子 · 19 收藏",
+        "date": "2026-03-04",
+        "href": "https://x.com/tylercowen/status/2029174373253308897"
+       },
+       {
+        "title": "Conversations with Tyler：与艺术史家 Andrew Graham-Dixon 谈视觉艺术、维米尔和英国艺术",
+        "site": "X 帖子 · 7 收藏",
+        "date": "2026-07-22",
+        "href": "https://x.com/tylercowen/status/2079896013528092880"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "heading": "共同的主线",
+    "name": null,
+    "handle": null,
+    "blocks": [
+     {
+      "type": "ol",
+      "items": [
+       "注意力是一切的底层：Henrik 说注意力需要时间凝聚、全心投入他人反而看清自己，Ocean Vuong 说写作 80% 是观看，Anne Lamott 说进步在于更留意身边，Wright Thompson 说一个好细节顶 50 个烂句子。",
+       "好写作是对准真实，而不是顺着声音：Henrik 批评“自动补全式写作”，R.F. Kuang 说写得顺手与写得好无关，Visakan 发现“嗯”和“我认为”这类看似多余的词其实在承重。",
+       "养育是今年最集中的话题：Henrik 的妻子用“偷听”教孩子，Visakan 说养育是把孩子养成同伴，Erik 主张教育重演文明、先读书后 AI，Rob 指出伤害孩子的是不稳定而不只是贫穷。",
+       "美与品味背后是地位：Rob 借布尔迪厄说观点已成新的文化资本，转引 Simon Leys 说庸人认得出美才要摧毁它，David 把建筑和门票变丑部分归因于专业阶层与大众的品味脱节。",
+       "面对 AI，人文的回答是守住人的部分：Erik 论证 LLM 没有意识、AI 艺术与人类艺术有本体论差异，Tyler 自己写完“生成式书”并追问书是否正在变成提示词，Erik 预测顶端作品不会因 AI 变好。"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ "education": {
+  "title": "X 上值得关注的人：教育与儿童成长",
+  "summary": "7 位在 X 上持续写幼儿认知、养育、屏幕与学校、阅读和教育研究的人，以及他们 2026 年 1 月到 11 月初最值得一读的帖子。每条一句话讲清要点，收藏数为 11 月 2 日抓取时的数据，日期按北京时间（UTC+8），点开即可看原帖。",
+  "notes": [
+   "简介里标 * 的事实来自公开常识，没有在本次读到的帖子或账号简介中核实；其余来自他们的 X 简介或帖子本身。为了贴近教育与养育主题，已跳过纯政治、玩笑和广告类帖子，即使收藏更高。Henrik Karlsson 和 Erik Hoel 也出现在“人文”那一页，这里只选他们写孩子和学习的帖子。"
+  ],
+  "sections": [
+   {
+    "heading": "Alison Gopnik @AlisonGopnik",
+    "name": "Alison Gopnik",
+    "handle": "AlisonGopnik",
+    "blocks": [
+     {
+      "type": "text",
+      "text": "认知科学家、心理学家、哲学家，X 简介列着《Scientist in the Crib》《The Philosophical Baby》《The Gardener and the Carpenter》三本书，自称“六个孩子的祖母”。她在加州大学伯克利分校做研究*，核心观点是孩子不是小号的成人，而是专门负责“探索”的学习者。她的帖子多是论文和访谈链接，收藏数不高，但几乎每条都是幼儿学习研究的一手来源。"
+     },
+     {
+      "type": "links",
+      "numbered": false,
+      "links": [
+       {
+        "title": "新论文：孩子靠内在动机驱动的行动来构建因果模型，这是孩子会做而 LLM 不会做的事（与 Eunice Yiu 等合作，收在一期“世界模型”专刊里）",
+        "site": "X 帖子 · 28 收藏",
+        "date": "2026-05-18",
+        "href": "https://x.com/AlisonGopnik/status/2056067541777477648"
+       },
+       {
+        "title": "一篇新论文用基于主体的模型说明：充满探索的童年，能让整个人群更有创新力",
+        "site": "X 帖子 · 19 收藏",
+        "date": "2026-01-23",
+        "href": "https://x.com/AlisonGopnik/status/2014411650867282285"
+       },
+       {
+        "title": "她最喜欢的研究之一（与 Elizabeth Bonawitz 合作的预印本）：孩子搜索“假设空间”时比成人更广、更多变",
+        "site": "X 帖子 · 13 收藏",
+        "date": "2026-06-18",
+        "href": "https://x.com/AlisonGopnik/status/2067369126105133519"
+       },
+       {
+        "title": "MIT 毕业典礼演讲上线：把科学家、孩子、人类进化、照料孩子的祖母和 18 世纪的 Lunar Society 串在一起，讲科学家为什么最像婴儿和祖父母",
+        "site": "X 帖子 · 12 收藏",
+        "date": "2026-07-17",
+        "href": "https://x.com/AlisonGopnik/status/2077807164375310680"
+       },
+       {
+        "title": "推荐 Peter Gray 的文章：怎样走出“密集型养育”的陷阱，把独立还给孩子",
+        "site": "X 帖子 · 11 收藏",
+        "date": "2026-06-19",
+        "href": "https://x.com/AlisonGopnik/status/2067653182776586720"
+       },
+       {
+        "title": "Early Childhood Matters 系列播客：她关于祖父母与孩子的新想法，引用 Kristen Hawkes 的“祖母假说”和 Michael Gurven 关于长者作为教师的研究",
+        "site": "X 帖子 · 10 收藏",
+        "date": "2026-09-24",
+        "href": "https://x.com/AlisonGopnik/status/2102816296597635226"
+       },
+       {
+        "title": "推荐 Kelsey Piper 的文章《反对咬紧牙关式的养育》（Against white-knuckle parenting）",
+        "site": "X 帖子 · 4 收藏",
+        "date": "2026-01-15",
+        "href": "https://x.com/AlisonGopnik/status/2011522820711596218"
+       },
+       {
+        "title": "《MIT 科技评论》报道她和 Mike Frank 的观点：孩子比 AI 学到的更多",
+        "site": "X 帖子 · 3 收藏",
+        "date": "2026-08-25",
+        "href": "https://x.com/AlisonGopnik/status/2091932622972932228"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "heading": "Jonathan Haidt @JonHaidt",
+    "name": "Jonathan Haidt",
+    "handle": "JonHaidt",
+    "blocks": [
+     {
+      "type": "text",
+      "text": "纽约大学斯特恩商学院社会心理学家，X 简介写着“致力于扭转以手机为中心的童年”，约 47 万关注者。今年 3 月是《The Anxious Generation（焦虑的一代）》出版两周年（他的帖子），他也是 Let Grow 的联合创始人之一（Lenore Skenazy 的帖子）。他的帖子很多是立法和诉讼新闻，这里只选对家长和学校有直接用处的证据与做法。"
+     },
+     {
+      "type": "links",
+      "numbered": false,
+      "links": [
+       {
+        "title": "短视频（TikTok、Reels 等）损害认知的证据越来越多：问题不只是内容，而是注意力被切碎、规划未来的能力下降",
+        "site": "X 帖子 · 964 收藏",
+        "date": "2026-10-07",
+        "href": "https://x.com/JonHaidt/status/2107841593172795651"
+       },
+       {
+        "title": "英国政府发布 0-5 岁屏幕指南：2 岁以下不单独看屏幕（和家人视频通话除外），2-5 岁每天最多 1 小时，吃饭时和睡前 1 小时不用屏幕，大人陪看、选慢节奏内容，不要 AI 玩具",
+        "site": "X 帖子 · 587 收藏",
+        "date": "2026-04-22",
+        "href": "https://x.com/JonHaidt/status/2046954585059713153"
+       },
+       {
+        "title": "挪威 2016 年给每个学生发 iPad，教育立刻受损，如今正在撤回；许多国家在回到纸质书和手写",
+        "site": "X 帖子 · 582 收藏",
+        "date": "2026-04-16",
+        "href": "https://x.com/JonHaidt/status/2044781623959535790"
+       },
+       {
+        "title": "无手机学校带来走廊里更多笑声、午餐室很吵、图书馆借书增加；他转发的报道说达拉斯学区禁手机一年后借书量增长 24%",
+        "site": "X 帖子 · 283 收藏",
+        "date": "2026-04-28",
+        "href": "https://x.com/JonHaidt/status/2049105019983564899"
+       },
+       {
+        "title": "一位老师的观察：谁从小被 iPad 带大、谁被保护，存在明显的社会阶层差异，会放大不平等；他转发的帖子说幼儿园老师“看孩子有多分心焦虑，就知道谁有自己的 iPad”",
+        "site": "X 帖子 · 271 收藏",
+        "date": "2026-04-26",
+        "href": "https://x.com/JonHaidt/status/2048163969869795787"
+       },
+       {
+        "title": "最新 PISA 报告：全球阅读能力下滑在疫情停课结束后并未逆转，2022 年后反而加速；无手机学校的学生上课更少被设备分心，把规则交给每位老师自定是最差的两种做法",
+        "site": "X 帖子 · 99 收藏",
+        "date": "2026-09-09",
+        "href": "https://x.com/JonHaidt/status/2097692960108216374"
+       },
+       {
+        "title": "他对“急着把 AI 引入童年和教育大概是个错误”最完整的论述（为韩国 YTN 制作，附插图）",
+        "site": "X 帖子 · 35 收藏",
+        "date": "2026-07-29",
+        "href": "https://x.com/JonHaidt/status/2082218707288252518"
+       },
+       {
+        "title": "给家长区分好坏屏幕时间的简单规则：“长故事好，快多巴胺坏”",
+        "site": "X 帖子 · 12 收藏",
+        "date": "2026-07-11",
+        "href": "https://x.com/JonHaidt/status/2075921158235685316"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "heading": "Lenore Skenazy @FreeRangeKids",
+    "name": "Lenore Skenazy",
+    "handle": "FreeRangeKids",
+    "blocks": [
+     {
+      "type": "text",
+      "text": "X 简介写着 Free-Range Kids（自由放养的孩子）创始人、Let Grow 主席；她在帖子里说 Jonathan Haidt 和心理学家 Peter Gray 是 Let Grow 的另两位联合创始人。她因让 9 岁儿子独自坐纽约地铁回家而成名*。她的帖子收藏数很低、语气很热烈，但核心论点清楚：孩子的焦虑往往来自独立太少，而不是危险太多。"
+     },
+     {
+      "type": "links",
+      "numbered": false,
+      "links": [
+       {
+        "title": "我们为什么给孩子排满课外班：我们被教导像投资员工一样投资孩子的“人力资本”，于是免费的东西（自由玩耍、走路去商店）被当成不如花钱买的课；但独立和玩耍就像空气，免费、看不见，却同样必需（她的《华尔街日报》文章）",
+        "site": "X 帖子 · 20 收藏",
+        "date": "2026-10-19",
+        "href": "https://x.com/FreeRangeKids/status/2112184121124401230"
+       },
+       {
+        "title": "想让家长松口气：很多结果不由我们的养育技巧或纠结的上百万个决定决定，而由基因决定；她推荐《The Nurture Assumption》",
+        "site": "X 帖子 · 15 收藏",
+        "date": "2026-07-14",
+        "href": "https://x.com/FreeRangeKids/status/2076772597048447011"
+       },
+       {
+        "title": "11 岁以前就给孩子独立：引心理学家 Camilo Ortiz，“焦虑靠回避运转”，爬高一根树枝的孩子学到“我能行”；不是把孩子的恐惧说没，而是给真实的独立让神经系统自己更新",
+        "site": "X 帖子 · 13 收藏",
+        "date": "2026-10-30",
+        "href": "https://x.com/FreeRangeKids/status/2116180762030383228"
+       },
+       {
+        "title": "“信心会泛化”：一项研究只治疗怕蜘蛛或怕高中的一种，结果两种都减轻；孩子独自跑腿、玩耍，也会让他们敢于面对没直接练过的事，比如自己睡、去看牙",
+        "site": "X 帖子 · 12 收藏",
+        "date": "2026-07-07",
+        "href": "https://x.com/FreeRangeKids/status/2074523299036455238"
+       },
+       {
+        "title": "孩子们其实想要 80 年代那样的放养童年，现实中没有，才上网找同伴：他们上网是“默认”而非“渴望”（附 Harris 对 8-12 岁孩子的调查）",
+        "site": "X 帖子 · 6 收藏",
+        "date": "2026-07-07",
+        "href": "https://x.com/FreeRangeKids/status/2074195793745997946"
+       },
+       {
+        "title": "南卡一所乡村初中留级严重到有学生开车上学；新校长加了课间休息、提早一小时开门让孩子玩和闲逛，如今学校被评为“优秀”",
+        "site": "X 帖子 · 6 收藏",
+        "date": "2026-07-11",
+        "href": "https://x.com/FreeRangeKids/status/2075689155170865532"
+       },
+       {
+        "title": "想让孩子离开屏幕，替代品不能是“和爸妈一起做好玩的事”：大人没有放学后的 6 小时，孩子想和孩子玩；办法是让学校课后开放给不分年龄、不带手机的自由玩耍",
+        "site": "X 帖子 · 3 收藏",
+        "date": "2026-10-20",
+        "href": "https://x.com/FreeRangeKids/status/2112544041732890735"
+       },
+       {
+        "title": "密歇根大学的调查：9-11 岁孩子的家长里只有 15% 让孩子不带大人去“不给糖就捣蛋”",
+        "site": "X 帖子 · 2 收藏",
+        "date": "2026-10-17",
+        "href": "https://x.com/FreeRangeKids/status/2111150523470524781"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "heading": "Erik Hoel @erikphoel",
+    "name": "Erik Hoel",
+    "handle": "erikphoel",
+    "blocks": [
+     {
+      "type": "text",
+      "text": "X 简介写着科学家（Bicameral Labs）兼 Substack 作者，Substack 名为 The Intrinsic Perspective。他写过一篇被广泛转发的《我怎样教 3 岁孩子识字》（他引用的帖子），主张尽早教阅读、让读书成为孩子的主要娱乐，并且把 AI 放到最后再接触。"
+     },
+     {
+      "type": "links",
+      "numbered": false,
+      "links": [
+       {
+        "title": "后续：4 岁的孩子已经每天自主读书一年，早教阅读花的那些小时，单凭让养育变轻松这一点就完全值得",
+        "site": "X 帖子 · 686 收藏",
+        "date": "2026-05-19",
+        "href": "https://x.com/erikphoel/status/2056686804997206487"
+       },
+       {
+        "title": "Yoto 儿童播放器有多好：孩子们着迷的《夏洛的网》有声版是原著一字不差的 4 小时朗读，不是改编；可作为 iPad 的替代",
+        "site": "X 帖子 · 388 收藏",
+        "date": "2026-05-18",
+        "href": "https://x.com/erikphoel/status/2056047629293756687"
+       },
+       {
+        "title": "不想太早让孩子接触 AI：他相信“教育应当重演文明”，大脑最自然的理解方式是按人类文明的顺序走一遍，最新的技术放在最后（附文章《How do I tell my kids about AI?》）",
+        "site": "X 帖子 · 71 收藏",
+        "date": "2026-10-01",
+        "href": "https://x.com/erikphoel/status/2105667547404050693"
+       },
+       {
+        "title": "支持起诉教育软件 i-Ready：它被超过 1400 万学生使用，约占美国 K-12 学生三分之一，教育太重要，大规模搞砸必须承担后果",
+        "site": "X 帖子 · 11 收藏",
+        "date": "2026-08-07",
+        "href": "https://x.com/erikphoel/status/2085426349674570018"
+       },
+       {
+        "title": "让孩子成为终身读者现在比以往更重要，最可靠的办法是让阅读尽早成为他们的主要娱乐，也就是尽可能早地教",
+        "site": "X 帖子 · 5 收藏",
+        "date": "2026-08-07",
+        "href": "https://x.com/erikphoel/status/2085513407877239001"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "heading": "Henrik Karlsson @phokarlsson",
+    "name": "Henrik Karlsson",
+    "handle": "phokarlsson",
+    "blocks": [
+     {
+      "type": "text",
+      "text": "瑞典随笔作者，X 简介写着“在 Substack 写随笔，最近在想以写作为思考、关系、自我修养和 LLM”。他有两个女儿（帖子里提到 Rebecka 和 Maud），常写和妻子 Johanna 怎样带孩子。他的养育帖子不讲方法清单，而讲成人怎样对待孩子的注意力和自主。"
+     },
+     {
+      "type": "links",
+      "numbered": false,
+      "links": [
+       {
+        "title": "妻子教 8 岁女儿的办法：不直接对孩子说，而是在同一个房间里对他说“我小时候一直没弄懂的一件事是……”，孩子会全身心转过来，想弄清大人在交换什么秘密",
+        "site": "X 帖子 · 2140 收藏",
+        "date": "2026-03-04",
+        "href": "https://x.com/phokarlsson/status/2028970900872151483"
+       },
+       {
+        "title": "16 岁和好友骑车从瑞典到芬兰奥兰群岛，没有手机信号，父母同意后也不知道他们在哪，只能求陌生人让他们扎帐篷；这让害羞的他觉得世界比想象的更友好、更值得出去闯",
+        "site": "X 帖子 · 471 收藏",
+        "date": "2026-02-20",
+        "href": "https://x.com/phokarlsson/status/2024797679814054071"
+       },
+       {
+        "title": "向有孩子的人提问：你们怎样帮孩子培养能动性？他指的是两种能力，向内找到自己觉得有意义的项目，以及把它做成的自主、韧性和创造力（回复区值得一读）",
+        "site": "X 帖子 · 172 收藏",
+        "date": "2026-01-25",
+        "href": "https://x.com/phokarlsson/status/2015405440654307388"
+       },
+       {
+        "title": "引 John Holt：孩子只有在害怕世界、被打败时才把自己塞进小漏斗小盒子；做自己热爱的事时，她会像树一样向所有方向生长",
+        "site": "X 帖子 · 53 收藏",
+        "date": "2026-02-23",
+        "href": "https://x.com/phokarlsson/status/2025911267739754659"
+       },
+       {
+        "title": "和妻子谈自主：人像强化学习系统，婴儿哭了发现大人紧张、需求没被满足，就学会压抑眼泪；这样学出的策略只求“够用”，常带着奇怪的副作用",
+        "site": "X 帖子 · 42 收藏",
+        "date": "2026-02-10",
+        "href": "https://x.com/phokarlsson/status/2021139936406102477"
+       },
+       {
+        "title": "和孩子相处时，出问题永远是大人的责任，这反而让人平静；负责不等于不犯错，失控后要修复、谈一谈，适度的摩擦正好是一起谈心理和行为的机会",
+        "site": "X 帖子 · 33 收藏",
+        "date": "2026-01-14",
+        "href": "https://x.com/phokarlsson/status/2011409995582074935"
+       },
+       {
+        "title": "和两个女儿在雪堆里挖隧道，想起 90 年代的童年；两条隧道打通的一刻，他觉得这就像对话，从几铲开始，最后大到可以迷失其中",
+        "site": "X 帖子 · 4 收藏",
+        "date": "2026-01-11",
+        "href": "https://x.com/phokarlsson/status/2010296607279825227"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "heading": "Bryan Caplan @bryan_caplan",
+    "name": "Bryan Caplan",
+    "handle": "bryan_caplan",
+    "blocks": [
+     {
+      "type": "text",
+      "text": "乔治梅森大学经济学教授，X 简介写着四个孩子的父亲，著有《Selfish Reasons to Have More Kids（多生孩子的自私理由）》和《The Case Against Education（反对教育）》。他的立场很极端：学校教育主要是“信号”，养育对孩子长大后的结局影响被严重高估。这里跳过了他的移民、IQ 和政治帖，只选关于养育和学习的。"
+     },
+     {
+      "type": "links",
+      "numbered": false,
+      "links": [
+       {
+        "title": "他转引的一段话：家长给孩子安排的那些“认知启蒙”活动并不重要；养育效果像一条 S 曲线，只要不虐待孩子就到了平台期，直升机家长在平台上投入却零回报",
+        "site": "X 帖子 · 67 收藏",
+        "date": "2026-03-03",
+        "href": "https://x.com/bryan_caplan/status/2028510412107395576"
+       },
+       {
+        "title": "转引 Alex Tabarrok 的经典一句：“我们在做中学，所以不做就学不到”",
+        "site": "X 帖子 · 49 收藏",
+        "date": "2026-09-10",
+        "href": "https://x.com/bryan_caplan/status/2097771205277188336"
+       },
+       {
+        "title": "教育最大的两个因果效应是提高收入、提高配偶的学历；被热议却很小的两个是你学到并记住多少、以及你的政治和社会观点",
+        "site": "X 帖子 · 31 收藏",
+        "date": "2026-09-04",
+        "href": "https://x.com/bryan_caplan/status/2095878000759746919"
+       },
+       {
+        "title": "附和 Robin Hanson“等成功了再生孩子是个糟糕的计划”：如果孩子早早生育，给他们钱是个很好的计划",
+        "site": "X 帖子 · 15 收藏",
+        "date": "2026-04-16",
+        "href": "https://x.com/bryan_caplan/status/2044597265847742949"
+       },
+       {
+        "title": "即使是智商极高、会做研究的科学家，到了元层面也会犯迷糊：聪明人的“学习迁移”同样很低",
+        "site": "X 帖子 · 13 收藏",
+        "date": "2026-02-03",
+        "href": "https://x.com/bryan_caplan/status/2018394955320787231"
+       },
+       {
+        "title": "他的文章引语：养育改变孩子成年结局的力量确实被严重高估，但给儿子们一个更好的童年完全在我能力范围内",
+        "site": "X 帖子 · 9 收藏",
+        "date": "2026-10-02",
+        "href": "https://x.com/bryan_caplan/status/2106015424085438939"
+       },
+       {
+        "title": "AI 会慢慢让世界变好，但教育系统失灵到可能变得更糟：几十年来它 80% 是空心的，空心到 95% 钱也照样会来",
+        "site": "X 帖子 · 4 收藏",
+        "date": "2026-04-13",
+        "href": "https://x.com/bryan_caplan/status/2043710119855214904"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "heading": "Daisy Christodoulou @daisychristo",
+    "name": "Daisy Christodoulou",
+    "handle": "daisychristo",
+    "blocks": [
+     {
+      "type": "text",
+      "text": "英国教育研究者，X 简介写着教育科技公司 No More Marking 的教育总监，著有《Seven Myths about Education》《Making Good Progress》《Teachers vs Tech》。她代表“知识为本”的传统派，常用认知科学和测评数据反驳“可迁移技能”之类的流行说法。她主要写英国中小学政策，离幼儿较远，但对“孩子到底怎样学会东西”很有分量。"
+     },
+     {
+      "type": "links",
+      "numbered": false,
+      "links": [
+       {
+        "title": "“可迁移技能”有个 19 世纪的祖先叫“形式训练”：认为学好一门难课（通常是希腊语或拉丁语）大脑就能万事皆通，它深刻影响了英国文官制度，但它是真的吗？",
+        "site": "X 帖子 · 87 收藏",
+        "date": "2026-09-14",
+        "href": "https://x.com/daisychristo/status/2099207745333305825"
+       },
+       {
+        "title": "Bloom 的“2 个标准差”一对一辅导研究是教育研究里设计最差、最误导的论文之一：只有几百个孩子上了 7 小时入门地图课，用非标准化测验衡量；40 年后还有人想复制它当圣杯",
+        "site": "X 帖子 · 59 收藏",
+        "date": "2026-07-08",
+        "href": "https://x.com/daisychristo/status/2074600546304999616"
+       },
+       {
+        "title": "PISA 不是唯一的国际测试：更侧重课程知识的 TIMSS 和 PIRLS 中，英格兰也是东亚以外唯一在所有项目都进前 10 的国家",
+        "site": "X 帖子 · 55 收藏",
+        "date": "2026-10-06",
+        "href": "https://x.com/daisychristo/status/2107196722141143334"
+       },
+       {
+        "title": "最新 PISA 的少有人报道的细节：英格兰 81% 的孩子所在学校禁手机，远高于其他西方国家；英格兰也是少数没有出现“觉得学新东西很无聊”的学生比例上升的国家",
+        "site": "X 帖子 · 44 收藏",
+        "date": "2026-09-24",
+        "href": "https://x.com/daisychristo/status/2103042014933594198"
+       },
+       {
+        "title": "她担心很多人提倡教口语表达和职业技能，并非重视它们本身，而是以为学业吃力的孩子会擅长这些；可如果学业吃力的孩子在这些方面也不行呢？（附同事的数据分析）",
+        "site": "X 帖子 · 19 收藏",
+        "date": "2026-11-01",
+        "href": "https://x.com/daisychristo/status/2116841626895061446"
+       },
+       {
+        "title": "AI 评卷在澳大利亚的表现：六年级写作中，AI 与 9914 份教师判断的一致率为 79%，与通常人与人之间的一致率相近",
+        "site": "X 帖子 · 0 收藏",
+        "date": "2026-10-29",
+        "href": "https://x.com/daisychristo/status/2115673741485019146"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "heading": "共同的主线",
+    "name": null,
+    "handle": null,
+    "blocks": [
+     {
+      "type": "ol",
+      "items": [
+       "屏幕与 AI 要晚、要慢：英国给 0-5 岁定了 1 小时上限，Haidt 的规则是“长故事好，快多巴胺坏”，Erik 主张教育重演文明、AI 放到最后，Gopnik 强调孩子构建因果模型的方式是 LLM 没有的。",
+       "孩子需要的是独立和自由玩耍，而不是更多安排：Skenazy 说独立像空气一样免费却必需、信心会泛化，Gopnik 推荐走出密集型养育，Henrik 16 岁骑车远行让他相信世界是友好的。",
+       "养育的“投入”被高估，关系和氛围被低估：Caplan 认为启蒙活动在 S 曲线平台上零回报，Skenazy 转述基因的作用让家长松口气，Henrik 则把重点放在大人如何承担责任、如何修复关系。",
+       "阅读是最值得早投入的能力：Erik 的 4 岁孩子每天自主读书一年，PISA 显示全球阅读能力仍在下滑，无手机学校借书量上升，Yoto 一字不差的有声书被几位作者推荐。",
+       "对教育“神话”保持怀疑：Daisy 拆解 Bloom 的 2 个标准差研究和“可迁移技能”，Caplan 说聪明人的学习迁移也很低，Haidt 用挪威撤回 iPad 的例子提醒科技进课堂未必是进步。"
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ "thariq": {
+  "title": "Thariq (@trq212) 半年精选阅读清单",
+  "summary": "2026 年 1 月至 11 月，Claude Code 团队前成员 Thariq 在 X 上最值得读的长文与短帖，按主题整理。",
+  "notes": [],
+  "sections": [
+   {
+    "heading": "先读这几篇",
+    "name": null,
+    "handle": null,
+    "blocks": [
+     {
+      "type": "links",
+      "numbered": true,
+      "links": [
+       {
+        "title": "The Unreasonable Effectiveness of HTML：HTML 就是新的 Markdown",
+        "site": "X 长文 · 3.5 万收藏",
+        "date": "2026-05-08",
+        "href": "https://x.com/trq212/status/2052809885763747935"
+       },
+       {
+        "title": "The new rules of context engineering for Claude 5 models：删掉 80% 系统提示的经验",
+        "site": "X 长文 · 3.3 万收藏",
+        "date": "2026-07-24",
+        "href": "https://x.com/trq212/status/2080710971228918066"
+       },
+       {
+        "title": "A harness for every task: dynamic workflows in Claude Code",
+        "site": "X 长文 · 2.5 万收藏",
+        "date": "2026-06-02",
+        "href": "https://x.com/trq212/status/2061907337154367865"
+       },
+       {
+        "title": "多任务的人应该慢下来：你的 P0 是什么？",
+        "site": "X 帖子",
+        "date": "2026-10-19",
+        "href": "https://x.com/trq212/status/2112219173288120531"
+       },
+       {
+        "title": "coding agent 带来的躁狂：看似很忙，其实没进展",
+        "site": "X 帖子 · 140 万浏览",
+        "date": "2026-10-30",
+        "href": "https://x.com/trq212/status/2115937378674372783"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "heading": "长文合集",
+    "name": null,
+    "handle": null,
+    "blocks": [
+     {
+      "type": "links",
+      "numbered": false,
+      "links": [
+       {
+        "title": "A Field Guide to Fable: Finding Your Unknowns：先找出自己不知道的",
+        "site": "X 长文 · 2.2 万收藏",
+        "date": "2026-07-03",
+        "href": "https://x.com/trq212/status/2073100352921215386"
+       },
+       {
+        "title": "Using Claude Code: Spending your effort：effort 调的是验证力度",
+        "site": "X 长文 · 1 万收藏",
+        "date": "2026-09-25",
+        "href": "https://x.com/trq212/status/2103576349499855160"
+       },
+       {
+        "title": "AIE 主题演讲 A Field Guide to Fable（视频）",
+        "site": "YouTube",
+        "date": "2026-07-06",
+        "href": "https://x.com/trq212/status/2074163788853760175"
+       },
+       {
+        "title": "Using Claude Code: Session Management & 1M Context：context rot 与每轮的岔路口",
+        "site": "X 长文 · 1.57 万收藏",
+        "date": "2026-04-15",
+        "href": "https://x.com/trq212/status/2044548257058328723"
+       },
+       {
+        "title": "Lessons from Building Claude Code: How We Use Skills：9 类 skill 与写法心得",
+        "site": "X 长文 · 4.36 万收藏",
+        "date": "2026-03-17",
+        "href": "https://x.com/trq212/status/2033949937936085378"
+       },
+       {
+        "title": "置顶：他所有技术文章的合集",
+        "site": "X 帖子 · 1.6 万收藏",
+        "date": "2026-03-21",
+        "href": "https://x.com/trq212/status/2035372716820218141"
+       },
+       {
+        "title": "Lessons from Building Claude Code: Seeing like an Agent：按模型能力设计工具",
+        "site": "X 长文 · 2.83 万收藏",
+        "date": "2026-02-27",
+        "href": "https://x.com/trq212/status/2027463795355095314"
+       },
+       {
+        "title": "Lessons from Building Claude Code: Prompt Caching Is Everything：围绕缓存设计 agent",
+        "site": "X 长文 · 1.44 万收藏",
+        "date": "2026-02-19",
+        "href": "https://x.com/trq212/status/2024574133011673516"
+       },
+       {
+        "title": "设计 agent 更像艺术而不是科学",
+        "site": "X 帖子",
+        "date": "2026-02-27",
+        "href": "https://x.com/trq212/status/2027483527831556242"
+       },
+       {
+        "title": "Making Playgrounds using Claude Code：用可交互 HTML 提高人机沟通带宽",
+        "site": "X 长文 · 5548 收藏",
+        "date": "2026-01-29",
+        "href": "https://x.com/trq212/status/2017024445244924382"
+       },
+       {
+        "title": "We're turning Todos into Tasks：给模型松绑，支持跨会话长项目",
+        "site": "X 长文 · 6162 收藏",
+        "date": "2026-01-22",
+        "href": "https://x.com/trq212/status/2014480496013803643"
+       },
+       {
+        "title": "Merging Slash Commands into Skills：渐进式加载上下文",
+        "site": "X 长文 · 2019 收藏",
+        "date": "2026-01-23",
+        "href": "https://x.com/trq212/status/2014836841846132761"
+       },
+       {
+        "title": "How we use Claude Code in Slack：代码库才是最终事实来源",
+        "site": "X 长文 · 1743 收藏",
+        "date": "2026-01-30",
+        "href": "https://x.com/trq212/status/2017350486756888917"
+       },
+       {
+        "title": "Tool Search now in Claude Code：MCP 工具按需加载",
+        "site": "X 长文 · 4855 收藏",
+        "date": "2026-01-14",
+        "href": "https://x.com/trq212/status/2011523109871108570"
+       },
+       {
+        "title": "渲染器闪烁修复长帖：Claude 这么强，为什么还有 bug",
+        "site": "X 帖子",
+        "date": "2026-01-21",
+        "href": "https://x.com/trq212/status/2014051499798831291"
+       }
+      ]
+     },
+     {
+      "type": "text",
+      "text": "effort 那篇的结论：低档快速出草稿、中档做日常开发、高档做验证和边界测试；高档能补“漏了边界情况”，补不了“方法选错”。"
+     }
+    ]
+   },
+   {
+    "heading": "马上能用的提示与技巧",
+    "name": null,
+    "handle": null,
+    "blocks": [
+     {
+      "type": "links",
+      "numbered": false,
+      "links": [
+       {
+        "title": "实现需求时同步维护 implementation-notes，记下规格外的决定与取舍",
+        "site": "1.2 万收藏",
+        "date": "2026-05-18",
+        "href": "https://x.com/trq212/status/2056415973125796184"
+       },
+       {
+        "title": "/eli5：像对外行一样解释，用 HTML，多图少字",
+        "site": "1.9 万收藏",
+        "date": "2026-08-21",
+        "href": "https://x.com/trq212/status/2090884854590382515"
+       },
+       {
+        "title": "Suzanne 的提示：如何跟上并理解 Claude 做的工作",
+        "site": "1.75 万收藏",
+        "date": "2026-06-01",
+        "href": "https://x.com/trq212/status/2061545633560010826"
+       },
+       {
+        "title": "做非技术工作：把文件放进文件夹，让它写脚本、出 HTML",
+        "site": "X 帖子",
+        "date": "2026-05-26",
+        "href": "https://x.com/trq212/status/2059363113963540788"
+       },
+       {
+        "title": "让 Claude Code 写更好 HTML 计划的技能",
+        "site": "4800 收藏",
+        "date": "2026-10-05",
+        "href": "https://x.com/trq212/status/2107192901537329354"
+       },
+       {
+        "title": "Monitor Tool：要明确叫它启动 dev server 并盯着报错",
+        "site": "2765 收藏",
+        "date": "2026-04-09",
+        "href": "https://x.com/trq212/status/2042335178388103559"
+       },
+       {
+        "title": "/ultraplan：在网页上生成、修改并执行实现计划",
+        "site": "6310 收藏",
+        "date": "2026-04-10",
+        "href": "https://x.com/trq212/status/2042671370186973589"
+       },
+       {
+        "title": "开放式验证很容易白烧 token，却不会让结果变好",
+        "site": "X 帖子",
+        "date": "2026-04-08",
+        "href": "https://x.com/trq212/status/2041722125510377705"
+       },
+       {
+        "title": "prompting 会像写作、演讲一样，一直是高杠杆技能",
+        "site": "X 帖子",
+        "date": "2026-04-09",
+        "href": "https://x.com/trq212/status/2042318547519762678"
+       },
+       {
+        "title": "Figma MCP：先画丑草图，让 Claude 在 Figma 里补全再交回写代码",
+        "site": "1132 收藏",
+        "date": "2026-03-29",
+        "href": "https://x.com/trq212/status/2038352023633228183"
+       },
+       {
+        "title": "让 Claude 帮你写作，而不是替你写",
+        "site": "X 帖子",
+        "date": "2026-03-17",
+        "href": "https://x.com/trq212/status/2034043795193663536"
+       },
+       {
+        "title": "工程师的工作越来越像决定在问题上花多少算力",
+        "site": "X 帖子",
+        "date": "2026-03-19",
+        "href": "https://x.com/trq212/status/2034645807144858030"
+       },
+       {
+        "title": "用 Fable 剪辑自己的发布视频，全程不碰剪辑软件",
+        "site": "1.36 万收藏",
+        "date": "2026-06-10",
+        "href": "https://x.com/trq212/status/2064826394589442448"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "heading": "怎么和 agent 协作",
+    "name": null,
+    "handle": null,
+    "blocks": [
+     {
+      "type": "ul",
+      "items": [
+       "理想提示：提示要薄，参考材料与上下文要厚，技能要薄。",
+       "先做原型（样稿、数据结构、概念验证），免得烧完 token 才发现不想要。",
+       "最常见的失败：在不熟的领域写不出精确提示，只能反复模糊迭代。",
+       "抽象层越高，越要懂底层，agent 不改变这一点。",
+       "关键技能是“抠细节”：对对的细节执着，才能做出好东西。",
+       "只有愿意公开提示词时，才分享 Claude 的产出。"
+      ]
+     },
+     {
+      "type": "links",
+      "numbered": false,
+      "links": [
+       {
+        "title": "thin prompts, thick artifacts, thin skills",
+        "site": "X 帖子",
+        "href": "https://x.com/trq212/status/2077539537992229076"
+       },
+       {
+        "title": "先做原型最省 token",
+        "site": "X 帖子",
+        "href": "https://x.com/trq212/status/2078189833445654714"
+       },
+       {
+        "title": "不熟领域的提示失败",
+        "site": "X 帖子",
+        "href": "https://x.com/trq212/status/2108021247301062894"
+       },
+       {
+        "title": "越高层越要懂底层",
+        "site": "X 帖子",
+        "href": "https://x.com/trq212/status/2107504677143368163"
+       },
+       {
+        "title": "being in the details",
+        "site": "X 帖子",
+        "href": "https://x.com/trq212/status/2110488896039690255"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "heading": "工作心态：慢下来，别瞎忙",
+    "name": null,
+    "handle": null,
+    "blocks": [
+     {
+      "type": "links",
+      "numbered": false,
+      "links": [
+       {
+        "title": "最怕效率提升被我们变懒吃掉",
+        "site": "X 帖子",
+        "date": "2026-09-27",
+        "href": "https://x.com/trq212/status/2104273243599405395"
+       },
+       {
+        "title": "用好模型能力不是多发 10 倍功能，而是多理解用户、多做实验",
+        "site": "X 帖子",
+        "date": "2026-09-23",
+        "href": "https://x.com/trq212/status/2102548686303854790"
+       },
+       {
+        "title": "如果你通宵干、总觉得有新顿悟，该检查一下自己",
+        "site": "X 帖子",
+        "date": "2026-10-30",
+        "href": "https://x.com/trq212/status/2116037011320791532"
+       },
+       {
+        "title": "做游戏的创意别外包给 AI，让 AI 帮你实现构想",
+        "site": "X 帖子",
+        "date": "2026-09-30",
+        "href": "https://x.com/trq212/status/2105333496768319969"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "heading": "对 AI 与经济的判断",
+    "name": null,
+    "handle": null,
+    "blocks": [
+     {
+      "type": "links",
+      "numbered": false,
+      "links": [
+       {
+        "title": "走出经济悲观的办法是更相信 AGI",
+        "site": "X 帖子",
+        "date": "2026-10-31",
+        "href": "https://x.com/trq212/status/2116212322838655014"
+       },
+       {
+        "title": "不该接受不透明的超级智能，沟通是智能的信号",
+        "site": "X 帖子",
+        "date": "2026-10-12",
+        "href": "https://x.com/trq212/status/2109329495341867391"
+       },
+       {
+        "title": "“赚钱按钮”：把 SaaS 做成给 agent 用的接口，按调用收费",
+        "site": "X 帖子",
+        "date": "2026-08-19",
+        "href": "https://x.com/trq212/status/2089844723691479333"
+       },
+       {
+        "title": "数学里的杰文斯悖论：懂数学的人会更抢手",
+        "site": "X 帖子",
+        "date": "2026-08-03",
+        "href": "https://x.com/trq212/status/2083977795290734975"
+       },
+       {
+        "title": "老代码库可被“提炼”成新形式，重写又好又快",
+        "site": "X 帖子",
+        "date": "2026-05-24",
+        "href": "https://x.com/trq212/status/2058576195000660319"
+       },
+       {
+        "title": "应用可以像一顿家常饭一样个人化",
+        "site": "X 帖子",
+        "date": "2026-06-04",
+        "href": "https://x.com/trq212/status/2062605395101884916"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "heading": "贯穿始终的思路",
+    "name": null,
+    "handle": null,
+    "blocks": [
+     {
+      "type": "callout",
+      "text": "用 HTML 和实现笔记让人始终看懂 agent 在做什么；模型越强，提示越少、验证越重要；要更有野心，但别把忙碌当进展。"
+     }
+    ]
+   }
+  ]
+ }
+}

@@ -1,0 +1,115 @@
+<cursor_untrusted_data_1337 source="ReadCanvas">
+
+Canvas "Thariq (@trq212) 半年精选阅读清单" (https://cursor.com/canvas/store-761f6cd5-81b2-4bd2-8f66-bada0eceee08/4b261f64-40e5-483a-9de5-fe683b9aa41e):
+
+import { Page, Section, Text, LinkCards, Callout, BulletList, TableOfContents } from "grok/canvas";
+
+export default function App() {
+  return (
+    <Page title="Thariq (@trq212) 半年精选阅读清单" summary="2026 年 1 月至 11 月，Claude Code 团队前成员 Thariq 在 X 上最值得读的长文与短帖，按主题整理。">
+      <TableOfContents title="目录" items={[
+        { label: "先读这几篇" },
+        { label: "长文合集" },
+        { label: "马上能用的提示与技巧" },
+        { label: "怎么和 agent 协作" },
+        { label: "工作心态：慢下来，别瞎忙" },
+        { label: "对 AI 与经济的判断" },
+        { label: "贯穿始终的思路" },
+      ]} />
+
+      <Section heading="先读这几篇">
+        <LinkCards numbered links={[
+          { title: "The Unreasonable Effectiveness of HTML：HTML 就是新的 Markdown", site: "X 长文 · 3.5 万收藏", date: "2026-05-08", href: "https://x.com/trq212/status/2052809885763747935" },
+          { title: "The new rules of context engineering for Claude 5 models：删掉 80% 系统提示的经验", site: "X 长文 · 3.3 万收藏", date: "2026-07-24", href: "https://x.com/trq212/status/2080710971228918066" },
+          { title: "A harness for every task: dynamic workflows in Claude Code", site: "X 长文 · 2.5 万收藏", date: "2026-06-02", href: "https://x.com/trq212/status/2061907337154367865" },
+          { title: "多任务的人应该慢下来：你的 P0 是什么？", site: "X 帖子", date: "2026-10-19", href: "https://x.com/trq212/status/2112219173288120531" },
+          { title: "coding agent 带来的躁狂：看似很忙，其实没进展", site: "X 帖子 · 140 万浏览", date: "2026-10-30", href: "https://x.com/trq212/status/2115937378674372783" },
+        ]} />
+      </Section>
+
+      <Section heading="长文合集">
+        <LinkCards links={[
+          { title: "A Field Guide to Fable: Finding Your Unknowns：先找出自己不知道的", site: "X 长文 · 2.2 万收藏", date: "2026-07-03", href: "https://x.com/trq212/status/2073100352921215386" },
+          { title: "Using Claude Code: Spending your effort：effort 调的是验证力度", site: "X 长文 · 1 万收藏", date: "2026-09-25", href: "https://x.com/trq212/status/2103576349499855160" },
+          { title: "AIE 主题演讲 A Field Guide to Fable（视频）", site: "YouTube", date: "2026-07-06", href: "https://x.com/trq212/status/2074163788853760175" },
+          { title: "Using Claude Code: Session Management & 1M Context：context rot 与每轮的岔路口", site: "X 长文 · 1.57 万收藏", date: "2026-04-15", href: "https://x.com/trq212/status/2044548257058328723" },
+          { title: "Lessons from Building Claude Code: How We Use Skills：9 类 skill 与写法心得", site: "X 长文 · 4.36 万收藏", date: "2026-03-17", href: "https://x.com/trq212/status/2033949937936085378" },
+          { title: "置顶：他所有技术文章的合集", site: "X 帖子 · 1.6 万收藏", date: "2026-03-21", href: "https://x.com/trq212/status/2035372716820218141" },
+          { title: "Lessons from Building Claude Code: Seeing like an Agent：按模型能力设计工具", site: "X 长文 · 2.83 万收藏", date: "2026-02-27", href: "https://x.com/trq212/status/2027463795355095314" },
+          { title: "Lessons from Building Claude Code: Prompt Caching Is Everything：围绕缓存设计 agent", site: "X 长文 · 1.44 万收藏", date: "2026-02-19", href: "https://x.com/trq212/status/2024574133011673516" },
+          { title: "设计 agent 更像艺术而不是科学", site: "X 帖子", date: "2026-02-27", href: "https://x.com/trq212/status/2027483527831556242" },
+          { title: "Making Playgrounds using Claude Code：用可交互 HTML 提高人机沟通带宽", site: "X 长文 · 5548 收藏", date: "2026-01-29", href: "https://x.com/trq212/status/2017024445244924382" },
+          { title: "We're turning Todos into Tasks：给模型松绑，支持跨会话长项目", site: "X 长文 · 6162 收藏", date: "2026-01-22", href: "https://x.com/trq212/status/2014480496013803643" },
+          { title: "Merging Slash Commands into Skills：渐进式加载上下文", site: "X 长文 · 2019 收藏", date: "2026-01-23", href: "https://x.com/trq212/status/2014836841846132761" },
+          { title: "How we use Claude Code in Slack：代码库才是最终事实来源", site: "X 长文 · 1743 收藏", date: "2026-01-30", href: "https://x.com/trq212/status/2017350486756888917" },
+          { title: "Tool Search now in Claude Code：MCP 工具按需加载", site: "X 长文 · 4855 收藏", date: "2026-01-14", href: "https://x.com/trq212/status/2011523109871108570" },
+          { title: "渲染器闪烁修复长帖：Claude 这么强，为什么还有 bug", site: "X 帖子", date: "2026-01-21", href: "https://x.com/trq212/status/2014051499798831291" },
+        ]} />
+        <Text>effort 那篇的结论：低档快速出草稿、中档做日常开发、高档做验证和边界测试；高档能补“漏了边界情况”，补不了“方法选错”。</Text>
+      </Section>
+
+      <Section heading="马上能用的提示与技巧">
+        <LinkCards links={[
+          { title: "实现需求时同步维护 implementation-notes，记下规格外的决定与取舍", site: "1.2 万收藏", date: "2026-05-18", href: "https://x.com/trq212/status/2056415973125796184" },
+          { title: "/eli5：像对外行一样解释，用 HTML，多图少字", site: "1.9 万收藏", date: "2026-08-21", href: "https://x.com/trq212/status/2090884854590382515" },
+          { title: "Suzanne 的提示：如何跟上并理解 Claude 做的工作", site: "1.75 万收藏", date: "2026-06-01", href: "https://x.com/trq212/status/2061545633560010826" },
+          { title: "做非技术工作：把文件放进文件夹，让它写脚本、出 HTML", site: "X 帖子", date: "2026-05-26", href: "https://x.com/trq212/status/2059363113963540788" },
+          { title: "让 Claude Code 写更好 HTML 计划的技能", site: "4800 收藏", date: "2026-10-05", href: "https://x.com/trq212/status/2107192901537329354" },
+          { title: "Monitor Tool：要明确叫它启动 dev server 并盯着报错", site: "2765 收藏", date: "2026-04-09", href: "https://x.com/trq212/status/2042335178388103559" },
+          { title: "/ultraplan：在网页上生成、修改并执行实现计划", site: "6310 收藏", date: "2026-04-10", href: "https://x.com/trq212/status/2042671370186973589" },
+          { title: "开放式验证很容易白烧 token，却不会让结果变好", site: "X 帖子", date: "2026-04-08", href: "https://x.com/trq212/status/2041722125510377705" },
+          { title: "prompting 会像写作、演讲一样，一直是高杠杆技能", site: "X 帖子", date: "2026-04-09", href: "https://x.com/trq212/status/2042318547519762678" },
+          { title: "Figma MCP：先画丑草图，让 Claude 在 Figma 里补全再交回写代码", site: "1132 收藏", date: "2026-03-29", href: "https://x.com/trq212/status/2038352023633228183" },
+          { title: "让 Claude 帮你写作，而不是替你写", site: "X 帖子", date: "2026-03-17", href: "https://x.com/trq212/status/2034043795193663536" },
+          { title: "工程师的工作越来越像决定在问题上花多少算力", site: "X 帖子", date: "2026-03-19", href: "https://x.com/trq212/status/2034645807144858030" },
+          { title: "用 Fable 剪辑自己的发布视频，全程不碰剪辑软件", site: "1.36 万收藏", date: "2026-06-10", href: "https://x.com/trq212/status/2064826394589442448" },
+        ]} />
+      </Section>
+
+      <Section heading="怎么和 agent 协作">
+        <BulletList items={[
+          "理想提示：提示要薄，参考材料与上下文要厚，技能要薄。",
+          "先做原型（样稿、数据结构、概念验证），免得烧完 token 才发现不想要。",
+          "最常见的失败：在不熟的领域写不出精确提示，只能反复模糊迭代。",
+          "抽象层越高，越要懂底层，agent 不改变这一点。",
+          "关键技能是“抠细节”：对对的细节执着，才能做出好东西。",
+          "只有愿意公开提示词时，才分享 Claude 的产出。",
+        ]} />
+        <LinkCards links={[
+          { title: "thin prompts, thick artifacts, thin skills", site: "X 帖子", href: "https://x.com/trq212/status/2077539537992229076" },
+          { title: "先做原型最省 token", site: "X 帖子", href: "https://x.com/trq212/status/2078189833445654714" },
+          { title: "不熟领域的提示失败", site: "X 帖子", href: "https://x.com/trq212/status/2108021247301062894" },
+          { title: "越高层越要懂底层", site: "X 帖子", href: "https://x.com/trq212/status/2107504677143368163" },
+          { title: "being in the details", site: "X 帖子", href: "https://x.com/trq212/status/2110488896039690255" },
+        ]} />
+      </Section>
+
+      <Section heading="工作心态：慢下来，别瞎忙">
+        <LinkCards links={[
+          { title: "最怕效率提升被我们变懒吃掉", site: "X 帖子", date: "2026-09-27", href: "https://x.com/trq212/status/2104273243599405395" },
+          { title: "用好模型能力不是多发 10 倍功能，而是多理解用户、多做实验", site: "X 帖子", date: "2026-09-23", href: "https://x.com/trq212/status/2102548686303854790" },
+          { title: "如果你通宵干、总觉得有新顿悟，该检查一下自己", site: "X 帖子", date: "2026-10-30", href: "https://x.com/trq212/status/2116037011320791532" },
+          { title: "做游戏的创意别外包给 AI，让 AI 帮你实现构想", site: "X 帖子", date: "2026-09-30", href: "https://x.com/trq212/status/2105333496768319969" },
+        ]} />
+      </Section>
+
+      <Section heading="对 AI 与经济的判断">
+        <LinkCards links={[
+          { title: "走出经济悲观的办法是更相信 AGI", site: "X 帖子", date: "2026-10-31", href: "https://x.com/trq212/status/2116212322838655014" },
+          { title: "不该接受不透明的超级智能，沟通是智能的信号", site: "X 帖子", date: "2026-10-12", href: "https://x.com/trq212/status/2109329495341867391" },
+          { title: "“赚钱按钮”：把 SaaS 做成给 agent 用的接口，按调用收费", site: "X 帖子", date: "2026-08-19", href: "https://x.com/trq212/status/2089844723691479333" },
+          { title: "数学里的杰文斯悖论：懂数学的人会更抢手", site: "X 帖子", date: "2026-08-03", href: "https://x.com/trq212/status/2083977795290734975" },
+          { title: "老代码库可被“提炼”成新形式，重写又好又快", site: "X 帖子", date: "2026-05-24", href: "https://x.com/trq212/status/2058576195000660319" },
+          { title: "应用可以像一顿家常饭一样个人化", site: "X 帖子", date: "2026-06-04", href: "https://x.com/trq212/status/2062605395101884916" },
+        ]} />
+      </Section>
+
+      <Section heading="贯穿始终的思路">
+        <Callout>用 HTML 和实现笔记让人始终看懂 agent 在做什么；模型越强，提示越少、验证越重要；要更有野心，但别把忙碌当进展。</Callout>
+      </Section>
+    </Page>
+  );
+}
+
+
+</cursor_untrusted_data_1337>

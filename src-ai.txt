@@ -1,0 +1,170 @@
+<cursor_untrusted_data_1337 source="ReadCanvas">
+
+Canvas "X 上值得关注的人：AI 与 Agent" (https://cursor.com/canvas/store-761f6cd5-81b2-4bd2-8f66-bada0eceee08/66412cfc-137a-481b-8a13-7801f31f1fa1):
+
+import { Page, Section, Text, LinkCards, TableOfContents, NumberedList } from "grok/canvas";
+
+export default function App() {
+  return (
+    <Page
+      title="X 上值得关注的人：AI 与 Agent"
+      summary="8 位在 X 上持续分享 AI 编程 agent 和 agent 产品经验的人，以及他们 2026 年 1 月到 11 月初最值得一读的帖子。每条一句话讲清要点，收藏数为 11 月 2 日抓取时的数据，日期按北京时间（UTC+8），点开即可看原帖。"
+      width="column"
+      lang="zh-Hans"
+    >
+      <TableOfContents
+        items={[
+          { label: "Andrej Karpathy @karpathy" },
+          { label: "Boris Cherny @bcherny" },
+          { label: "Simon Willison @simonw" },
+          { label: "Harrison Chase @hwchase17" },
+          { label: "Peter Steinberger @steipete" },
+          { label: "Amjad Masad @amasad" },
+          { label: "swyx @swyx" },
+          { label: "Ethan Mollick @emollick" },
+          { label: "共同的主线" },
+        ]}
+      />
+
+      <Text>简介里标 * 的事实来自公开常识，没有在本次读到的帖子或账号简介中核实；其余来自他们的 X 简介或帖子本身。帖子里的模型名（如 Fable、Opus 5.5、GPT-6）照原文保留。</Text>
+
+      <Section heading="Andrej Karpathy @karpathy">
+        <Text>OpenAI 创始成员*、前特斯拉 AI 负责人*，“vibe coding”一词的提出者*。X 简介为空；5 月 19 日发帖宣布加入 Anthropic。今年他的长帖是这一组人里收藏最高的，主题从 agent 编程工作流延伸到用 LLM 管理知识。</Text>
+        <LinkCards
+          links={[
+            { title: "LLM 知识库：把论文、文章、代码放进 raw/ 目录，让 LLM 增量“编译”成 Markdown wiki，用 Obsidian 当前端；他的一个研究 wiki 约 100 篇、40 万词，token 越来越多花在操作知识而不是代码上", site: "X 帖子 · 10.9 万收藏", date: "2026-04-03", href: "https://x.com/karpathy/status/2039805659525644595" },
+            { title: "理解模型输出的技巧：让 LLM 用航空维修文档的受控语言 ASD-STE100 写解释；更好的是图表和 HTML 网页，他最看好按需生成的讲解视频", site: "X 帖子 · 8.23 万收藏", date: "2026-10-02", href: "https://x.com/karpathy/status/2105819303471976479" },
+            { title: "“idea file”：agent 时代与其分享代码，不如分享想法，对方的 agent 会按需定制实现；他把 LLM wiki 的做法写成了 gist", site: "X 帖子 · 4.64 万收藏", date: "2026-04-05", href: "https://x.com/karpathy/status/2040470801506541998" },
+            { title: "autoresearch：约 630 行的单 GPU 训练代码，人迭代提示词（.md），agent 迭代训练代码（.py），每次训练 5 分钟，在 git 分支上自主循环找更好的设置", site: "X 帖子 · 3.87 万收藏", date: "2026-03-08", href: "https://x.com/karpathy/status/2030371219518931079" },
+            { title: "Claude 编程笔记：从 11 月的 80% 手写变成 12 月的 80% agent 编码，“主要在用英语编程”；模型的错误已从语法错误变成草率初级工程师式的概念错误，要盯紧", site: "X 帖子 · 3.69 万收藏", date: "2026-01-27", href: "https://x.com/karpathy/status/2015883857489522876" },
+            { title: "能力认知的漏斗：约 60 亿人几乎没接触过 LLM，10 到 20 亿人只用免费版，约 2000 万人在数学和代码里亲见 agent 完成数周的项目，约 5000 人能用到内部前沿系统；人的审查和理解开始跟不上", site: "X 帖子 · 3.01 万收藏", date: "2026-10-12", href: "https://x.com/karpathy/status/2109361546505966046" },
+            { title: "编程在去年 12 月发生突变：coding agent “之前基本不能用，之后基本能用”；一段话让 agent 在 DGX Spark 上搭好家庭摄像头视频分析服务，30 分钟完成，他没碰任何东西", site: "X 帖子 · 2.01 万收藏", date: "2026-02-26", href: "https://x.com/karpathy/status/2026731645169185220" },
+            { title: "“漫谈”技巧：切到语音随便讲 10 分钟意识流，LLM 很擅长把混乱的想法整理清楚，之后要纠正的地方更少", site: "X 帖子 · 1.52 万收藏", date: "2026-07-22", href: "https://x.com/karpathy/status/2079610838143623371" },
+          ]}
+        />
+      </Section>
+
+      <Section heading="Boris Cherny @bcherny">
+        <Text>Claude Code 的创造者（他在帖子里这样自我介绍），X 简介写着“Claude @anthropicai”。帖子多是 Claude Code 新功能和他本人的用法，核心观点是开箱即用、少定制、像对同事一样说话，再给 agent 自我验证的手段。</Text>
+        <LinkCards
+          links={[
+            { title: "线程：我怎么用 Claude Code。配置出奇地“原味”，几乎不定制；团队里每个人的用法都不一样", site: "X 帖子 · 10.3 万收藏", date: "2026-01-03", href: "https://x.com/bcherny/status/2007179832300581177" },
+            { title: "线程：来自 Claude Code 团队的使用技巧，团队的用法和他个人不同，没有唯一正确的方式，要自己试", site: "X 帖子 · 10.2 万收藏", date: "2026-02-01", href: "https://x.com/bcherny/status/2017742741636321619" },
+            { title: "像对同事一样跟 Claude 说话：提示词没有秘诀，大多数任务不需要繁复的脚手架，给目标它就能想办法", site: "X 帖子 · 1.05 万收藏", date: "2026-10-07", href: "https://x.com/bcherny/status/2107565388250874193" },
+            { title: "自动化比以前更重要：基础设施提速会让每个 agent 都提速；与其让 agent 每次修同一类问题，不如让它写 lint 规则或 CI 步骤，一劳永逸", site: "X 帖子 · 9990 收藏", date: "2026-07-16", href: "https://x.com/bcherny/status/2077460395279692197" },
+            { title: "/checkup 命令：清理没用的 skills、MCP 和插件以节省上下文，把根 CLAUDE.md 拆成嵌套文件和 skills，关掉慢 hook，默认开启 auto mode", site: "X 帖子 · 9218 收藏", date: "2026-07-09", href: "https://x.com/bcherny/status/2074997570317779038" },
+            { title: "让 Claude 接管应用日常维护：Slack 频道里跑崩溃模糊测试、合并重复抽象、清理死代码等例行任务，几周内开了 388 个 PR，合并了 180 个", site: "X 帖子 · 5955 收藏", date: "2026-08-14", href: "https://x.com/bcherny/status/2088014489438621990" },
+            { title: "用 Opus 5.5 和 Lean 形式化验证 Claude Agent SDK：几条短提示换来 16 个修复 bug 和竞态条件的 PR，也常结合 TLA+ 检查并发和状态管理", site: "X 帖子 · 5059 收藏", date: "2026-09-23", href: "https://x.com/bcherny/status/2102543349102338309" },
+            { title: "让 Opus 自主跑几小时到几天的五条建议：auto mode、动态工作流编排成百上千个 agent、/goal 或 /loop、在云端运行、给它端到端自我验证的手段", site: "X 帖子 · 3951 收藏", date: "2026-06-08", href: "https://x.com/bcherny/status/2063792263067754658" },
+          ]}
+        />
+      </Section>
+
+      <Section heading="Simon Willison @simonw">
+        <Text>Datasette 作者、Django 联合创作者（X 简介），“prompt injection”一词的提出者*。他在博客上公开记录用 coding agent 的实验，X 帖子多是博客链接，收藏数不高但信息密度大。</Text>
+        <LinkCards
+          links={[
+            { title: "发布《Agentic Engineering Patterns》指南前两章：让 Claude Code、Codex 等 coding agent 发挥最佳效果的编码实践", site: "X 帖子 · 3543 收藏", date: "2026-02-24", href: "https://x.com/simonw/status/2025990408514523517" },
+            { title: "最有意思的 Fable 技巧是尽量让模型自己判断，比如“所有编码任务自行选一个更低档的模型在 subagent 里跑”，省了很多 token", site: "X 帖子 · 3463 收藏", date: "2026-07-04", href: "https://x.com/simonw/status/2073117641020215566" },
+            { title: "推荐“Fable 时代 agentic engineering 最锋利边缘”的案例，即 @jsnnsa 的文章《How I Built the Most AI-Pilled Company in the World》", site: "X 帖子 · 2529 收藏", date: "2026-10-29", href: "https://x.com/simonw/status/2115821668350435645" },
+            { title: "Cat Wu 和 Thariq 的提示词建议：别再往提示词里塞例子和禁止清单；Claude Code 自己的系统提示词刚缩减了 80%", site: "X 帖子 · 1103 收藏", date: "2026-07-21", href: "https://x.com/simonw/status/2079553486568800405" },
+            { title: "10 月是 coding agent 的又一个拐点：Claude Opus 5.5 已经能做出真正好玩的游戏", site: "X 帖子 · 781 收藏", date: "2026-10-28", href: "https://x.com/simonw/status/2115444742595260551" },
+            { title: "博文：几乎所有东西都需要默认的硬性预算上限", site: "X 帖子 · 517 收藏", date: "2026-10-04", href: "https://x.com/simonw/status/2106528704902164855" },
+            { title: "“LLM 只适合新项目、帮不了维护大型老代码库”的看法已经站不住了", site: "X 帖子 · 232 收藏", date: "2026-04-18", href: "https://x.com/simonw/status/2045204429281067161" },
+          ]}
+        />
+      </Section>
+
+      <Section heading="Harrison Chase @hwchase17">
+        <Text>LangChain 联合创始人兼 CEO*，X 简介只写着 @LangChain。今年他几乎每月一篇 X 长文，围绕 harness、记忆、上下文工程和托管 agent，是这一组人里把“怎么造 agent 产品”写得最系统的。</Text>
+        <LinkCards
+          links={[
+            { title: "长文《Your harness, your memory》：harness 不会被模型吸收（泄露的 Claude Code 源码有 51.2 万行，那就是 harness）；记忆和 harness 绑定，用封闭 harness 等于把记忆交给第三方", site: "X 文章 · 1.06 万收藏", date: "2026-04-11", href: "https://x.com/hwchase17/status/2042978500567609738" },
+            { title: "长文《How we built Agent Builder’s memory system》：无代码 agent 平台为什么从一开始就优先做记忆，以及实现细节和教训", site: "X 文章 · 2246 收藏", date: "2026-01-15", href: "https://x.com/hwchase17/status/2011814697889316930" },
+            { title: "长文《The five components of building a company harness》：LangChain 内部 GTM、工程和营销 agent 的五个共同原语：活在 Slack 里、代用户身份行事、分层记忆、沙箱、多数运行由定时任务触发", site: "X 文章 · 2151 收藏", date: "2026-10-25", href: "https://x.com/hwchase17/status/2114041443836903662" },
+            { title: "长文《Continual learning for AI agents》：agent 的持续学习可以发生在三层：模型权重、harness、上下文（CLAUDE.md、skills）", site: "X 文章 · 2085 收藏", date: "2026-04-05", href: "https://x.com/hwchase17/status/2040467997022884194" },
+            { title: "长文《Why managed agents are the next big thing in agent building》：从早期框架到 harness，再到托管 agent 的演进", site: "X 文章 · 1815 收藏", date: "2026-08-08", href: "https://x.com/hwchase17/status/2085780032031760694" },
+            { title: "长文《In software, the code documents the app. In AI, the traces do.》：agent 的决策发生在运行时，事实来源从代码转向 trace", site: "X 文章 · 1491 收藏", date: "2026-01-11", href: "https://x.com/hwchase17/status/2010044779225329688" },
+            { title: "长文《New context engineering challenges in late 2026》：skills、工具搜索、subagent、bash 已成标准解法；新难题是主动但不烦人、记忆、异步、目标追踪、防作弊和浏览器使用", site: "X 文章 · 805 收藏", date: "2026-10-31", href: "https://x.com/hwchase17/status/2116553654857867330" },
+          ]}
+        />
+      </Section>
+
+      <Section heading="Peter Steinberger @steipete">
+        <Text>PSPDFKit 创始人*，“退休”后回来做开源个人助手 OpenClaw，X 简介写着 OpenClaw 和 OpenAI。他的帖子是“token 不再是约束时怎么造软件”的一线实录，几乎全程用 Codex。</Text>
+        <LinkCards
+          links={[
+            { title: "token 不重要时怎么造软件：常驻约 100 个云端 Codex 审每个 PR 和 issue，每次提交做安全审查，给 issue 去重，自动复现并录前后对比视频，还会听会议主动开 PR", site: "X 帖子 · 5361 收藏", date: "2026-05-16", href: "https://x.com/steipete/status/2055405041843052792" },
+            { title: "OpenAI DevDay 2026 演讲：团队如何用 agent 更好地协作（YouTube 视频）", site: "X 帖子 · 1674 收藏", date: "2026-10-08", href: "https://x.com/steipete/status/2107911769767440832" },
+            { title: "教 Codex 当 QA：每次提交生成用户测试场景，通过远程桌面和浏览器操作像真人一样测试 OpenClaw，在后台开 PR 修复", site: "X 帖子 · 1451 收藏", date: "2026-06-01", href: "https://x.com/steipete/status/2061208638027395490" },
+            { title: "用自己的 harness 的又一个理由：平台方可以随时改变你能做什么（引用 Claude Code 被下发“不复刻现有游戏”规则的帖子）", site: "X 帖子 · 1226 收藏", date: "2026-10-30", href: "https://x.com/steipete/status/2116153238563242385" },
+            { title: "我从不用 plan mode，“直接跟你的 agent 聊”", site: "X 帖子 · 1066 收藏", date: "2026-04-02", href: "https://x.com/steipete/status/2039551079621566812" },
+            { title: "换用 tsrs 后 OpenClaw 快了约 5 倍：微软一个团队花两年把 TS 编译器移植到 Go，现在让 agent 放手干，几周就能做出明显更好的东西", site: "X 帖子 · 706 收藏", date: "2026-10-20", href: "https://x.com/steipete/status/2112571535731106013" },
+            { title: "开一个循环把 OpenClaw 前端从 Lit 迁到 Solid 2.0：约 6 天移除 Lit，再用一周改成地道写法，约 600 个 PR，他每隔一天看一眼", site: "X 帖子 · 504 收藏", date: "2026-10-21", href: "https://x.com/steipete/status/2112597162924351909" },
+          ]}
+        />
+      </Section>
+
+      <Section heading="Amjad Masad @amasad">
+        <Text>Replit CEO（X 简介），3 月宣布融资 4 亿美元、估值 90 亿美元（他的帖子）。他关心的是 agent 让人人都能做软件之后，公司、运维和安全会变成什么样。</Text>
+        <LinkCards
+          links={[
+            { title: "长文《The Self-Driving Company》：半年里 Replit 工程师的代码产出近三倍，评审时间、回滚和事故持平；agent 在排查线上事故、审 PR、分析数据、分拣工单", site: "X 文章 · 6754 收藏", date: "2026-07-17", href: "https://x.com/amasad/status/2077802290304684404" },
+            { title: "发布 Replit Agent 4：软件是创意工作，在无限画布上设计、团队协作、并行跑多个 agent", site: "X 帖子 · 4335 收藏", date: "2026-03-11", href: "https://x.com/amasad/status/2031755113694679094" },
+            { title: "“Agent 让软件变便宜了，却让写代码变贵了”，宣布与 OpenAI 合作改变这一点", site: "X 帖子 · 1241 收藏", date: "2026-08-19", href: "https://x.com/amasad/status/2090079496124674377" },
+            { title: "“你不再需要学编程”：一位用户只靠 Replit Agent、不雇工程师，就经营着八位数美元的生意", site: "X 帖子 · 710 收藏", date: "2026-01-03", href: "https://x.com/amasad/status/2007270067625713891" },
+            { title: "AI 吃掉了大部分开发流程，但线上应用的维护仍靠人工，DevSecOps 成为新瓶颈（发布 Auto-Protect 漏洞扫描）", site: "X 帖子 · 241 收藏", date: "2026-04-24", href: "https://x.com/amasad/status/2047411360993034262" },
+            { title: "投资前沿 AI 应主要看新发现及其应用（如医学），因为编程和多数知识工作正被次前沿模型饱和", site: "X 帖子 · 181 收藏", date: "2026-10-28", href: "https://x.com/amasad/status/2115207856496480261" },
+            { title: "员工或外包人员电脑上的 coding agent 是巨大的网络安全和国家安全风险", site: "X 帖子 · 172 收藏", date: "2026-10-30", href: "https://x.com/amasad/status/2116179892991922433" },
+          ]}
+        />
+      </Section>
+
+      <Section heading="swyx @swyx">
+        <Text>Latent Space 播客和 AI Engineer 大会的主理人，X 简介列出 smol_ai、Cognition 等关联，“AI Engineer”这一说法的推广者*。他的价值在行业判断和基准评测；日常帖子不少是闲聊和市场，需要挑着看。</Text>
+        <LinkCards
+          links={[
+            { title: "开源项目做到 AI 工程品类第一，收购价约为每位工程师 1000 万到 1 亿美元，不需要商业模式、GTM 和融资", site: "X 帖子 · 1916 收藏", date: "2026-03-10", href: "https://x.com/swyx/status/2031071059307601944" },
+            { title: "FrontierCode 发布：METR 发现过半 SWE-bench 结果是无法合并的低质代码；新基准含 3000 多条评分规则，最难的 Diamond 集上 Opus 4.8 只有 13.8%", site: "X 帖子 · 399 收藏", date: "2026-06-09", href: "https://x.com/swyx/status/2064081945567580323" },
+            { title: "杰文斯悖论：知识工作的单位成本下降，总需求反而上升；“编程发生的事不是例外，而是先兆”", site: "X 帖子 · 344 收藏", date: "2026-07-12", href: "https://x.com/swyx/status/2076155833428431012" },
+            { title: "低 effort 加批评循环，好过把 effort 开到最高档（针对吞吐受限的人）", site: "X 帖子 · 193 收藏", date: "2026-11-01", href: "https://x.com/swyx/status/2116642586387730593" },
+            { title: "Opus 5.5 是他用过最好的工作量估算模型：别按人类说要 2 到 3 个工作日，对 agent 来说是 2 到 3 小时", site: "X 帖子 · 125 收藏", date: "2026-10-22", href: "https://x.com/swyx/status/2113283272130412684" },
+            { title: "Claude Code 正变成可塑的通用 harness，可以改造成任何领域的专用 harness（Claude Mods 深度测评）", site: "X 帖子 · 106 收藏", date: "2026-10-22", href: "https://x.com/swyx/status/2113003628835553559" },
+            { title: "Devin 的大脑用几十组模型，每个模型都经大量评测才进 harness，每几个月完全重写一次", site: "X 帖子 · 69 收藏", date: "2026-03-09", href: "https://x.com/swyx/status/2030853776136139109" },
+          ]}
+        />
+      </Section>
+
+      <Section heading="Ethan Mollick @emollick">
+        <Text>沃顿商学院研究 AI 的教授，新书《Co-Existence》已出版（X 简介），上一本是《Co-Intelligence》*。他从组织理论看 agent：管理幅度、分工和人在回路，适合做 agent 产品时补上“组织”视角。</Text>
+        <LinkCards
+          links={[
+            { title: "agent 系统应借鉴组织理论：人最多管不到 10 个直接下属，100 个 subagent 对一个编排 agent 太多，可能需要“中层管理 agent”", site: "X 帖子 · 1407 收藏", date: "2026-02-08", href: "https://x.com/emollick/status/2020303173362012667" },
+            { title: "他们在宝洁的研究发现 AI 模糊了岗位边界，OpenAI 也有类似发现；公司需要重新思考分工", site: "X 帖子 · 1172 收藏", date: "2026-08-01", href: "https://x.com/emollick/status/2083328923782242327" },
+            { title: "一篇用安然邮件档案测试 agent 处理工作能力的文章，证据表明“agent 组织”比“agent 蜂群”更有用", site: "X 帖子 · 500 收藏", date: "2026-03-14", href: "https://x.com/emollick/status/2032829110242746395" },
+            { title: "个人 agent 的 UX 问题：你很难看出它在做什么、知道你什么、会替你做什么", site: "X 帖子 · 490 收藏", date: "2026-10-31", href: "https://x.com/emollick/status/2116321075164500438" },
+            { title: "Claude Projects 擅长管理 agent 团队：主编排 agent 按需拉起专家，混用贵和便宜的 agent；一个历史谜案任务拉起了 18 个线程", site: "X 帖子 · 434 收藏", date: "2026-09-18", href: "https://x.com/emollick/status/2100665801800093959" },
+            { title: "研究发现专家与 AI agent 合作时会被 AI 的立场左右，即使自认为在独立判断", site: "X 帖子 · 262 收藏", date: "2026-10-28", href: "https://x.com/emollick/status/2115209786157412397" },
+            { title: "详细推理摘要不再提供后，人在回路变得更难，推着我们走向自动化而不是增强", site: "X 帖子 · 126 收藏", date: "2026-10-27", href: "https://x.com/emollick/status/2114942007533515261" },
+            { title: "GPT-4 能以 50% 成功率独立工作约 4 分钟，现在的模型能做数周的工作；2026 年 1 月是 agent 工作开始的合理分界", site: "X 帖子 · 100 收藏", date: "2026-11-02", href: "https://x.com/emollick/status/2116987671939875319" },
+          ]}
+        />
+      </Section>
+
+      <Section heading="共同的主线">
+        <NumberedList
+          items={[
+            "去年 12 月到今年初是拐点：Karpathy 说 coding agent“12 月前基本不能用、之后基本能用”，Mollick 把 2026 年 1 月当作 agent 工作的起点，Simon 认为 10 月又是一个拐点。",
+            "少写提示词，多给目标和验证：Boris 说像对同事一样说话，Simon 转述 Claude Code 系统提示词缩减了 80%，Steipete 从不用 plan mode；Boris 和 Steipete 同时强调让 agent 能端到端自我验证。",
+            "Harness 才是产品：Harrison 说 harness 不会被模型吸收、记忆绑定 harness，Steipete 主张用自己的 harness，swyx 说 Claude Code 正变成可改造的通用 harness，Devin 每几个月重写一次。",
+            "把重复劳动变成常驻 agent 和代码：Boris 的维护 routine 几周开了 388 个 PR，Steipete 常驻约 100 个 Codex，Harrison 说公司 agent 的多数运行由定时触发，Amjad 称之为“自驾公司”。",
+            "瓶颈转向人的理解和组织：Karpathy 说人的审查开始跟不上，Mollick 提醒管理幅度和专家被 AI 左右，Amjad 和 Simon 分别警告 coding agent 的安全风险和预算失控。",
+          ]}
+        />
+      </Section>
+    </Page>
+  );
+}
+
+
+</cursor_untrusted_data_1337>

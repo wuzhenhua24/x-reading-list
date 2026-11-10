@@ -1,0 +1,139 @@
+<cursor_untrusted_data_1337 source="ReadCanvas">
+
+Canvas "X 上值得关注的人：人文" (https://cursor.com/canvas/store-761f6cd5-81b2-4bd2-8f66-bada0eceee08/f389ab52-dd7b-4588-9042-4141d3347c9f):
+
+import { Page, Section, Text, LinkCards, TableOfContents, NumberedList } from "grok/canvas";
+
+export default function App() {
+  return (
+    <Page
+      title="X 上值得关注的人：人文"
+      summary="6 位在 X 上持续写注意力、写作、养育、审美和社会心理的人，以及他们 2026 年 1 月到 11 月初最值得一读的帖子。每条一句话讲清要点，收藏数为 11 月 2 日抓取时的数据，日期按北京时间（UTC+8），点开即可看原帖。"
+      width="column"
+      lang="zh-Hans"
+    >
+      <TableOfContents
+        items={[
+          { label: "Henrik Karlsson @phokarlsson" },
+          { label: "Visakan Veerasamy @visakanv" },
+          { label: "David Perell @david_perell" },
+          { label: "Rob Henderson @robkhenderson" },
+          { label: "Erik Hoel @erikphoel" },
+          { label: "Tyler Cowen @tylercowen" },
+          { label: "共同的主线" },
+        ]}
+      />
+
+      <Text>简介里标 * 的事实来自公开常识，没有在本次读到的帖子或账号简介中核实；其余来自他们的 X 简介或帖子本身。为了贴近人文主题，已跳过玩笑、纯政治和两性话题的帖子，即使收藏更高。</Text>
+
+      <Section heading="Henrik Karlsson @phokarlsson">
+        <Text>瑞典随笔作者，X 简介写着“在 Substack 写随笔，最近在想以写作为思考、关系、自我修养和 LLM”，Substack 名为 Escaping Flatland*。他和妻子 Johanna 一起工作，住在丹麦的一座岛上（他的帖子）。今年他有两条短帖收藏过 2000，几乎每条都在讲注意力怎样塑造人。</Text>
+        <LinkCards
+          links={[
+            { title: "感觉不对时，把“为什么不对”说得非常精确，能提取大量信息：一篇随笔草稿让他不舒服，Johanna 问为什么，他发现是结尾太“系蝴蝶结”，调换论点顺序就解决了；只要精确说出现状哪里不对，解法往往就很明显", site: "X 帖子 · 2288 收藏", date: "2026-03-22", href: "https://x.com/phokarlsson/status/2035726089012588778" },
+            { title: "妻子教 8 岁女儿的办法：不直接对孩子说，而是在同一个房间里对他说“我小时候一直没弄懂的一件事是……”，孩子会全身心转过来，想弄清大人在交换什么秘密", site: "X 帖子 · 2140 收藏", date: "2026-03-04", href: "https://x.com/phokarlsson/status/2028970900872151483" },
+            { title: "越把自己当作关注对象，越强化那个“需要被修理”的叙事自我；借 Iris Murdoch 的“unself”，全心投入他人、难题或自然时，反而更清楚地看见自己，那种自我认识更像一种味道而不是一条事实", site: "X 帖子 · 814 收藏", date: "2026-03-05", href: "https://x.com/phokarlsson/status/2029507211605467252" },
+            { title: "读高质量杂志、听认真做的播客，只比刷屏好一点点；真正改变人的阅读由自己策划：先说清自己的需要和问题，再主动去找写得最好的东西，跟引文、读完一位作者的全部作品", site: "X 帖子 · 619 收藏", date: "2026-02-05", href: "https://x.com/phokarlsson/status/2019362364630380612" },
+            { title: "刷社交媒体让生活变“扁平”，是因为注意力需要时间才能凝聚，身体和大脑各系统切换的节奏不同；持续专注下去，体验会越来越生动（附他的随笔《attention》）", site: "X 帖子 · 548 收藏", date: "2026-01-08", href: "https://x.com/phokarlsson/status/2009207703181185144" },
+            { title: "你大概已经知道该做什么，别过度思考，照直觉执行 3 个月再评估；引 Gwern：一个坏计划执行到底，往往比在许多好计划之间不停切换更有信息量", site: "X 帖子 · 475 收藏", date: "2026-01-06", href: "https://x.com/phokarlsson/status/2008489862853226935" },
+            { title: "16 岁和好友骑车从瑞典到芬兰奥兰群岛，没有手机信号，只能求陌生人让他们扎帐篷，第一晚被带到一个国际爵士舞节；这让害羞的他相信世界比想象的更友好，正如 Herzog 说“世界向徒步旅行的人显露自己”", site: "X 帖子 · 471 收藏", date: "2026-02-20", href: "https://x.com/phokarlsson/status/2024797679814054071" },
+            { title: "写作的常见毛病是“自动补全模式”：句子顺着节奏自己写完，模仿句子的声音而不是真实的经历，这是“货物崇拜式写作”；要回到真实的想法和经验，跟句子较劲直到吻合", site: "X 帖子 · 307 收藏", date: "2026-02-18", href: "https://x.com/phokarlsson/status/2024072903596408982" },
+          ]}
+        />
+      </Section>
+
+      <Section heading="Visakan Veerasamy @visakanv">
+        <Text>新加坡作者，X 简介推荐他的电子书《Friendly Ambitious Nerd》和《Introspect》，约 27 万关注者。他以超长的引用推文串著称*；今年两个孩子都还小，帖子从写作和互联网文化转向了养育。</Text>
+        <LinkCards
+          links={[
+            { title: "他说这是读过的关于养育幼儿的文字里最感激的一篇：截图是 John Smillie 的一句话，周日睡到自然醒、窗外新雪、妈妈做了肉桂卷，“但你快 3 岁了，所以你气得发昏”；幼儿的情绪不由处境决定", site: "X 帖子 · 3798 收藏", date: "2026-11-01", href: "https://x.com/visakanv/status/2116860692334862589" },
+            { title: "想练就的养育技巧（附截图）：女儿怕怪兽时，妈妈假装给“怪兽的妈妈”打电话，然后告诉女儿怪兽被罚站了，孩子就去睡了；进入孩子的想象框架，而不是跟它争论", site: "X 帖子 · 872 收藏", date: "2026-10-23", href: "https://x.com/visakanv/status/2113621434736246910" },
+            { title: "整理演讲文字稿时发现，许多“嗯”“呃”“就是”是承重的：删掉后，文字传达出他并不想要、写作时也不会用的确定程度", site: "X 帖子 · 704 收藏", date: "2026-02-09", href: "https://x.com/visakanv/status/2020782286426280442" },
+            { title: "食物中毒吐完后，因重新拥有“默认状态”而满心感激，想起波德莱尔写过的病愈者的狂喜：活着是多么奇妙", site: "X 帖子 · 217 收藏", date: "2026-10-24", href: "https://x.com/visakanv/status/2113980871854416107" },
+            { title: "他一生反复看到的悲剧：人身上最动人的特质，被缺乏感受力的官僚流程低估、扼杀；小时候以为是新加坡特有，后来发现到处都一样", site: "X 帖子 · 161 收藏", date: "2026-07-08", href: "https://x.com/visakanv/status/2074723505732767772" },
+            { title: "给自己定了读 1000 篇 Substack 随笔的任务，读了约 15%：好的写作往往同时关于不止一件事，而多数 Substack 随笔像流媒体时代的电影，一次只讲一件事", site: "X 帖子 · 157 收藏", date: "2026-03-11", href: "https://x.com/visakanv/status/2031633777253036095" },
+            { title: "几十年来总有人劝他删掉“我认为”“在我看来”这类冗余，但他发现这些冗余能筛选并引导出更体贴、更会思考的读者", site: "X 帖子 · 68 收藏", date: "2026-08-13", href: "https://x.com/visakanv/status/2087607174038266172" },
+            { title: "养育的根本难题：孩子生来是你的被抚养者而不是同伴，太早当同伴对待不公平，太久当被抚养者对待也不公平；你的任务是把他们养成同伴，所以要不断更新与他们相处的方式", site: "X 帖子 · 61 收藏", date: "2026-11-02", href: "https://x.com/visakanv/status/2117162069539913745" },
+          ]}
+        />
+      </Section>
+
+      <Section heading="David Perell @david_perell">
+        <Text>X 简介自称“The Writing Guy”，主持播客 How I Write，发帖关于写作、美和建筑。他的长帖多是访谈作家后的要点整理，信息密度高，今年这一组里单帖收藏最高的就是他的 R.F. Kuang 访谈。</Text>
+        <LinkCards
+          links={[
+            { title: "R.F. Kuang 访谈要点：情绪像颜色要混合；每个项目换一种写法，别把习惯的声音当成真实的声音；写的时候感觉多好和成品质量没有关系；零稿用来找到故事跳动的心脏", site: "X 帖子 · 3221 收藏", date: "2026-09-03", href: "https://x.com/david_perell/status/2095207469886718046" },
+            { title: "日常之美的衰落连门票都看得到：古根海姆博物馆的门票选了最省钱的设计，对比老日本火车票、马戏团票和 2002 年世界大赛门票；这种衰落并非不可避免", site: "X 帖子 · 1417 收藏", date: "2026-08-27", href: "https://x.com/david_perell/status/2092732617028472987" },
+            { title: "Wright Thompson 访谈：“一个好细节顶得上 50 个烂句子”；“说一篇稿子写过头了，其实是采访不够”；写作几十年后，关键不在词句而在结构", site: "X 帖子 · 963 收藏", date: "2026-04-02", href: "https://x.com/david_perell/status/2039459448238805166" },
+            { title: "Adrian Tchaikovsky 访谈：每年约 5 本书还保持高质量，怎么规划小说、两种提纲、建构人物与世界、写好结尾", site: "X 帖子 · 759 收藏", date: "2026-01-05", href: "https://x.com/david_perell/status/2008178879316328632" },
+            { title: "Anne Lamott 访谈：内心批评声最响时，“重点不是更努力，而是少抗拒生活”；写作的进步在于更留意已经在身边的东西，“一只鸟一只鸟地来”", site: "X 帖子 · 560 收藏", date: "2026-04-29", href: "https://x.com/david_perell/status/2049482098386342001" },
+            { title: "Ocean Vuong 访谈：“写作 80% 是观看和思考，只有最后一部分是句法”；句子是“经过句法过滤的意识”；引维特根斯坦说词义在于用法，“定义是想象力的敌人”", site: "X 帖子 · 410 收藏", date: "2026-03-27", href: "https://x.com/david_perell/status/2037320578961424543" },
+            { title: "Harlan Coben 访谈：保留足够的恐惧以免敷衍；悬念来自回答问题再打开更大的问题；写人们想在酒吧偷听的对话；从故事已经发生的中间开场", site: "X 帖子 · 379 收藏", date: "2026-09-11", href: "https://x.com/david_perell/status/2098086692045635876" },
+            { title: "建筑为什么变丑了：两次世界大战改变了人的精神；专业阶层的品味与大众脱节（建筑学生的品味和公众截然相反）；许多人们喜爱的东西如今按规范已经不能建", site: "X 帖子 · 333 收藏", date: "2026-08-16", href: "https://x.com/david_perell/status/2088850810440470954" },
+          ]}
+        />
+      </Section>
+
+      <Section heading="Rob Henderson @robkhenderson">
+        <Text>回忆录《Troubled》作者、曼哈顿研究所高级研究员（X 简介）。他在帖子里讲过自己从洛杉矶寄养家庭到空军、再到耶鲁和剑桥读博的经历，“luxury beliefs（奢侈信念）”一词由他在 2019 年提出，同名第二本书已签约（他的帖子）。他的帖子常带政治立场，这里只选社会心理和阶层观察。</Text>
+        <LinkCards
+          links={[
+            { title: "Simon Leys 的一段文字（截图）：咖啡馆收音机突然播出莫扎特单簧管五重奏，众人皱眉，有人马上换台；真正的庸人不是认不出美，而是认得太清楚，好去摧毁它，“受启发的才华对平庸是不可容忍的冒犯”", site: "X 帖子 · 1257 收藏", date: "2026-10-30", href: "https://x.com/robkhenderson/status/2115866405707080164" },
+            { title: "离贫困越远，越发现浪漫化贫困成了时尚：他一路爬过几乎每一级阶层，发现信念随阶层而变，精英流行的观念代价常落在他长大的那种社区", site: "X 帖子 · 603 收藏", date: "2026-08-02", href: "https://x.com/robkhenderson/status/2083941279440760914" },
+            { title: "坏结局的真凶不是贫穷而是不稳定：发展心理学研究里家庭收入与日后结局的关联很弱，搬家次数、照料者更换伴侣次数等“童年不稳定”的关联则强，控制收入后依然成立", site: "X 帖子 · 495 收藏", date: "2026-01-08", href: "https://x.com/robkhenderson/status/2008969226363830549" },
+            { title: "奇怪的倒置：守时、守信、勤奋、自律这些人人都能改进的美德在失去地位，而外貌、天资这类难以改变的特质越来越被看重", site: "X 帖子 · 291 收藏", date: "2026-03-28", href: "https://x.com/robkhenderson/status/2037919613573386672" },
+            { title: "重读布尔迪厄《区分》：精英把财富转成品味信号，即“文化资本”；今天的信号从红酒和艺术变成了“正确的观点”，这就是奢侈信念", site: "X 帖子 · 209 收藏", date: "2026-03-23", href: "https://x.com/robkhenderson/status/2035766963901739051" },
+            { title: "嫉妒更多是青春的症状而不是贫穷的症状：年龄越大嫉妒越少，一项研究里年轻人收入更高却报告更多嫉妒", site: "X 帖子 · 56 收藏", date: "2026-08-30", href: "https://x.com/robkhenderson/status/2094087804611367071" },
+            { title: "故事里情节和人物哪个更重要？人物；语言可能起源于八卦，人类进化出判断他人品格的能力，情节只是逼出人物真面目的考验", site: "X 帖子 · 25 收藏", date: "2026-02-23", href: "https://x.com/robkhenderson/status/2025637000452407570" },
+          ]}
+        />
+      </Section>
+
+      <Section heading="Erik Hoel @erikphoel">
+        <Text>X 简介写着科学家（Bicameral Labs）兼 Substack 作者，Substack 名为 The Intrinsic Perspective（他的帖子链接），也写小说*。今年他创办 Bicameral Labs 专攻意识科学，同时反复写孩子、阅读和 AI 对艺术的冲击。</Text>
+        <LinkCards
+          links={[
+            { title: "Yoto 儿童播放器有多好：孩子们着迷的《夏洛的网》有声版是原著一字不差的 4 小时朗读，不是改编", site: "X 帖子 · 388 收藏", date: "2026-05-18", href: "https://x.com/erikphoel/status/2056047629293756687" },
+            { title: "新论文《A Disproof of LLM Consciousness》：任何可证伪且非平凡的意识理论都不可能适用于 LLM；有意思的是，攻克持续学习可能改变这一结论", site: "X 帖子 · 383 收藏", date: "2026-01-16", href: "https://x.com/erikphoel/status/2011836954443206935" },
+            { title: "外祖父打过瓜达尔卡纳尔岛战役；家里买了印着棕榈树的新浴巾，他那晚喝醉睡不着，第二天浴巾出现在垃圾桶里", site: "X 帖子 · 166 收藏", date: "2026-10-30", href: "https://x.com/erikphoel/status/2115844639781515397" },
+            { title: "创办 Bicameral Labs：几十年来几百种意识理论没有一个被证伪，他的做法是“在负空间作画”，用形式化要求排除大多数理论，再划出可行理论的范围", site: "X 帖子 · 154 收藏", date: "2026-01-16", href: "https://x.com/erikphoel/status/2011888982016344220" },
+            { title: "不想太早让孩子接触 AI：他相信“教育应当重演文明”，大脑最自然的理解方式是按人类文明的顺序走一遍，最新的技术放在最后（附他的文章《How do I tell my kids about AI?》）", site: "X 帖子 · 71 收藏", date: "2026-10-01", href: "https://x.com/erikphoel/status/2105667547404050693" },
+            { title: "悼念《海伯利安》作者 Dan Simmons，文章《为什么你没有更出名？》：世界讨厌通才，“广度没有奖”", site: "X 帖子 · 61 收藏", date: "2026-10-19", href: "https://x.com/erikphoel/status/2111966947026084145" },
+            { title: "他近五年前对 AI 艺术的论证，如今成了教宗的官方立场：人类艺术和机器基于统计生成的东西之间存在本体论差异", site: "X 帖子 · 49 收藏", date: "2026-10-02", href: "https://x.com/erikphoel/status/2106018818594054453" },
+            { title: "他早先预测各领域都会重复 AI 对写书的影响：顶端毫无提升，中间略有改善，长尾是大量垃圾；编程目前也是如此", site: "X 帖子 · 14 收藏", date: "2026-06-07", href: "https://x.com/erikphoel/status/2063597012512092273" },
+          ]}
+        />
+      </Section>
+
+      <Section heading="Tyler Cowen @tylercowen">
+        <Text>乔治梅森大学经济学家*、Marginal Revolution 博客作者*，X 简介列着新书《Talent》和访谈节目 Conversations with Tyler。他的 X 几乎只发链接，价值在于指向的访谈和文章；人文话题主要在 Conversations with Tyler 里，收藏数普遍不高。</Text>
+        <LinkCards
+          links={[
+            { title: "客串主持《纽约时报》播客 Interesting Times，和 Dwarkesh Patel 聊旧金山与 AI 的未来", site: "X 帖子 · 390 收藏", date: "2026-10-15", href: "https://x.com/tylercowen/status/2110705150616830015" },
+            { title: "新的“生成式书”，全部由他本人写成，最后一章讲 AI 将如何革新科学，以及我们自己", site: "X 帖子 · 306 收藏", date: "2026-03-26", href: "https://x.com/tylercowen/status/2037132035853107219" },
+            { title: "对 AI 有很悲观的担忧，就说出哪些市场价格能支持或证实它，这才叫认真对待（附网络安全股在一次安全事件后的跌幅和回升数据）", site: "X 帖子 · 162 收藏", date: "2026-09-04", href: "https://x.com/tylercowen/status/2095868117649952809" },
+            { title: "Conversations with Tyler：与《枪炮、病菌与钢铁》作者 Jared Diamond 的对谈", site: "X 帖子 · 66 收藏", date: "2026-09-09", href: "https://x.com/tylercowen/status/2097647527545741628" },
+            { title: "书正在越来越像提示词的合集，或者说是提示人去想出 LLM 提示词？", site: "X 帖子 · 31 收藏", date: "2026-01-25", href: "https://x.com/tylercowen/status/2015417745714663430" },
+            { title: "Conversations with Tyler：与 Henry Oliver 的文学对谈", site: "X 帖子 · 19 收藏", date: "2026-03-04", href: "https://x.com/tylercowen/status/2029174373253308897" },
+            { title: "Conversations with Tyler：与艺术史家 Andrew Graham-Dixon 谈视觉艺术、维米尔和英国艺术", site: "X 帖子 · 7 收藏", date: "2026-07-22", href: "https://x.com/tylercowen/status/2079896013528092880" },
+          ]}
+        />
+      </Section>
+
+      <Section heading="共同的主线">
+        <NumberedList
+          items={[
+            "注意力是一切的底层：Henrik 说注意力需要时间凝聚、全心投入他人反而看清自己，Ocean Vuong 说写作 80% 是观看，Anne Lamott 说进步在于更留意身边，Wright Thompson 说一个好细节顶 50 个烂句子。",
+            "好写作是对准真实，而不是顺着声音：Henrik 批评“自动补全式写作”，R.F. Kuang 说写得顺手与写得好无关，Visakan 发现“嗯”和“我认为”这类看似多余的词其实在承重。",
+            "养育是今年最集中的话题：Henrik 的妻子用“偷听”教孩子，Visakan 说养育是把孩子养成同伴，Erik 主张教育重演文明、先读书后 AI，Rob 指出伤害孩子的是不稳定而不只是贫穷。",
+            "美与品味背后是地位：Rob 借布尔迪厄说观点已成新的文化资本，转引 Simon Leys 说庸人认得出美才要摧毁它，David 把建筑和门票变丑部分归因于专业阶层与大众的品味脱节。",
+            "面对 AI，人文的回答是守住人的部分：Erik 论证 LLM 没有意识、AI 艺术与人类艺术有本体论差异，Tyler 自己写完“生成式书”并追问书是否正在变成提示词，Erik 预测顶端作品不会因 AI 变好。",
+          ]}
+        />
+      </Section>
+    </Page>
+  );
+}
+
+
+</cursor_untrusted_data_1337>

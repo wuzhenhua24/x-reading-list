@@ -1,0 +1,12 @@
+# build output (regenerate with the build steps in README)
+dist/
+_worker.js
+deploy2.js
+# screenshots and old versions
+shots/
+*_old.*
+search.js
+deploy.js
+mkdeploy.py
+__pycache__/
+*.pyc

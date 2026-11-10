@@ -1,0 +1,151 @@
+<cursor_untrusted_data_1337 source="ReadCanvas">
+
+Canvas "X 上值得关注的人：教育与儿童成长" (https://cursor.com/canvas/store-761f6cd5-81b2-4bd2-8f66-bada0eceee08/e59bf335-ba36-498f-8e81-e2cdbafad8c5):
+
+import { Page, Section, Text, LinkCards, TableOfContents, NumberedList } from "grok/canvas";
+
+export default function App() {
+  return (
+    <Page
+      title="X 上值得关注的人：教育与儿童成长"
+      summary="7 位在 X 上持续写幼儿认知、养育、屏幕与学校、阅读和教育研究的人，以及他们 2026 年 1 月到 11 月初最值得一读的帖子。每条一句话讲清要点，收藏数为 11 月 2 日抓取时的数据，日期按北京时间（UTC+8），点开即可看原帖。"
+      width="column"
+      lang="zh-Hans"
+    >
+      <TableOfContents
+        items={[
+          { label: "Alison Gopnik @AlisonGopnik" },
+          { label: "Jonathan Haidt @JonHaidt" },
+          { label: "Lenore Skenazy @FreeRangeKids" },
+          { label: "Erik Hoel @erikphoel" },
+          { label: "Henrik Karlsson @phokarlsson" },
+          { label: "Bryan Caplan @bryan_caplan" },
+          { label: "Daisy Christodoulou @daisychristo" },
+          { label: "共同的主线" },
+        ]}
+      />
+
+      <Text>简介里标 * 的事实来自公开常识，没有在本次读到的帖子或账号简介中核实；其余来自他们的 X 简介或帖子本身。为了贴近教育与养育主题，已跳过纯政治、玩笑和广告类帖子，即使收藏更高。Henrik Karlsson 和 Erik Hoel 也出现在“人文”那一页，这里只选他们写孩子和学习的帖子。</Text>
+
+      <Section heading="Alison Gopnik @AlisonGopnik">
+        <Text>认知科学家、心理学家、哲学家，X 简介列着《Scientist in the Crib》《The Philosophical Baby》《The Gardener and the Carpenter》三本书，自称“六个孩子的祖母”。她在加州大学伯克利分校做研究*，核心观点是孩子不是小号的成人，而是专门负责“探索”的学习者。她的帖子多是论文和访谈链接，收藏数不高，但几乎每条都是幼儿学习研究的一手来源。</Text>
+        <LinkCards
+          links={[
+            { title: "新论文：孩子靠内在动机驱动的行动来构建因果模型，这是孩子会做而 LLM 不会做的事（与 Eunice Yiu 等合作，收在一期“世界模型”专刊里）", site: "X 帖子 · 28 收藏", date: "2026-05-18", href: "https://x.com/AlisonGopnik/status/2056067541777477648" },
+            { title: "一篇新论文用基于主体的模型说明：充满探索的童年，能让整个人群更有创新力", site: "X 帖子 · 19 收藏", date: "2026-01-23", href: "https://x.com/AlisonGopnik/status/2014411650867282285" },
+            { title: "她最喜欢的研究之一（与 Elizabeth Bonawitz 合作的预印本）：孩子搜索“假设空间”时比成人更广、更多变", site: "X 帖子 · 13 收藏", date: "2026-06-18", href: "https://x.com/AlisonGopnik/status/2067369126105133519" },
+            { title: "MIT 毕业典礼演讲上线：把科学家、孩子、人类进化、照料孩子的祖母和 18 世纪的 Lunar Society 串在一起，讲科学家为什么最像婴儿和祖父母", site: "X 帖子 · 12 收藏", date: "2026-07-17", href: "https://x.com/AlisonGopnik/status/2077807164375310680" },
+            { title: "推荐 Peter Gray 的文章：怎样走出“密集型养育”的陷阱，把独立还给孩子", site: "X 帖子 · 11 收藏", date: "2026-06-19", href: "https://x.com/AlisonGopnik/status/2067653182776586720" },
+            { title: "Early Childhood Matters 系列播客：她关于祖父母与孩子的新想法，引用 Kristen Hawkes 的“祖母假说”和 Michael Gurven 关于长者作为教师的研究", site: "X 帖子 · 10 收藏", date: "2026-09-24", href: "https://x.com/AlisonGopnik/status/2102816296597635226" },
+            { title: "推荐 Kelsey Piper 的文章《反对咬紧牙关式的养育》（Against white-knuckle parenting）", site: "X 帖子 · 4 收藏", date: "2026-01-15", href: "https://x.com/AlisonGopnik/status/2011522820711596218" },
+            { title: "《MIT 科技评论》报道她和 Mike Frank 的观点：孩子比 AI 学到的更多", site: "X 帖子 · 3 收藏", date: "2026-08-25", href: "https://x.com/AlisonGopnik/status/2091932622972932228" },
+          ]}
+        />
+      </Section>
+
+      <Section heading="Jonathan Haidt @JonHaidt">
+        <Text>纽约大学斯特恩商学院社会心理学家，X 简介写着“致力于扭转以手机为中心的童年”，约 47 万关注者。今年 3 月是《The Anxious Generation（焦虑的一代）》出版两周年（他的帖子），他也是 Let Grow 的联合创始人之一（Lenore Skenazy 的帖子）。他的帖子很多是立法和诉讼新闻，这里只选对家长和学校有直接用处的证据与做法。</Text>
+        <LinkCards
+          links={[
+            { title: "短视频（TikTok、Reels 等）损害认知的证据越来越多：问题不只是内容，而是注意力被切碎、规划未来的能力下降", site: "X 帖子 · 964 收藏", date: "2026-10-07", href: "https://x.com/JonHaidt/status/2107841593172795651" },
+            { title: "英国政府发布 0-5 岁屏幕指南：2 岁以下不单独看屏幕（和家人视频通话除外），2-5 岁每天最多 1 小时，吃饭时和睡前 1 小时不用屏幕，大人陪看、选慢节奏内容，不要 AI 玩具", site: "X 帖子 · 587 收藏", date: "2026-04-22", href: "https://x.com/JonHaidt/status/2046954585059713153" },
+            { title: "挪威 2016 年给每个学生发 iPad，教育立刻受损，如今正在撤回；许多国家在回到纸质书和手写", site: "X 帖子 · 582 收藏", date: "2026-04-16", href: "https://x.com/JonHaidt/status/2044781623959535790" },
+            { title: "无手机学校带来走廊里更多笑声、午餐室很吵、图书馆借书增加；他转发的报道说达拉斯学区禁手机一年后借书量增长 24%", site: "X 帖子 · 283 收藏", date: "2026-04-28", href: "https://x.com/JonHaidt/status/2049105019983564899" },
+            { title: "一位老师的观察：谁从小被 iPad 带大、谁被保护，存在明显的社会阶层差异，会放大不平等；他转发的帖子说幼儿园老师“看孩子有多分心焦虑，就知道谁有自己的 iPad”", site: "X 帖子 · 271 收藏", date: "2026-04-26", href: "https://x.com/JonHaidt/status/2048163969869795787" },
+            { title: "最新 PISA 报告：全球阅读能力下滑在疫情停课结束后并未逆转，2022 年后反而加速；无手机学校的学生上课更少被设备分心，把规则交给每位老师自定是最差的两种做法", site: "X 帖子 · 99 收藏", date: "2026-09-09", href: "https://x.com/JonHaidt/status/2097692960108216374" },
+            { title: "他对“急着把 AI 引入童年和教育大概是个错误”最完整的论述（为韩国 YTN 制作，附插图）", site: "X 帖子 · 35 收藏", date: "2026-07-29", href: "https://x.com/JonHaidt/status/2082218707288252518" },
+            { title: "给家长区分好坏屏幕时间的简单规则：“长故事好，快多巴胺坏”", site: "X 帖子 · 12 收藏", date: "2026-07-11", href: "https://x.com/JonHaidt/status/2075921158235685316" },
+          ]}
+        />
+      </Section>
+
+      <Section heading="Lenore Skenazy @FreeRangeKids">
+        <Text>X 简介写着 Free-Range Kids（自由放养的孩子）创始人、Let Grow 主席；她在帖子里说 Jonathan Haidt 和心理学家 Peter Gray 是 Let Grow 的另两位联合创始人。她因让 9 岁儿子独自坐纽约地铁回家而成名*。她的帖子收藏数很低、语气很热烈，但核心论点清楚：孩子的焦虑往往来自独立太少，而不是危险太多。</Text>
+        <LinkCards
+          links={[
+            { title: "我们为什么给孩子排满课外班：我们被教导像投资员工一样投资孩子的“人力资本”，于是免费的东西（自由玩耍、走路去商店）被当成不如花钱买的课；但独立和玩耍就像空气，免费、看不见，却同样必需（她的《华尔街日报》文章）", site: "X 帖子 · 20 收藏", date: "2026-10-19", href: "https://x.com/FreeRangeKids/status/2112184121124401230" },
+            { title: "想让家长松口气：很多结果不由我们的养育技巧或纠结的上百万个决定决定，而由基因决定；她推荐《The Nurture Assumption》", site: "X 帖子 · 15 收藏", date: "2026-07-14", href: "https://x.com/FreeRangeKids/status/2076772597048447011" },
+            { title: "11 岁以前就给孩子独立：引心理学家 Camilo Ortiz，“焦虑靠回避运转”，爬高一根树枝的孩子学到“我能行”；不是把孩子的恐惧说没，而是给真实的独立让神经系统自己更新", site: "X 帖子 · 13 收藏", date: "2026-10-30", href: "https://x.com/FreeRangeKids/status/2116180762030383228" },
+            { title: "“信心会泛化”：一项研究只治疗怕蜘蛛或怕高中的一种，结果两种都减轻；孩子独自跑腿、玩耍，也会让他们敢于面对没直接练过的事，比如自己睡、去看牙", site: "X 帖子 · 12 收藏", date: "2026-07-07", href: "https://x.com/FreeRangeKids/status/2074523299036455238" },
+            { title: "孩子们其实想要 80 年代那样的放养童年，现实中没有，才上网找同伴：他们上网是“默认”而非“渴望”（附 Harris 对 8-12 岁孩子的调查）", site: "X 帖子 · 6 收藏", date: "2026-07-07", href: "https://x.com/FreeRangeKids/status/2074195793745997946" },
+            { title: "南卡一所乡村初中留级严重到有学生开车上学；新校长加了课间休息、提早一小时开门让孩子玩和闲逛，如今学校被评为“优秀”", site: "X 帖子 · 6 收藏", date: "2026-07-11", href: "https://x.com/FreeRangeKids/status/2075689155170865532" },
+            { title: "想让孩子离开屏幕，替代品不能是“和爸妈一起做好玩的事”：大人没有放学后的 6 小时，孩子想和孩子玩；办法是让学校课后开放给不分年龄、不带手机的自由玩耍", site: "X 帖子 · 3 收藏", date: "2026-10-20", href: "https://x.com/FreeRangeKids/status/2112544041732890735" },
+            { title: "密歇根大学的调查：9-11 岁孩子的家长里只有 15% 让孩子不带大人去“不给糖就捣蛋”", site: "X 帖子 · 2 收藏", date: "2026-10-17", href: "https://x.com/FreeRangeKids/status/2111150523470524781" },
+          ]}
+        />
+      </Section>
+
+      <Section heading="Erik Hoel @erikphoel">
+        <Text>X 简介写着科学家（Bicameral Labs）兼 Substack 作者，Substack 名为 The Intrinsic Perspective。他写过一篇被广泛转发的《我怎样教 3 岁孩子识字》（他引用的帖子），主张尽早教阅读、让读书成为孩子的主要娱乐，并且把 AI 放到最后再接触。</Text>
+        <LinkCards
+          links={[
+            { title: "后续：4 岁的孩子已经每天自主读书一年，早教阅读花的那些小时，单凭让养育变轻松这一点就完全值得", site: "X 帖子 · 686 收藏", date: "2026-05-19", href: "https://x.com/erikphoel/status/2056686804997206487" },
+            { title: "Yoto 儿童播放器有多好：孩子们着迷的《夏洛的网》有声版是原著一字不差的 4 小时朗读，不是改编；可作为 iPad 的替代", site: "X 帖子 · 388 收藏", date: "2026-05-18", href: "https://x.com/erikphoel/status/2056047629293756687" },
+            { title: "不想太早让孩子接触 AI：他相信“教育应当重演文明”，大脑最自然的理解方式是按人类文明的顺序走一遍，最新的技术放在最后（附文章《How do I tell my kids about AI?》）", site: "X 帖子 · 71 收藏", date: "2026-10-01", href: "https://x.com/erikphoel/status/2105667547404050693" },
+            { title: "支持起诉教育软件 i-Ready：它被超过 1400 万学生使用，约占美国 K-12 学生三分之一，教育太重要，大规模搞砸必须承担后果", site: "X 帖子 · 11 收藏", date: "2026-08-07", href: "https://x.com/erikphoel/status/2085426349674570018" },
+            { title: "让孩子成为终身读者现在比以往更重要，最可靠的办法是让阅读尽早成为他们的主要娱乐，也就是尽可能早地教", site: "X 帖子 · 5 收藏", date: "2026-08-07", href: "https://x.com/erikphoel/status/2085513407877239001" },
+          ]}
+        />
+      </Section>
+
+      <Section heading="Henrik Karlsson @phokarlsson">
+        <Text>瑞典随笔作者，X 简介写着“在 Substack 写随笔，最近在想以写作为思考、关系、自我修养和 LLM”。他有两个女儿（帖子里提到 Rebecka 和 Maud），常写和妻子 Johanna 怎样带孩子。他的养育帖子不讲方法清单，而讲成人怎样对待孩子的注意力和自主。</Text>
+        <LinkCards
+          links={[
+            { title: "妻子教 8 岁女儿的办法：不直接对孩子说，而是在同一个房间里对他说“我小时候一直没弄懂的一件事是……”，孩子会全身心转过来，想弄清大人在交换什么秘密", site: "X 帖子 · 2140 收藏", date: "2026-03-04", href: "https://x.com/phokarlsson/status/2028970900872151483" },
+            { title: "16 岁和好友骑车从瑞典到芬兰奥兰群岛，没有手机信号，父母同意后也不知道他们在哪，只能求陌生人让他们扎帐篷；这让害羞的他觉得世界比想象的更友好、更值得出去闯", site: "X 帖子 · 471 收藏", date: "2026-02-20", href: "https://x.com/phokarlsson/status/2024797679814054071" },
+            { title: "向有孩子的人提问：你们怎样帮孩子培养能动性？他指的是两种能力，向内找到自己觉得有意义的项目，以及把它做成的自主、韧性和创造力（回复区值得一读）", site: "X 帖子 · 172 收藏", date: "2026-01-25", href: "https://x.com/phokarlsson/status/2015405440654307388" },
+            { title: "引 John Holt：孩子只有在害怕世界、被打败时才把自己塞进小漏斗小盒子；做自己热爱的事时，她会像树一样向所有方向生长", site: "X 帖子 · 53 收藏", date: "2026-02-23", href: "https://x.com/phokarlsson/status/2025911267739754659" },
+            { title: "和妻子谈自主：人像强化学习系统，婴儿哭了发现大人紧张、需求没被满足，就学会压抑眼泪；这样学出的策略只求“够用”，常带着奇怪的副作用", site: "X 帖子 · 42 收藏", date: "2026-02-10", href: "https://x.com/phokarlsson/status/2021139936406102477" },
+            { title: "和孩子相处时，出问题永远是大人的责任，这反而让人平静；负责不等于不犯错，失控后要修复、谈一谈，适度的摩擦正好是一起谈心理和行为的机会", site: "X 帖子 · 33 收藏", date: "2026-01-14", href: "https://x.com/phokarlsson/status/2011409995582074935" },
+            { title: "和两个女儿在雪堆里挖隧道，想起 90 年代的童年；两条隧道打通的一刻，他觉得这就像对话，从几铲开始，最后大到可以迷失其中", site: "X 帖子 · 4 收藏", date: "2026-01-11", href: "https://x.com/phokarlsson/status/2010296607279825227" },
+          ]}
+        />
+      </Section>
+
+      <Section heading="Bryan Caplan @bryan_caplan">
+        <Text>乔治梅森大学经济学教授，X 简介写着四个孩子的父亲，著有《Selfish Reasons to Have More Kids（多生孩子的自私理由）》和《The Case Against Education（反对教育）》。他的立场很极端：学校教育主要是“信号”，养育对孩子长大后的结局影响被严重高估。这里跳过了他的移民、IQ 和政治帖，只选关于养育和学习的。</Text>
+        <LinkCards
+          links={[
+            { title: "他转引的一段话：家长给孩子安排的那些“认知启蒙”活动并不重要；养育效果像一条 S 曲线，只要不虐待孩子就到了平台期，直升机家长在平台上投入却零回报", site: "X 帖子 · 67 收藏", date: "2026-03-03", href: "https://x.com/bryan_caplan/status/2028510412107395576" },
+            { title: "转引 Alex Tabarrok 的经典一句：“我们在做中学，所以不做就学不到”", site: "X 帖子 · 49 收藏", date: "2026-09-10", href: "https://x.com/bryan_caplan/status/2097771205277188336" },
+            { title: "教育最大的两个因果效应是提高收入、提高配偶的学历；被热议却很小的两个是你学到并记住多少、以及你的政治和社会观点", site: "X 帖子 · 31 收藏", date: "2026-09-04", href: "https://x.com/bryan_caplan/status/2095878000759746919" },
+            { title: "附和 Robin Hanson“等成功了再生孩子是个糟糕的计划”：如果孩子早早生育，给他们钱是个很好的计划", site: "X 帖子 · 15 收藏", date: "2026-04-16", href: "https://x.com/bryan_caplan/status/2044597265847742949" },
+            { title: "即使是智商极高、会做研究的科学家，到了元层面也会犯迷糊：聪明人的“学习迁移”同样很低", site: "X 帖子 · 13 收藏", date: "2026-02-03", href: "https://x.com/bryan_caplan/status/2018394955320787231" },
+            { title: "他的文章引语：养育改变孩子成年结局的力量确实被严重高估，但给儿子们一个更好的童年完全在我能力范围内", site: "X 帖子 · 9 收藏", date: "2026-10-02", href: "https://x.com/bryan_caplan/status/2106015424085438939" },
+            { title: "AI 会慢慢让世界变好，但教育系统失灵到可能变得更糟：几十年来它 80% 是空心的，空心到 95% 钱也照样会来", site: "X 帖子 · 4 收藏", date: "2026-04-13", href: "https://x.com/bryan_caplan/status/2043710119855214904" },
+          ]}
+        />
+      </Section>
+
+      <Section heading="Daisy Christodoulou @daisychristo">
+        <Text>英国教育研究者，X 简介写着教育科技公司 No More Marking 的教育总监，著有《Seven Myths about Education》《Making Good Progress》《Teachers vs Tech》。她代表“知识为本”的传统派，常用认知科学和测评数据反驳“可迁移技能”之类的流行说法。她主要写英国中小学政策，离幼儿较远，但对“孩子到底怎样学会东西”很有分量。</Text>
+        <LinkCards
+          links={[
+            { title: "“可迁移技能”有个 19 世纪的祖先叫“形式训练”：认为学好一门难课（通常是希腊语或拉丁语）大脑就能万事皆通，它深刻影响了英国文官制度，但它是真的吗？", site: "X 帖子 · 87 收藏", date: "2026-09-14", href: "https://x.com/daisychristo/status/2099207745333305825" },
+            { title: "Bloom 的“2 个标准差”一对一辅导研究是教育研究里设计最差、最误导的论文之一：只有几百个孩子上了 7 小时入门地图课，用非标准化测验衡量；40 年后还有人想复制它当圣杯", site: "X 帖子 · 59 收藏", date: "2026-07-08", href: "https://x.com/daisychristo/status/2074600546304999616" },
+            { title: "PISA 不是唯一的国际测试：更侧重课程知识的 TIMSS 和 PIRLS 中，英格兰也是东亚以外唯一在所有项目都进前 10 的国家", site: "X 帖子 · 55 收藏", date: "2026-10-06", href: "https://x.com/daisychristo/status/2107196722141143334" },
+            { title: "最新 PISA 的少有人报道的细节：英格兰 81% 的孩子所在学校禁手机，远高于其他西方国家；英格兰也是少数没有出现“觉得学新东西很无聊”的学生比例上升的国家", site: "X 帖子 · 44 收藏", date: "2026-09-24", href: "https://x.com/daisychristo/status/2103042014933594198" },
+            { title: "她担心很多人提倡教口语表达和职业技能，并非重视它们本身，而是以为学业吃力的孩子会擅长这些；可如果学业吃力的孩子在这些方面也不行呢？（附同事的数据分析）", site: "X 帖子 · 19 收藏", date: "2026-11-01", href: "https://x.com/daisychristo/status/2116841626895061446" },
+            { title: "AI 评卷在澳大利亚的表现：六年级写作中，AI 与 9914 份教师判断的一致率为 79%，与通常人与人之间的一致率相近", site: "X 帖子 · 0 收藏", date: "2026-10-29", href: "https://x.com/daisychristo/status/2115673741485019146" },
+          ]}
+        />
+      </Section>
+
+      <Section heading="共同的主线">
+        <NumberedList
+          items={[
+            "屏幕与 AI 要晚、要慢：英国给 0-5 岁定了 1 小时上限，Haidt 的规则是“长故事好，快多巴胺坏”，Erik 主张教育重演文明、AI 放到最后，Gopnik 强调孩子构建因果模型的方式是 LLM 没有的。",
+            "孩子需要的是独立和自由玩耍，而不是更多安排：Skenazy 说独立像空气一样免费却必需、信心会泛化，Gopnik 推荐走出密集型养育，Henrik 16 岁骑车远行让他相信世界是友好的。",
+            "养育的“投入”被高估，关系和氛围被低估：Caplan 认为启蒙活动在 S 曲线平台上零回报，Skenazy 转述基因的作用让家长松口气，Henrik 则把重点放在大人如何承担责任、如何修复关系。",
+            "阅读是最值得早投入的能力：Erik 的 4 岁孩子每天自主读书一年，PISA 显示全球阅读能力仍在下滑，无手机学校借书量上升，Yoto 一字不差的有声书被几位作者推荐。",
+            "对教育“神话”保持怀疑：Daisy 拆解 Bloom 的 2 个标准差研究和“可迁移技能”，Caplan 说聪明人的学习迁移也很低，Haidt 用挪威撤回 iPad 的例子提醒科技进课堂未必是进步。",
+          ]}
+        />
+      </Section>
+    </Page>
+  );
+}
+
+
+</cursor_untrusted_data_1337>
