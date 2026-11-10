@@ -14,7 +14,7 @@ FEATURE = ('thariq','专题：Thariq (@trq212)','Claude Code 团队前成员 Tha
 SHORT = {k:t for k,t,_ in CATS}; SHORT['thariq'] = 'Thariq 专题'
 NAVSHORT = {'business':'创业商业','thinking':'思维投资','ai':'AI 与 Agent','humanities':'人文','education':'教育','thariq':'Thariq 专题'}
 NUM = {k:'%02d'%(i+1) for i,(k,_,_) in enumerate(CATS)}
-NOTE = '收藏数为 2026-11-02 抓取时的数据，之后会变化；人物简介中标 * 的内容来自公开常识，未在帖子或账号简介中核实。所有链接指向 x.com 原帖。'
+NOTE = '收藏数为 2026-11-10 刷新的数据，之后会变化；人物简介中标 * 的内容来自公开常识，未在帖子或账号简介中核实。所有链接指向 x.com 原帖。'
 ORDER = [c[0] for c in CATS] + ['thariq']
 
 ICON_EXT = '<svg class="ic" viewBox="0 0 16 16" aria-hidden="true"><path d="M6 3h7v7M13 3 6.5 9.5M11 9.5V13H3V5h3.5" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/></svg>'
@@ -136,7 +136,7 @@ def page(key):
     tochead = f'本页 {count_people(key)} 人' if is_people else f'本页 {n} 个主题'
     toclist = f'<ol class="toc">{"".join(toc)}</ol>'
     stats = f'<span><b>{count_people(key)}</b> 人</span>' if is_people else ''
-    stats += f'<span><b>{count_posts(key)}</b> 条精选</span><span>数据截至 <b>2026-11-02</b></span>'
+    stats += f'<span><b>{count_posts(key)}</b> 条精选</span><span>数据截至 <b>2026-11-10</b></span>'
     body = f'''<section class="phero"><div class="wrap"><a class="crumb" href="/">首页</a><span class="crumb-sep">/</span><span class="kick">{kicker}</span>
 <h1>{e(disp)}</h1><p class="lede">{e(p["summary"])}</p><p class="stats">{stats}</p>{f'<div class="pnote">{notes}</div>' if notes else ''}</div></section>
 <div class="wrap cols">
@@ -178,7 +178,7 @@ legend = ''.join(f'<span class="c-{k}"><i></i>{e(NAVSHORT[k])}</span>' for k in 
 home = f'''<section class="hero"><div class="wrap hgrid"><div><p class="kick">精选阅读清单 · 2026</p>
 <h1>X 上值得关注的人</h1>
 <p class="lede">一组按主题整理的 X（Twitter）阅读清单：创业与产品、思维与投资、AI 与 Agent、人文、教育与儿童成长，外加一份 Thariq 专题。每个人一段简介，配上 2026 年最值得一读的帖子，每条一句话讲清要点，点开即可看原帖。</p>
-<dl class="hstats"><div><dt>人物</dt><dd>{len(people)}</dd></div><div><dt>精选帖子</dt><dd>{total_posts}</dd></div><div><dt>清单</dt><dd>{len(ORDER)}</dd></div><div><dt>数据截至</dt><dd class="sm">2026-11-02</dd></div></dl>
+<dl class="hstats"><div><dt>人物</dt><dd>{len(people)}</dd></div><div><dt>精选帖子</dt><dd>{total_posts}</dd></div><div><dt>清单</dt><dd>{len(ORDER)}</dd></div><div><dt>数据截至</dt><dd class="sm">2026-11-10</dd></div></dl>
 <p class="hcta"><a class="btn" href="/people">{ICON_SEARCH}按人名查找</a><a class="btn ghost" href="#lists">浏览清单 {ICON_ARROW}</a></p></div>
 <aside class="wall" aria-label="收录的人物"><p class="wh">收录的 {len(people)} 人</p><div class="wgrid">{wall}</div><p class="legend">{legend}</p></aside></div></section>
 <section class="wrap home" id="lists"><div class="shead"><h2>六份清单</h2><p>每份清单都以“共同的主线”收尾</p></div>
